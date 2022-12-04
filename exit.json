@@ -1,19 +1,18 @@
 {
 
-  "Visibility": "GONE",
+  "Visibility": "VISIBLE",
 
-  "Title": "Test",
+  "txt": "Test",
 
-  "Description": "Test Message",
+  "title": "Test Message",
 
-  "MainTextButton": "Update",
+  "des": "Update",
 
-  "Cancelable": "true",
+  "updat": "Update",
 
-  "CancelButtonText": "Cancel",
+  "image": "https://www.shutterstock.com/image-vector/five-star-sign-vector-illustration-260nw-493904923.jpg",
 
-  "DownloadLink": "https://google.com",
-
-  "Version": "1.1"
+  "click": "www.example.com",
 
 }
+
