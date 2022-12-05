@@ -10,7 +10,7 @@ update:"Join GP",
 
  Cancelable:"false",
  
- button:"false",
+ button:"true",
  
  main:"#C62828",
  
