@@ -8,11 +8,11 @@ des:"Review 5 Stars ",
 
 ddd:"PlayStore Click",
 
- Cancelable:"false",
+ Cancelable:"true",
  
  button:"true",
  
- main:"#C62828",
+ main:"#673AB7",
  
  out:"#FFFFFF",
  
