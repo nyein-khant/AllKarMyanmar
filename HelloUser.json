@@ -12,6 +12,10 @@ update:"Join GP",
  
  button:"false",
  
+ main:"#C62828",
+ 
+ out:"#FFFFFF",
+ 
 image:"https://thumbs.dreamstime.com/z/woman-warehouse-working-tablet-packing-boxes-racks-warehouse-worker-verification-goods-accounting-164043539.jpg",
 
 click:"https://t.me/FHAFreeChannel"}
