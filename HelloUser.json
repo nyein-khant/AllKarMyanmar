@@ -1,4 +1,4 @@
-{Visibility:"GONE",
+{Visibility:"VISIBLE",
   
   txt:"hello",
 
@@ -8,7 +8,7 @@ des:" Dark Site ASM JKS",
 
 update:"Join GP",
 
- Cancelable:"true",
+ Cancelable:"false",
  
 image:"https://thumbs.dreamstime.com/z/woman-warehouse-working-tablet-packing-boxes-racks-warehouse-worker-verification-goods-accounting-164043539.jpg",
 
