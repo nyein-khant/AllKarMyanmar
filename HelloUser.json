@@ -1,8 +1,8 @@
 {Visibility:"VISIBLE",
   
-  tip:"ADM ရဲ့ Telegram Channel လေးကို နိပ့်ပြီး ဝင်ထားကြပါဦးနော်",
+  tip:"ပိုမိုကောင်းမွန်ရာအသုံးပြုရန်VPNချိတ်ဆက်ထားပါ ",
 
-title:"Telegram Channel Join Click",
+title:"Please VPN Connect",
 
 des:"VPN ချိတ်ဆက်ပြီးအသုံးပြုရန်လိုအပ်သည်",
 
@@ -10,7 +10,7 @@ ddd:"Telegram  Click",
 
  Cancelable:"true",
  
- button:"false",
+ button:"true",
  
  main:"#000000",
  
