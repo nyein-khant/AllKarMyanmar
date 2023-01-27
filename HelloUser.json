@@ -10,9 +10,9 @@ ddd:"Telegram  Click",
 
  Cancelable:"true",
  
- button:"true",
+ button:"false",
  
- main:"#0288D1",
+ main:"#000000",
  
  out:"#FFFFFF",
  
