@@ -1,10 +1,10 @@
 {
 
-  "Visibility": "GONE",
+  "Visibility": "VISIBLE",
 
   "Title": "New Update",
 
-  "Description": "Video တွေကြည့်မရတာဖစ်နေလို့ခနပိတ်ထားလိုင်ပါတယ်",
+  "Description": "Update Version 6.5 ပါနော်ဂေါင်းကြီးတို့",
 
   "MainTextButton": "Update Install ",
 
@@ -12,7 +12,7 @@
 
   "CancelButtonText": "Cancel",
 
-  "DownloadLink": "",
+  "DownloadLink": "https://www.mediafire.com/file/reo4nn2jw7pbg5x/Dark_Site_6.5.apk/file",
 
   "Version": "7.0"
 
