@@ -10,12 +10,12 @@ ddd:"Telegram Click",
 
  Cancelable:"true",
  
- button:"true",
+ button:"false",
  
  main:"#000000",
  
  out:"#FFFFFF",
  
-image:"https://hogatoga.com/wp-content/uploads/2021/02/Find-and-Join-Telegram-channel-hogatoga.jpg",
+image:"https://i.imgur.com/1O29ZVP.jpg",
 
 clicks:"https://t.me/+FU5rgniSxEg5NDdl"}
