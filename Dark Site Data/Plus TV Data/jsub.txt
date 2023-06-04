@@ -6288,4 +6288,50 @@ Blue TV ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ
 "photo5":"https://pics.dmm.co.jp/digital/video/miaa00812/miaa00812jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/wmuo96zawh0uqvg/miaa-812hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"RBD 247 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူဌေးမသိအောင် အချက်အလက်တွေယူကြည့်တာ အလုပ်သမားဦးလေးကြီးက တွေ့သွားလို့
+အကြပ်ကိုင်ခံနေရတဲ့ ဝန်ထမ်းမလေး
+မင်းသမီးနာမည် Asami Ogawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/r/rbd/rbd00247/rbd00247_dmb_s.mp4",
+"download":"https://www.mediafire.com/file/5civ8dbr7bx5omd/rbd-247sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222410/1666753774.jpg",
+"photo2":"https://img3.javmost.cx/images/RBD-247.webp",
+"photo3":"https://pics.dmm.co.jp/digital/video/rbd00247/rbd00247jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/rbd00247/rbd00247jp-3.jpg",
+"photo5":"https://pics.vpdmm.cc/digital/video/rbd00247/rbd00247jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/qy5vuznhj3qa0vl/rbd-247hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 427 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းအလုပ်သွားတုန်း သူတို့လင်မယားအပေါ်
+ကူညီပေးခဲ့သော ဦးလေးကြီးကို အိမ်နားမှာတွေ့လို့ ကျေးဇူးတင်တဲ့အနေနဲ့ ‌အိမ်ခေါ်ပြီးကော်ဖီတိုက်မိပါတယ် 
+ဒါကိုဦးလေးကြီးက သူ့ကိုအထာပေးတယ်ထင်ပြီး ရှယ်တီးသွားတာ ကောင်မလေးကငြင်းချိန်တောင်မရလိုက်ဘူး
+မင်းသမီးနာမည်  Minaho Ariga",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00427/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v7c3i3b2ht8pear/Adn-427sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222109/1666401462.jpg",
+"photo2":"https://img3.javmost.cx/images/ADN-427.webp",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00427/adn00427jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00427/adn00427jp-10.jpg",
+"photo5":"https://pics.r18.com/digital/video/adn00427/adn00427jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/m715fb6z3mzf3jl/Adn-427hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ 223 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရေပူစမ်း‌မှာ ခင်ပွန်းဖစ်သူနဲ့ကလေးယူဖို့ရည်ရွယ်ချက်နဲ့ မိသားစုလိုက် ခရီးထွက်လာခဲ့ပေမယ့်
+‌ရေပူစမ်းမှာ ကိုယ်လုံးတီးနဲ့ နာအိုလေးရေချိုးနေတာကို ယောက္ခမထီးက မြင်သွားပြီးတဲ့နောက်
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00223/playlist.m3u8",
+"download":"https://www.mediafire.com/file/0o2eclbqd3ulgcc/juq-223sd.mp4/file",
+"photo1":"https://javguru.biz/wp-content/uploads/2023/04/juq-223-uncensored.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00223/juq00223pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230605_000400.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00223/juq00223jp-1.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230604_235706.jpg",
+"dapp":"https://www.mediafire.com/file/vibs2qod36eray1/juq-223hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
