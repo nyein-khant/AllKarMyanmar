@@ -4109,6 +4109,6 @@ Lovely Ladies Dormitory ထဲက ရွှေရင်ဌေးဌေးမင�
 "photo2":"https://channelmyanmar.org/wp-content/uploads/2023/06/00591376-512x270.jpg",
 "photo4":"",
 "photo5":"",
-"dapp":"t",
+"dapp":"https://www.mediafire.com/file/euwtto69iora8gd/The_Maidens.mp4/file",
 "candownload":"",
 "wcode":"တစ်"}]
