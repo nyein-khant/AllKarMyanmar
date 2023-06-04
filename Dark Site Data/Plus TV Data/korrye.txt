@@ -4096,4 +4096,19 @@ Lovely Ladies Dormitory ထဲက ရွှေရင်ဌေးဌေးမင�
 "photo5":"",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Tirante El Blanco(2006)",
+"info":"18+မြန်မာစာတန်းထိုး
+ဗိုလ်မင်းက တိုက်ရည်ခိုက်ရည်ကောင်း၊ လူချောလူလှ။ စစ်ပွဲတွေမှာ အောင်နိုင်မှုတွေ ယူလာပေးပါတယ်။
+ဒါပေမဲ့ ‌ဗိုလ်မင်းက ဧကရာဇ်ရဲ့သမီးတော် 16 နှစ်မကို တက်ချိုင်တော့ ပြဿနာတွေ ဖြစ်ကြတာပေါ့ဗျာ။အပျိုတော်တွေကြား ဗိုလ်မင်းကို လိုတဲ့သူရှိသလို၊ မလိုတဲ့သူလည်းရှိ။ 
+မင်းသမီးနဲ့ ဗိုလ်မင်းကို အောင်သွယ်သူက အောင်သွယ်၊ ဖျက်သူကဖျက်။ ဇာတ်ရှုပ်ကြီးပါပဲ။ဒီလိုနဲ့ အင်ပါယာကြီးတစ်ခုလုံးက မင်းသမီးပုခုံးပေါ်ကျရောက်လာတဲ့အခါ
+16နှစ်မလေး ဘာလုပ်မလဲ၊ ဘာဆက်ဖြစ်မလဲဆိုတာ ကြည့်လိုက်ကြဦးစို့။",
+"watch":"",
+"download":"https://www.mediafire.com/file/euwtto69iora8gd/The_Maidens.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMTk0NmFkYTktYThlOS00NjBiLTk2ODQtZjhkYzAwMzczOTg4XkEyXkFqcGdeQXVyNTg2MTQyNTk@._V1_.jpg",
+"photo2":"https://channelmyanmar.org/wp-content/uploads/2023/06/00591376-512x270.jpg",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
