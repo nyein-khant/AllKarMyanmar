@@ -7220,4 +7220,39 @@ VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရ
 "photo5":"",
 "dapp":"t",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"RAS 0228 ",
+
+"info":"တရုတ်လိုးကား ဇာတ်လမ်းတို uncensored
+
+ဇာတ်ကားကောင်းတွေသာရွေးချယ်တင်ဆက်ပေးနေပါတယ်ဗျ 
+
+VIP Key များလဲအားပေးကြည့်ရှုလို့ရပါတယ်နော်...
+
+VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရှုလို့ရပါပြီ ",
+
+"download":"https://www.mediafire.com/file/33061zb187yeyzp/RAS-0228.mp4/file",
+
+"dapp":"https://www.mediafire.com/file/33061zb187yeyzp/RAS-0228.mp4/file",
+
+"photo1":"https://i.imgur.com/39myFhY.jpg",
+
+"photo2":"https://goinav.com/upload/stills/2023/04/f5ddc7c272adaa0ca8df3d68b5bb04d2/f5ddc7c272adaa0ca8df3d68b5bb04d21.jpg"},
+
+{"name":"MD 0273 ",
+
+"info":"တရုတ်လိုးကား ဇာတ်လမ်းတို uncensored
+
+ဇာတ်ကားကောင်းတွေသာရွေးချယ်တင်ဆက်ပေးနေပါတယ်ဗျ 
+
+VIP Key များလဲအားပေးကြည့်ရှုလို့ရပါတယ်နော်...
+
+VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရှုလို့ရပါပြီ ",
+
+"download":"https://www.mediafire.com/file/he2578w0z6vedkc/MD-0273.mp4/file",
+
+"dapp":"https://www.mediafire.com/file/he2578w0z6vedkc/MD-0273.mp4/file",
+
+"photo1":"https://i.imgur.com/pzmIcrL.jpg",
+
+"photo2":"https://imggen.eporner.com/8112765/1280/720/5.jpg"}]
