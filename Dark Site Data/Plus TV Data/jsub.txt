@@ -6375,6 +6375,6 @@ Blue TV ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ
 "photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230607_232919.jpg",
 "photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230607_232558.jpg",
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230607_232544.jpg",
-"dapp":"t",
+"dapp":"https://www.mediafire.com/file/8391xq02r8ct4ho/MIDV_294sd.mp4/file",
 "candownload":"",
 "wcode":"တစ်"}]
