@@ -6334,4 +6334,47 @@ Blue TV ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230604_235706.jpg",
 "dapp":"https://www.mediafire.com/file/vibs2qod36eray1/juq-223hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ 213 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဂျူနီယာဝန်ထမ်းက မိန်းမယူချင်စိတ်မရှိဘူးမိန်းမတွေကို စိတ်မဝင်စားဘူးပြောလို့ ဇနီးနဲ့ 3နာရီလောက် စိတ်ချလက်ချလွတ်ထားမိပါတယ်
+ဘာတွေဆက်ဖစ်မလဲ...
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00213/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xhcwr2gwu8vewza/juq-213sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230302/1679631116.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00213/juq00213pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230605_191732.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00213/juq00213jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00213/juq00213jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/rohveebru9j7yrk/juq-213hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"IPZZ 023 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိဘတွေနောက်အိမ်ထောင်ပြုကြတော့ လင်ပါသားနဲ့ မယားပါသမီးတို့ ထိပ်တိုက်တွေ့လာရပါပီ..
+မင်းသမီးနာမည် Tsumugi Akari",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipz/ipzz00023/playlist.m3u8",
+"download":"https://www.mediafire.com/file/r81s751ojhkoaa8/IPZZ_023sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1680839852.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipzz00023/ipzz00023pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230606_190640.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipzz00023/ipzz00023jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipzz00023/ipzz00023jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/755ngr30mtuj6d9/IPZZ_023hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDV 294 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းပုံစံ မဟုတ်ပေမယ့် ဒီမင်းသမီးချောရဲ့အလှအပကိုတစ်ဝကြီးခံစားရမှာဆိုတော့ ရှယ်‌ပဲပေါ့...
+မင်းသမီးနာမည် Nozomi Ishihara",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00294/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8391xq02r8ct4ho/MIDV_294sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230302/1679839010.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00294/midv00294pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230607_232919.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230607_232558.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230607_232544.jpg",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
