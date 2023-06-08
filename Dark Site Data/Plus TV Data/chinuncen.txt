@@ -7239,7 +7239,6 @@ VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရ
 "photo3":"",
 "photo4":"",
 "photo5":"",
-"dapp":"t",
 "candownload":"",
 "wcode":"တစ်",
 "photo2":"https://goinav.com/upload/stills/2023/04/f5ddc7c272adaa0ca8df3d68b5bb04d2/f5ddc7c272adaa0ca8df3d68b5bb04d21.jpg"},
@@ -7262,7 +7261,6 @@ VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရ
 "photo3":"",
 "photo4":"",
 "photo5":"",
-"dapp":"t",
 "candownload":"",
 "wcode":"တစ်",
 "photo2":"https://imggen.eporner.com/8112765/1280/720/5.jpg"}]
