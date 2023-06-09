@@ -6377,4 +6377,17 @@ Blue TV ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230607_232544.jpg",
 "dapp":"https://www.mediafire.com/file/8391xq02r8ct4ho/MIDV_294sd.mp4/file",
 "candownload":"",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"SSNI 888 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သရုပ်ဆောင်နေတာမျိုးမဟုတ်ဘဲ စစ်မှန်တဲ့ခံစားချက်တွေကို ရိုက်ကူးထားတာလေးပါ
+ဇာတ်လမ်းပုံစံမဟုတ်ပေမယ့် မင်းသမီးချော Mikami ရဲ့ရင်တွင်းခံစားချက်တွေကို သိခွင့်ရမှာမို့ လက်မလွတ်သင့်တဲ့ကားလေးပါ
+မင်းသမီးနာမည် Yua Mikami",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/ssn/ssni00888/ssni00888_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/oz86n9e0b4220gd/ssni-888.mp4/file",
+"photo1":"https://images-na.ssl-images-amazon.com/images/I/818nE833Z3L._AC_SL1500_.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssni00888/ssni00888pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230608_190131.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssni00888/ssni00888jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssni00888/ssni00888jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/oz86n9e0b4220gd/ssni-888.mp4/file"}]
