@@ -6390,4 +6390,51 @@ Blue TV ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ
 "photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230608_190131.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/ssni00888/ssni00888jp-3.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/ssni00888/ssni00888jp-7.jpg",
-"dapp":"https://www.mediafire.com/file/oz86n9e0b4220gd/ssni-888.mp4/file"}]
+"dapp":"https://www.mediafire.com/file/oz86n9e0b4220gd/ssni-888.mp4/file"},
+{"name":"SHKD 665 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းနဲ့ အိမ်ထောင်ရေးသာယာနေတဲ့ သူမရဲ့ ဘဝထဲကို မမျော်လင့်ထားတဲ့ အရာတွေဝင်ရောက်လာခဲ့ပါတယ်
+ဘာတွေဖစ်မလဲ...
+မင်းသမီးနာမည် Rumina Asahina (Shizuku Memori)",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/shk/shkd00665/shkd00665_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/37x59tss4koneiz/SHKD-665sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222109/1665879572.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00665/shkd00665pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230611_154629.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00665/shkd00665jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00665/shkd00665jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/nbr1prwuxl74lvv/SHKD-665hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SDDE 583 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆန်းဂျီတစ်ယောက် အခုတလောထူးထူးဆန်းဆန်းတွေဖြစ်နေပါတယ်…
+သူလက်ရှိအသုံးပြုနေတဲ့ ဖုန်းလေးတစ်လုံးက ရုတ်တရက်ဆို ကောင်မလေးတစ်ယောက် ဖြစ်သွားခဲ့ပါတယ်
+ဖုန်းရဲ့ အားသွင်းရတဲ့ စနစ်ကလဲ အတော်ထူးခြားတယ်ဗျ
+နောက်ဆုံးပေါ်နည်းပညာနဲ့အပေါက်လို့ပြောရမယ်ထင်တယ်ဗျ
+ဘယ်လို အားသွင်းရတာလဲဆိုတာကို‌တော့....
+မင်းသမီးနာမည် Nonoka Sato (Momoka Kato)",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1sd/1sdde583/1sdde583_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/teqtq0qun7u8r7a/Sdde-583sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1680943382.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1sdde00583/1sdde00583pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1sdde00583/1sdde00583jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sdde00583/1sdde00583jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sdde00583/1sdde00583jp-18.jpg",
+"dapp":"https://www.mediafire.com/file/30mpf1p0j3q3vw5/SDDE-583hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDV 288 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်္ဂလာဆောင်ခါနီးသတို့သားဟာ သတို့သမီးထက် Naoရဲ့ဖင်ကြီးကို ပိုမိုစွဲလန်းသွားခဲ့ပါပြီ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00288/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3c8a36xzyw3rrpb/MIDV-288sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1682658289.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00288/midv00288pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230610_194632.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/midv00288/midv00288jp-3.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230610_194710.jpg",
+"dapp":"https://www.mediafire.com/file/p46nnsovhgmbmtl/MIDV-288hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
