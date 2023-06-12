@@ -6447,4 +6447,18 @@ Blue TV ကိုကြိုက်နှစ်သက်ရင် Vip key ဝယ
 "photo3":"https://pics.dmm.co.jp/digital/video/juq00210/juq00210jp-9.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/juq00210/juq00210jp-10.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00210/juq00210jp-5.jpg",
-"dapp":"https://www.mediafire.com/file/6hak7danv36wbru/%255BDark_TV%255DJUQ-210-MR%257EHD.mp4/file"}]
+"dapp":"https://www.mediafire.com/file/6hak7danv36wbru/%255BDark_TV%255DJUQ-210-MR%257EHD.mp4/file"},
+{"name":"JUFE 453 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မြို့တွင်ကျောင်းတက်ရန်အတွက် ‌ဦးလေးတို့လင်မယားနေအိမ်သို့ရောက်ရှိလာသော မောင်ဇော်
+မင်းသမီးနာမည် Ran Kikuno",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juf/jufe00453/playlist.m3u8",
+"download":"https://www.mediafire.com/file/lhxqqngkppn24ju/jufe-453sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1682655887.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00453/jufe00453pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jufe00453/jufe00453jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jufe00453/jufe00453jp-19.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00453/jufe00453jp-14.jpg",
+"dapp":"https://www.mediafire.com/file/5nea883omz4ys1n/jufe-453hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
