@@ -8,12 +8,12 @@
 
   "MainTextButton": "Update Install ",
 
-  "Cancelable": "false",
+  "Cancelable": "true",
 
   "CancelButtonText": "Cancel",
 
-  "DownloadLink": "https://www.mediafire.com/file/reo4nn2jw7pbg5x/Dark_Site_6.5.apk/file",
+  "DownloadLink": " ",
 
-  "Version": "7.0"
+  "Version": "6.5"
 
 }
