@@ -4,16 +4,16 @@
 
   "Title": "New Update",
 
-  "Description": "Update Version 6.5 ပါနော်ဂေါင်းကြီးတို့",
+  "Description": "Update Version 7.0 ပါနော်ဂေါင်းကြီးတို့",
 
   "MainTextButton": "Update Install ",
 
-  "Cancelable": "true",
+  "Cancelable": "false",
 
   "CancelButtonText": "Cancel",
 
-  "DownloadLink": " ",
+  "DownloadLink": "https://www.mediafire.com/file/nguhb948rlgovp4/Plus_TV_7.0.apk/file",
 
-  "Version": "6.5"
+  "Version": "7.0"
 
 }
