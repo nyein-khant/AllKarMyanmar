@@ -4137,4 +4137,17 @@ Sex လုပ်ရတာကို တအားကြိုက်ကြတဲ့
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/6a556dy0fxit4z3/Hilom_%25282023%2529.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Star Dancer (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+ရင်းနှီးပြီးသားဖြစ်လောက်မယ့် မင်းသမီးချောလေး Denise Esteban နဲ့ ပြီးခဲ့တဲ့ Stalkers Series မှာ Apple အဖြစ်၊ Pantaxa Laiya မှာ Host အဖြစ် ပါဝင်ခဲ့တဲ့ Rose Van Ginkel တို့ရဲ့အကအလှ အကြီး အကျယ် ပြိုင်ဆိုင်မှုတွေကိုဆက်လက်ရှုစားကြပါ။",
+"watch":"",
+"download":"https://www.mediafire.com/file/wfau4so50oykwya/Star_Dancer_%25282023%2529.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BNGY3OWE1ZDgtOTc2My00ZDAxLWFmY2MtNWZhNGZmMTUyZjI1XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://film-book.com/wp-content/uploads/2023/05/star-dancer-movie-poster-01-700x400-1.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/wfau4so50oykwya/Star_Dancer_%25282023%2529.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
