@@ -6671,4 +6671,93 @@ Nao မှာအရမ်းချစ်ရတဲ့ အစ်မတစ်ယေ
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00706/meyd00706jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/4srqmay6st3bt0e/meyd-706hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA 765 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မှောင်ခိုဈေးကွက်က တရားမဝင်အရုပ်တွေကို ဖမ်းဆီးဖော်ထုတ်ဖို့ ကြိုးစားခဲ့တဲ့ လျို့ဝှက်အေးဂျင့်မလေး
+မင်းသမီးနာမည် Sora Amakawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00765/playlist.m3u8",
+"download":"https://www.mediafire.com/file/baetsvk03d3w5zn/miaa-765sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1681445471.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00765/miaa00765pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miaa00765/miaa00765jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miaa00765/miaa00765jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00765/miaa00765jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/baetsvk03d3w5zn/miaa-765sd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 402 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖစ်သူအလုပ်မပြုတ်အောင် သူမကိုတစ်ဖက်သတ်ချစ်နေတဲ့သူဌေးဆီက အတွင်းရေးမှူးအဖြစ် တစ်လလုပ်ပေးဖို့ တောင်းဆိုမှုကိုလက်ခံလိုက်ရတယ်
+ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00402/playlist.m3u8",
+"download":"https://www.mediafire.com/file/y8ghu8qkr9rawkb/%255BBlueTVApp%255DAdn-402sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20233001/1675420382.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00402/adn00402pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00402/adn00402jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00402/adn00402jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00402/adn00402jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/ycaysznl9g1b01l/%255BBlueTVApp%255DAdn-402hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 300 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောင်္ကျားဆုရဖို မိန်းမကအယ်ဒီတာ လူပါး၀တာကိုငြိမ်ခံလိုက်ရတဲ့ကားလေးပါ ဒီမင်းသမီးလှတာကလဲတမျိုးလေးဘဲ သူနဲ့တင်ကြည့်သင့်နေပီ...
+မင်းသမီးနာမည် Michiru Kujo",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00300/adn00300_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/yhu1h6ve8z2cxru/ADN-300-MR%257ESD.mp4/file",
+"photo1":"https://static.sextb.net/poster/adn-300.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00300/adn00300pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00300/adn00300jp-12.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00300/adn00300jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00300/adn00300jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/erq1der3swnp74y/ADN-300-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"CAWD 447 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းမတက်တာကြာတော့ ဆရာကိုသတိရလို့ ဆရာအိမ်ကို အလည်ရောက်သွားခဲ့ပါတယ်
+ဆရာအိမ်ရောက်တော့ နှစ်ယောက်သားဘီယာလေးသောက် ရှေးဟောင်းနောက်ပစ်တွေပြောရင်း Mayukiကအမူးလွန်ပြီးအိပ်ပျော်သွားတဲ့အခါမှာတော....
+မင်းသမီးနာမည် Mayuki Ito",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/c/caw/cawd00447/playlist.m3u8",
+"download":"https://www.mediafire.com/file/evkexpawvgom4nc/CAWD-447sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20233001/1675698655.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/cawd00447/cawd00447pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/cawd00447/cawd00447jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/cawd00447/cawd00447jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/cawd00447/cawd00447jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/pduq42ook8cd90k/cawd-447hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DASD 682 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငါ့ကောင်မလေးက သူဘယ်တော့မှဖောက်ပြန်မှာမဟုတ်ဘူးလို့ ကျိန်ဆိုခဲ့တယ်၊ 
+ဒါပေမယ့် သူမရဲ့ ပူစီဟာ ဘာကြောင့်ပြဲလန်သွားရတာလဲ ...
+မင်းသမီးနာမည် Leila Hazuki ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/d/das/dasd00682/dasd00682_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xsao1priv9x1j65/dasd-682sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20212308/1632239036.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dasd00682/dasd00682pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dasd00682/dasd00682jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dasd00682/dasd00682jp-10.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dasd00682/dasd00682jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/vr5297xop3oif5h/dasd-682hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"HBAD 516 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပထွေးနဲ့တူတူနေရတဲ့သမီးဟာ အမေနေမကောင်းတော့
+ပထွေးကဆေးဆက်ကုပေးနေတဲ့အတွက် ပထွေးကြည်ဖြူ
+အောင်ဘာပြောပြောမလွန်ဆန်နိုင်ဘဲငြိမ်ခံနေရပါတော့တယ်
+မင်းသမီးနာမည် Ai Kawana",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1hb/1hbad516/1hbad516_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/i7yspq5itg5d55v/HBAD_516_-SD.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20221202/1648036439.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1hbad00516/1hbad00516pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1hbad00516/1hbad00516jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1hbad00516/1hbad00516jp-14.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1hbad00516/1hbad00516jp-18.jpg",
+"dapp":"https://www.mediafire.com/file/gi8jkurrrhx08s8/HBAD_516_-HD.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
