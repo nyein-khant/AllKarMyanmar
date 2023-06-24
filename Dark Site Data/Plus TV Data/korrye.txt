@@ -4150,4 +4150,24 @@ Sex လုပ်ရတာကို တအားကြိုက်ကြတဲ့
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/wfau4so50oykwya/Star_Dancer_%25282023%2529.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Summer Camp Girls(1983)",
+"info":"18+မြန်မာစာတန်းထိုး
+အမေရိကန် ပျိုဖြူလေးတွေအတွက် သီးသန့်ထိန်းကျောင်းတဲ့
+နွေရာသီ လေ့ကျင့်ရေးစခန်းမှာ ဖြစ်ပွါးခဲ့တဲ့ အချစ်ဇာတ်လမ်းလေးပါ…
+အမေရိကန်ပျိုဖြူလေးတွေရဲ့ ဘွင်းဘွင်းရှင်းရှင်း အန်ဆင်ဆာ အချစ်ဇာတ်လမ်းလေး…တကယ်တော့ အဲဒီစခန်းကို ဘယ်သူမှမသွားချင်ကြပါဘူး
+ဘာလို့လဲဆိုတော့ အနေထိုင် အရမ်းတင်းကြပ်လို့ပါပဲ
+အဲမှာ အန်ဂျလာတစ်ယောက် အထူးဆန်းတွေ စတွေ့တာပဲ
+သူရဲ့အခန်းဖော်တွေက ပူစီလေးတွေ..
+သူမဘယ်လိုရင်ဆိုင်ဖြေရှင်းမလဲ…
+စိတ်ဝင်စားဖို့ကောင်းပြီး ဘွင်းဘွင်းရှင်းရှင်းခန်းတွေ များတာမို့ Fans တွေအတွက် တင်ဆက်လိုက်ပါတယ်",
+"watch":"",
+"download":"https://www.mediafire.com/file/pphm0x1irkcuz5j/SummerCamp.mp4/file",
+"photo1":"https://images.kinorium.com/movie/1080/1480976.jpg?1507530804",
+"photo2":"https://images.mubicdn.net/images/film/301042/cache-666808-1627956035/image-w1280.jpg?size=800x",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/pphm0x1irkcuz5j/SummerCamp.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
