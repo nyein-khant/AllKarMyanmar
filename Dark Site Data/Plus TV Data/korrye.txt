@@ -4170,4 +4170,20 @@ Sex လုပ်ရတာကို တအားကြိုက်ကြတဲ့
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/pphm0x1irkcuz5j/SummerCamp.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"The Fourth Mother",
+"info":"18+မြန်မာစာတန်းထိုး
+အွန်းမီဟာ ရည်းစားဖြစ်သူ ယောင်းဂျယ်ရဲ့အိမ်ကို အလည်လိုက်သွားတဲ့အခါ ယောင်းဂျယ်ရဲ့ဦးလေးဖြစ်သူကို သဘောကျမိသွားပါတယ်
+ဦးလေးဖြစ်သူနဲ့တွေ့ခွင့်ရဖို့ အွန်းမီဟာ ယောင်းဂျယ်တို့ တူအရီးနှစ်ယောက်ကိုအိမ်ကို ဖိတ်လိုက်ပါတယ် ..ဒါပေမယ့် ဦးလေးဖြစ်သူ ပါမလာဘဲ ယောင်းဂျယ်တစ်ယောက်တည်းလာခဲ့တဲ့အခါ အွန်းမီအမေကို တွေ့ပြီး
+ထူးခြားတဲ့ခံစားချက်မျိုးကို ခံစားမိသွားပါတယ်
+သားအမိနှစ်ယောက်နဲ့ တူအရီးနှစ်ယောက်တို့ရဲ့ လေးပွင့်ဆိုင်ဇာတ်လမ်းလေးက....",
+"watch":"",
+"download":"https://www.mediafire.com/file/dji62xoojy6ovas/Mother_2020.mp4/file",
+"photo1":"https://channelmyanmar.org/wp-content/uploads/2023/06/sn5wl6fn4up6.jpg",
+"photo2":"https://i.imgur.com/GDBnX2n.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/dji62xoojy6ovas/Mother_2020.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
