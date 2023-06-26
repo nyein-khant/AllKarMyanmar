@@ -6760,4 +6760,49 @@ Nao မှာအရမ်းချစ်ရတဲ့ အစ်မတစ်ယေ
 "photo5":"https://pics.dmm.co.jp/digital/video/1hbad00516/1hbad00516jp-18.jpg",
 "dapp":"https://www.mediafire.com/file/gi8jkurrrhx08s8/HBAD_516_-HD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"BLK 622 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+super market တစ်ခုမှာ ပစ္စည်း ခိုးတာကို ဝန်းထမ်းကမိသွားခဲ့တယ် မိလို့စစ်ဆေးတဲ့အချိန် ဝန်ထမ်းက သူအရင်ကအနိုင်ကျင့်ခဲ့တဲ့ကောင်ဖြစ်နေတဲ့အခါ
+အဲ့ကောင်က ဘယ်လိုကလဲစားချေချေမလဲဘာတွေဆက်ဖြစ်မလဲ
+မင်းသမီးနာမည် Riho Fujimori",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/b/blk/blk00622/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7qhh6jo0uedkux6/Blk-622_sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1681442588.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/blk00622/blk00622pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/blk00622/blk00622jp-12.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/blk00622/blk00622jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/blk00622/blk00622jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/9y4ukizr0t22yn2/BLK-622_hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"IPZZ 037 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်လေးရှိပေမယ့် သူမကိုမှန်းထုနေတဲ့ ဘဲကြီးလက်ချက်မိသွားတဲ့ ကျောင်းဆရာမ
+မင်းသမီးနာမည် Tsumugi Akari",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipz/ipzz00037/playlist.m3u8",
+"download":"https://www.mediafire.com/file/pkqbqousodu2ln1/%255BBlueTVApp%255DIPZZ-037sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230205/1683257373.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipzz00037/ipzz00037pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ipzz00037/ipzz00037jp-8.jpg",
+"photo4":"https://nextjav.com/save/IPZZ-037/media/media-7-IPZZ-037.jpg",
+"photo5":"https://cdn-1.ggjav.com/media/preview/229575_4.jpg",
+"dapp":"https://www.mediafire.com/file/6v9j4ueiiqdfhfy/%255BBlueTVApp%255DIPZZ-037hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDV 326 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Yukiတစ်ယောက် ပထမအလုပ်ဒေဝါလီခံသွားတဲ့အချိန် သူဌေးဖြစ်သူ soda က အတွင်းရေးမူးအလုပ်ကိုပေးခဲ့တယ်
+အဲ့ချိန် Yukiက သူဌေးကို လေးစားခဲ့တယ်
+တစ်နေ့သူဌေးရဲ့ ရှယ်ယာတစ်ဝက်ကို ဝယ်တဲ့သူကရောက်လာပြီ သူဠေးနေရာကို ဝင်ယူပြီး Yukiနဲ့ ဘာတွေဆက်ဖြစ်ကြမလဲ
+မင်းသမီးနာမည် Nana Yagi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00326/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v1lbxfzxb35t96l/Midv-326sd.mp4/file",
+"photo1":"https://m.media-amazon.com/images/I/81+JmzBANcL._AC_SL1500_.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00326/midv00326pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/midv00326/midv00326jp-2.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230626_183008.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p6/main/IMG_20230626_183325.jpg",
+"dapp":"https://www.mediafire.com/file/rbs5e0eebpe2dng/MIDV-326hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
