@@ -4199,4 +4199,26 @@ Sex လုပ်ရတာကို တအားကြိုက်ကြတဲ့
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/hl48vsep0zvqp5f/Tayuan2023.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"A Man Who Loved A Prostitute (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+အကိတ်တလိုင်းကိုးရီးယားမလေးရဲ့ အလှလေးတွေကို
+ထပ်ပြီးခံစားရအောင်ဗျာ
+ဂျင်းဂျူကလှတယ် ဆွဲဆောင်မှုအရမ်းရှိတယ်အခုတော့ သူဌေးတယောက်ရဲ့ ချစ်အမျိုးသမီးဖြစ်နေပြီလေ
+အမြင်အားဖြင့် သူအဆင်ပြေနေပြီပေါ့
+သူမမှာ အတိတ်ဟောင်းကြီးက ခြောက်လှန့်နေဆဲပါပဲ
+သူမမှာ အဲဒီထက်ကြောက်ဖို့ကောင်းတာရှိနေတာ သူမမသိဘူးလေ..
+သူမ တကယ်ကြောက်နေရတာဘယ်သူလဲ
+သူမရဲ့အတိတ်ဟောင်းက ဘာလဲဆိုတာ
+အဖေါ်ချွတ်ခန်းတွေ အယုယခန်းတွေနဲ့ ထုံမွှမ်းထားလို့
+ပရိသတ်တွေအတွက် တင်ဆက်ပေးလိုက်ပါတယ်",
+"watch":"",
+"download":"https://www.mediafire.com/file/7t8qfbhra046sjw/AManWhoLovedl.mp4/file",
+"photo1":"https://i.imgur.com/la1TsZY.jpg",
+"photo2":"https://catimage.net/images/2023/06/07/kat2023-06-07-07h36m11s735.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/7t8qfbhra046sjw/AManWhoLovedl.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
