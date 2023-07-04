@@ -7418,5 +7418,50 @@ VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရ
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/pzra2bt30x5l8z9/91BCM-056.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"TZ 107",
+"info":"  တရုတ်လိုးကား ဇာတ်လမ်းတို uncensored
+ဇာတ်ကားကောင်းတွေသာရွေးချယ်တင်ဆက်ပေးနေပါတယ်ဗျ 
+VIP Key များလဲအားပေးကြည့်ရှုလို့ရပါတယ်နော်...
+VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရှုလို့ရပါပြီ ",
+"watch":"",
+"download":"https://www.mediafire.com/file/yjyapi7kk01o2nt/TZ-107%25281%2529.mp4/file",
+"photo1":"https://i.imgur.com/or7uwUc.jpg",
+"photo2":"https://i.imgur.com/z1abSpC.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/yjyapi7kk01o2nt/TZ-107%25281%2529.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"XSJKY 073",
+"info":"  တရုတ်လိုးကား ဇာတ်လမ်းတို uncensored
+ဇာတ်ကားကောင်းတွေသာရွေးချယ်တင်ဆက်ပေးနေပါတယ်ဗျ 
+VIP Key များလဲအားပေးကြည့်ရှုလို့ရပါတယ်နော်...
+VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရှုလို့ရပါပြီ ",
+"watch":"",
+"download":"https://www.mediafire.com/file/h7kzlxslgj8f7q3/XSJKY-073.mp4/file",
+"photo1":"https://i.imgur.com/dnmZF8k.jpg",
+"photo2":"https://i.imgur.com/j06qBEG.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/h7kzlxslgj8f7q3/XSJKY-073.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ID 5291",
+"info":"  တရုတ်လိုးကား ဇာတ်လမ်းတို uncensored
+ဇာတ်ကားကောင်းတွေသာရွေးချယ်တင်ဆက်ပေးနေပါတယ်ဗျ 
+VIP Key များလဲအားပေးကြည့်ရှုလို့ရပါတယ်နော်...
+VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရှုလို့ရပါပြီ ",
+"watch":"",
+"download":"https://www.mediafire.com/file/jel5jmqfqr5ctf1/ID5291.mp4/file",
+"photo1":"https://i.imgur.com/x6xscPT.jpg",
+"photo2":"https://i.imgur.com/nW4ehXn.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/jel5jmqfqr5ctf1/ID5291.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
 
