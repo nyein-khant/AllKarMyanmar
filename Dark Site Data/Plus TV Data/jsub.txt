@@ -7018,4 +7018,33 @@ Nakata တစ်ယောက် ကျောင်းကိုအလာ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/ebod00909/ebod00909jp-6.jpg",
 "dapp":"https://www.mediafire.com/file/dvray3unr6a6qgi/EBOD-909hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA 854mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းကို ပိတ်ရက်မှာ ဆရာမခေါ်လို့လာခဲ့ရာကနေ...
+မင်းသမီးနာမည် Midnight Sun Mikuru",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00854/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4l8r7ovqpxwuyir/miaa-854sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230205/1684768468.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00854/miaa00854pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miaa00854/miaa00854jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miaa00854/miaa00854jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00854/miaa00854jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/uehzrozmh9n1gnj/miaa-854hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPE 115mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပိုက်ဆံလိုနေတဲ့စတိုးဆိုင်ကဝန်ထမ်းမလေးကို
+ဆိုင်မန်နေဂျာက နို့ပေးကိုင်ရင် လစာတိုးပေးမယ်ဆိုပြီး ဖင်ပါချသွားတဲ့ဇာတ်လမ်းလေး
+မင်းသမီးနာမည် Riho Fujimori",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/ppp/pppe00115/playlist.m3u8",
+"download":"https://www.mediafire.com/file/r8c0srn3q3ldse0/PPPE-115sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1682329697.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppe00115/pppe00115pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pppe00115/pppe00115jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pppe00115/pppe00115jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppe00115/pppe00115jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/7d8kig71y7qqcfc/PPPE-115hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
