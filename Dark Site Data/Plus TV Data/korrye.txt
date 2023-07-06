@@ -4229,7 +4229,7 @@ Sex လုပ်ရတာကို တအားကြိုက်ကြတဲ့
 "watch":"",
 "download":"https://www.mediafire.com/file/tf83xkksnrxqld1/Girl_10.mp4/file",
 "photo1":"https://image.tmdb.org/t/p/w500/u74J7v9Az6Wd5WwzOXjd6kCD4Gv.jpg",
-"photo2":" ",
+"photo2":"https://1.bp.blogspot.com/-NGIbC8eBUTQ/X-IQHjNDlNI/AAAAAAAA4LI/pnBqMH4Hk1EnNZ9vNh7wmC4vhWFvToj_wCLcBGAsYHQ/s0/kp5788.jpg",
 "photo3":"",
 "photo4":"",
 "photo5":"",
