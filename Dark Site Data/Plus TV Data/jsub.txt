@@ -7047,4 +7047,35 @@ Nakata တစ်ယောက် ကျောင်းကိုအလာ မိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pppe00115/pppe00115jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/7d8kig71y7qqcfc/PPPE-115hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE 582 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငယ်ငယ်ကတည်းက ဆရာမတယောက်ဖြစ်ချင်ခဲ့တဲ့ Shoko Takahashiတယောက်
+ဆရာမတယောက်အနေနဲ့ ကျောင်းသားတွေရဲ့ အနာဂတ်ကိုလည်းစိတ်ပူ အိမ်ကမိဘတွေစကားကို နားမထောင်ပဲသူ့အိပ်မက်ဖြစ်တဲ့ ဆရာမဆက်လုပ်ဖို့အရေးကို
+ဘယ်လိုတွေကြိုးစားပြီး ဆိုးမိုက်နေတဲ့ကျောင်းသားတွေကို ပညာသင်ကြားပေးသွားမလဲဆိုတာကိုတော့…
+မင်းသမီးနာမည် Shoko Takahashi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mid/mide00582/mide00582_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/xjjxiz48u3e05sx/MIDE-582sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222109/1664426026.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mide00582/mide00582pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mide00582/mide00582jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mide00582/mide00582jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mide00582/mide00582jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/xjjxiz48u3e05sx/MIDE-582sd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 431 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းမှာကြိတ်ကြွေရတဲ့ဆရာမလေးနဲ့ အဖေလက်ထပ်သွားသောအခါ....
+မောင်ဇော်တင်းပီလေ..
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00431/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xpmv0gbjgacpl4l/ADN-431sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222410/1667499339.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00431/adn00431pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00431/adn00431jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00431/adn00431jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00431/adn00431jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/qvbcb8v178zc1he/ADN-431hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
