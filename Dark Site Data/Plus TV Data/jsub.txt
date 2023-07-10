@@ -7169,4 +7169,67 @@ Nakata တစ်ယောက် ကျောင်းကိုအလာ မိ�
 "photo3":"https://pics.dmm.co.jp/digital/video/adn00472/adn00472jp-6.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/adn00472/adn00472jp-8.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00299/adn00299jp-10.jpg",
-"dapp":"https://www.mediafire.com/file/rkn258mk8jup388/%255BDark_TV%255DADN-472%257ESD.mp4/file"}]
+"dapp":"https://www.mediafire.com/file/rkn258mk8jup388/%255BDark_TV%255DADN-472%257ESD.mp4/file"},
+{"name":"SSIS 637 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဂျူတီဆင်းရင်း မိုးချုပ်တော့ အိမ်လိုက်ပီး အရက်လိုက်သောက်ရင်း သဘောကျကြောင်းတွေ သိသွား​တဲ့အခါ
+မင်းသမီးနာမည် Minami Kojima",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00637/playlist.m3u8",
+"download":"https://www.mediafire.com/file/d609092wjg92xxg/ssis-637sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222612/1672976098.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00637/ssis00637pl.jpg",
+"photo3":"https://pics.vpdmm.cc/digital/video/ssis00637/ssis00637jp-10.jpg",
+"photo4":"https://pics.vpdmm.cc/digital/video/ssis00637/ssis00637jp-7.jpg",
+"photo5":"https://pics.vpdmm.cc/digital/video/ssis00637/ssis00637jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/q8vj3xrjxng8y0a/ssis-637hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SNIS 410 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဖိုးထူးတစ်ယောက်ရထားစီးရင်း ရထားပေါ်ကကောင်မလေးတစ်ယောက်ချစ်မိသွားခဲ့ပါတယ်
+ဒါပေမယ့် ကောင်မလေးမှာကယောကျာ်းရှိပါတယ်
+နောက်မှသိလိုက်ရတာက ကောင်မလေးကို သူ့ယောက်ျားက အကျွေးနဲ့သိမ်းထားတယ်ဆိုတာကို‌ပေါ့။ 
+ဖိုးတူးလဲကောင်မလေးကို သနားသွားပီး သူ့ယောက်ျားလက်က ကယ်ဖို့လုပ်ပါတော့တယ်။ 
+မင်းသမီးနာမည် Arisa Misato",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/sni/snis00410/snis00410_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/yzkawt34zs5x637/snis-410sd.mp4/file",
+"photo1":"https://static.sextb.net/poster/snis-410.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/snis00410/snis00410pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/snis00410/snis00410jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/snis00410/snis00410jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/snis00410/snis00410jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/uznwoz9hmnpg2hn/snis-410hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 468 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ငယ်သူငယ်ချင်းတွေဖစ်ကြတဲ့ ကျော်ကြီးကို တစ်ဖက်သတ်ကြိတ်ကြွေနေတဲ့ Miyaanishi
+မိန်းမတွေက သူတို့ချစ်လာရင်
+ကျော်ကြီးမှာမိန်းမရှိလည်းဂရုမစိုက်ဘူး ဖင်ကုန်းပေးတာပါပဲ
+မင်းသမီးနာမည် Hikaru Miyanishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00468/playlist.m3u8",
+"download":"https://www.mediafire.com/file/k5ofqu8tb9galki/adn-468sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230206/1686272879.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00468/adn00468pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00468/adn00468jp-3.jpg",
+"photo4":"https://lulubar.net/upload/stills/2023/06/6daf311fdcb3d8d09ea2ed2bc96fd1ce/6daf311fdcb3d8d09ea2ed2bc96fd1ce3.jpg",
+"photo5":"https://imggen.eporner.com/8386214/1280/720/7.jpg",
+"dapp":"https://www.mediafire.com/file/062ime5unmxwjrr/adn-468hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SHKD 984 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းအချင်းချင်းဘဲလုရာကနေ
+မနာလိုလို့အဖွဲ့လိုက်လူငှားအနိုင်ကျင့်တဲ့ကားလေး
+အချစ်နဲ့ပတ်သက်လာရင် အရမ်းချစ်တဲ့သူငယ်ချင်းတွေတောင် ရန်သူတွေဖစ်သွားခဲ့ရတယ်
+မင်းသမီးနာမည် Ami Kitai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/shk/shkd00984/playlist.m3u8",
+"download":"https://www.mediafire.com/file/f847mejvpdarzwj/shkd-984sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222410/1666884779.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/shkd00984/shkd00984pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/shkd00984/shkd00984jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/shkd00984/shkd00984jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/shkd00984/shkd00984jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/ottk83ncn63y7do/shkd-984hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"}]
