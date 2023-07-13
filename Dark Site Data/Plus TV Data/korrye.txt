@@ -4264,4 +4264,32 @@ adult ကားဆိုတဲ့အတိုင်း ဒီညီကို န
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/8wtrrtyo30lp590/Friend_Sisters.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"The Naughty House of Sharing That Changes Yours for Mine (2020)",
+"info":"18+မြန်မာစာတန်းထိုး
+ဒီဇာတ်လမ်းလေးကတော့ အဆင်မပြေမူတွေနဲ့နှစ်အကြာကြီးတွဲနေရင်က ရိုးအီလာတဲ့ အိမ်ထောင်ရှင်စုံတွဲနှစ်တွဲရဲ့  ရင်တွင်းဖြစ် အသံတွေနဲ့ သူတို့ ဘယ်လို ဖလှယ်နှီးနှောကြမလဲဆိုတာကို ကွက်ကွက်ကင်းကင်းသိမြင်အောင် ရိုက်ပြထားတဲ့ ဇာတ်လမ်းလေး ဖြစ်ပါတယ်",
+"watch":"",
+"download":"https://www.mediafire.com/file/qohyyddj84yazk4/The_Naughty_House.mp4/file",
+"photo1":"https://cdn.moviefone.com/image-assets/736190/nhwnA580ww3BKcsrcNxSU8ZPtuP.jpg?d=360x540&q=60",
+"photo2":"https://i.imgur.com/onYq5H2.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/qohyyddj84yazk4/The_Naughty_House.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"Paraluman (2021)",
+"info":"မြန်မာစာတန်းထိုး
+အဖေဆုံးသွားလို့ အကိုကြီးဆီမှာ ပြောင်းနေခဲ့တဲ့ မီယာဆိုတဲ့ ဆယ်ကျော်သက်မြီးကောင်ပေါက်လေးဟာ ပီတာဆိုတဲ့ အကိုကြီးကို တမ်းတမ်းစွဲကြွေသွားခဲ့ရတဲ့အကြောင်းပေါ့
+ပီတာလိုမျိုး ဂစ်တာတီးသီချင်းလေးတွေ ဆိုပြတတ် ဓာတ်ပုံလှလှလေးတွေရိုက်ပေးတတ်တဲ့ အကိုကြီးကို မီယာတစ်ယောက်ရင်ခုန်ရာကနေ တကယ်ချစ်မိသွားခဲ့တယ်
+ဒါပေမဲ့လည်း ပီတာဟာ အတူနေချစ်သူရှိနေတဲ့အခါ..",
+"watch":"",
+"download":"https://www.mediafire.com/file/umpsyqtgigignyw/Paraluman2021.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BZmI3NjE5MjktZTkwMy00YjM0LWJiODYtZjUyYWJiYjgzMmRmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BNzkyYzA3YzQtMDRiMC00YmFmLWJhOGEtNTMzOGU4MTMzZjdmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/umpsyqtgigignyw/Paraluman2021.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
