@@ -4292,4 +4292,23 @@ adult ကားဆိုတဲ့အတိုင်း ဒီညီကို န
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/umpsyqtgigignyw/Paraluman2021.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Revenge Porn PAIN OF LOVE (2019)",
+"info":"18+မြန်မာစာတန်းထိုး
+နာမည်လေးက ရီ အရမ်းချစ်ဖို့ကောင်းတယ် အထူးသဖြင့်သူမရဲ့ အိစက်လုံးဝန်းနေတဲ့ ရွှေရင်အစုံ သူမက အရမ်းချစ်ဖို့ကောင်းလို့ ကျောင်းမှာ ကောင်လေးတိုင်းစိတ်ဝင်စားတယ်
+ဒါပေမဲ့ သူစိတ်ဝင်နေတာက အတန်းက စီနီယာ မီကီအိုဖြစ်နေတယ်ကိုကိုမှ ကိုကိုဖြစ်နေတာ
+တနေ့မှာ မီကီအိုက သူ့ကိုချစ်ရေးဆိုလာတယ်
+သူအရမ်းပျော်တာပေါ့ ကိုကို အချစ်ကိုရပြီလေ
+ဒါပေမဲ့ မီကီအိုမှာ သူများနဲ့ မတူတဲ့ ခံစားချက် ခံစားချင်တဲ့ လူတစ်ယောက်ဖြစ်နေရာမှ
+မီကီအိုတယောက် သူရဲ့အချစ်ရေးက သာယာပါ့မလား
+ဖြောင့်ဖြူးပါ့မလားဆိုတာ ချစ်စဖွယ် တလုံးတခဲ ကြီးတွေကို ကွက်ကွက် ကွင်းကွင်း ရိုက်ပြထားတာဖြစ်လို့...",
+"watch":"",
+"download":"https://www.mediafire.com/file/3gomiklslh9z4xd/RevengOf_Love.mp4/file",
+"photo1":"https://cdn.suruga-ya.jp/database/pics_light/game/134025375.jpg",
+"photo2":"https://flicksbank.console360.net/images/2681/poster_horizon/default.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/3gomiklslh9z4xd/RevengOf_Love.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
