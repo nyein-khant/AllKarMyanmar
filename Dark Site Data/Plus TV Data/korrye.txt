@@ -4311,4 +4311,22 @@ adult ကားဆိုတဲ့အတိုင်း ဒီညီကို န
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/3gomiklslh9z4xd/RevengOf_Love.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Female War- A Nasty Deal (2015)",
+"info":"18+မြန်မာစာတန်းထိုး
+အိမ်ထောင်ရေးမှာအချစ်မပါရင် ဆားမပါတဲ့ဟင်းလိုပဲ
+ပေါ့
+ဒီဇာတ်ကားရဲ့အဓိကသရုပ်ဆောင်က အွန်ယောင်း ပဲ
+အွန်ယောင်းက ငယ်ရွယ်နုပျိုပြီး လှသွေးကြွယ်နေတဲ့သူတယောက်
+သူမကို ကံထူးသွားသူကတော့ ပန်းချီဆရာတယောက်ပါ ဒါပေမဲ့အိမ်ထောင်ကျပြီး မကြာခင်မှာပဲ ကြမ္မာဆိုးကြီးဝင်မွှေပါတယ်
+ပန်းချီဆရာက မတော်တဆမှုနဲ့ မျက်လုံးနှစ်ဖက်ကွယ်သွားပါတယ်...",
+"watch":"",
+"download":"https://www.mediafire.com/file/je3p5ekqa7xotaq/Female_War_Nasty.mp4/file",
+"photo1":"https://i.mydramalist.com/qemZd_4f.jpg",
+"photo2":"https://i.imgur.com/xcn0YoO.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/je3p5ekqa7xotaq/Female_War_Nasty.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
