@@ -4329,4 +4329,19 @@ adult ကားဆိုတဲ့အတိုင်း ဒီညီကို န
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/je3p5ekqa7xotaq/Female_War_Nasty.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"The Love Machine",
+"info":"21+မြန်မာစာတန်းထိုး
+မိန်းမတယောက်ရဲ့အငြိုး
+လုံးကြီးပေါက်လှ အမေရိကန်ပျိုဖြူတွေရဲ့အလှကိုအတိုင်းသား အားပါးတရခံစားကြည့်ရအောင်မိန်းမတွေအငြိုးကြီးလာရင် အရမ်းကြောက်စရာကောင်းပြီးသွေးအေးအေးနဲ့ ဘယ်လို‌တွေကြံစည်တက်လဲဆိုတာ
+ဒီဇာတ်ကားလေးကို နမူနာအနေနဲ့ ကြည့်ပြီးသိနိုင်ပါတယ်",
+"watch":"",
+"download":"https://www.mediafire.com/file/mm1tho3f53dyly2/The_Love_Machine.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BYjZmNzA3ODYtMjYyMy00NjFhLTgwYjQtNDE1NzI3NGMyNGMxXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_FMjpg_UX1000_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BZDc2NWVhODgtNjI4Yi00MDUwLWI3YzYtOTEzNTIxMzBkMzc4XkEyXkFqcGdeQXVyNjU4NDE4NQ@@._V1_FMjpg_UX1000_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/mm1tho3f53dyly2/The_Love_Machine.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
