@@ -4344,4 +4344,20 @@ adult ကားဆိုတဲ့အတိုင်း ဒီညီကို န
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/mm1tho3f53dyly2/The_Love_Machine.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"My Father Myself (2022)",
+"info":"18+မြန်မာစာတန်းထိုး
+trailer ထွက်ရှိချိန်မှာ LGBT+ အသိုင်းအဝိုင်းအပေါ်မကောင်းတဲ့ရိုက်ခတ်မှုတွေဖြစ်ပေါ်လာနိုင်တယ်ဆိုတဲ့ စိုးရိမ်တကြီးဝေဖန်ချက်တွေထွက်ပေါ်လာခဲ့ပေမယ့်
+ဒါရိုက်တာကတော့ ဒါဟာသူ့မွေးရပ်မြေမှာတကယ်ရှိခဲ့ဖူးတဲ့ ဖြစ်ရပ်မှန်ဇာတ်လမ်းတစ်ခုဖြစ်တဲ့အတွက် ဒီလိုဇာတ်လမ်းတိုင်းဟာ အပြုသဘောဖြစ်နေစရာမလိုဘူးလို့ဆိုခဲ့ပါတယ်။
+အငြင်းပွားမှုတွေရှိနေခဲ့ပေမယ့်လည်း Metro Manila Film Festival မှာ ဆန်ကာတင်ဆုခုနှစ်ခုဝင်ခဲ့ပြီး ဆု ၃ ခုဆွတ်ခူးခဲ့ပါသေးတယ်။ဒီဇာတ်လမ်းကိုကြည့်တဲ့အခါ ဆရာမဂျူးရဲ့ ဖေဖေ့သူငယ်ချင်း ဝတ္တုကိုအမှတ်ရစရာဖြစ်ပါလိမ့်မယ်။
+ဘယ်နေရာတွေမှာတိုက်ဆိုင်တူညီနေမလဲဆိုတာတော့ ကိုယ်တိုင်အဖြေရှာကြစေချင်ပါတယ်။",
+"watch":"",
+"download":"https://www.mediafire.com/file/3af0bvjjljx0e7o/MyFatherMyself.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMTBjY2VhZmUtNGNjYi00MmZiLWE5ZWEtNjRhZTc3YWQ5MGNhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://i.imgur.com/FzEhsFI.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/3af0bvjjljx0e7o/MyFatherMyself.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
