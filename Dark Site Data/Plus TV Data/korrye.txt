@@ -4360,4 +4360,18 @@ trailer ထွက်ရှိချိန်မှာ LGBT+ အသိုင်�
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/3af0bvjjljx0e7o/MyFatherMyself.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Hugot (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+ကွိုင်းမှာ သူ့ကိုတစ်ဖက်သက် ကြိုက်နေသလို ဆာတိုင်းကျွေးဖော်ရတဲ့ ဂျာပွတ်ဆိုတဲ့ သူငယ်ချင်းမလေးလည်းရှိပေမဲ့ သူတကယ်တမ်းစိတ်ဝင်စားပြီး မှန်းနေရတဲ့သူကတော့ သူ့ကစားဖော်ပြိုင်ဘက်ရဲ့ ရည်းစားဖြစ်တဲ့ တီနာ (Azi Acosta) ဖြစ်ပါတယ်
+ဘာတွေဆက်ဖစ်မလဲ...",
+"watch":"",
+"download":"https://www.mediafire.com/file/31dp7lhwcsog09l/(CM)+Hugot+(2023)+720p.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMTQ3OWFkYTQtNGM5YS00NTc5LTkxMmYtOTE2MTY5OWExYWJkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://aagmaal.io.in/wp-content/uploads/2023/06/Hugot-2023-Filipino-Hot-Movie-VivaMax.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/31dp7lhwcsog09l/(CM)+Hugot+(2023)+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
