@@ -1,13 +1,13 @@
 {Visibility:"VISIBLE",
   
-  tip:"Facebook Page အသစ်လေးကို Like လုပ့်ပေးပါဦး ",
+  tip:"PlayStore ပေါ်မှာ 5 Stars Reviews ပေးပေးကြပါဦးနော် ။ ",
 
-title:"Dark Site ",
+title:"Dark Site",
 
 des:"....",
 
-ddd:"Telegram Click",
-
+ddd:"PlayStore Reviews ",
+  
  Cancelable:"true",
  
  button:"false",
@@ -16,6 +16,6 @@ ddd:"Telegram Click",
  
  out:"#FFFFFF",
  
-image:"",
+image:"https://i.imgur.com/269DPiE.jpg",
 
 clicks:"https://play.google.com/store/apps/details?id=com.plustv.nk"}
