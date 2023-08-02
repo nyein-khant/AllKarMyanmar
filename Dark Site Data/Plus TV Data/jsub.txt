@@ -7859,4 +7859,66 @@ Yua mikami ကို ဒီကားလေးထဲမှာတော့ ကြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00791/meyd00791jp-11.jpg",
 "dapp":"https://pics.dmm.co.jp/digital/video/meyd00791/meyd00791jp-10.jpg",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 430 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းကအလုပ်ကလွဲပြီးနှစ်ပတ်လည်နေ့တောင်မမှတ်မိတော့လို့
+မိန်းမဖြစ်သူကရုံးကကတုံးနဲ့ဘာတွေဆက်ဖြစ်မလဲဆိုတာကတော့
+မင်းသမီးနာမည် Airi Kijima",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00430/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6lauqu8v49rw7jy/Adn-430sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222410/1667957669.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00430/adn00430pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00430/adn00430jp-9.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00430/adn00430jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00430/adn00430jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/u1o2r9e6do7wtwn/adn-430-u.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"KAWD 744 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခုဇာတ်ကားလေးက သူမဒီလောကထဲဝင်လာကာစကဆိုတော့ အရာအားလုံးလတ်ဆတ်နေတယ်။
+ဇာတ်လမ်းသဘောကလဲကြမ်းတယ်…
+တစ်ခုခုကိုလိုချင်တယ် ပိုက်ဆံလဲမရှိဘူးဆိုရင် အကနဲ့ရှင်းလို့ရလားလို့ မေးကြတယ်မလား…
+ခုကားလဲ အဲ့လိုပဲ..
+မင်းသမီးနာမည် Koharu Suzuki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/k/kaw/kawd00744/kawd00744_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/m7wb7rt3x7suntj/Kawd-744sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20220406/1656203350.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/kawd00744/kawd00744pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/kawd00744/kawd00744jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/kawd00744/kawd00744jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/kawd00744/kawd00744jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/ncx0xjmuo99o96g/KAWD-744hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MVSD 544 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်လေးရဲ့အိမ်ကိုလိုက်လည်တဲ့ကိုကိုရိုတယောက် ကောင်လေးနဲ့သူ့အဖေနဲ့ဆက်ဆံရေးဟာအဆင်မပြေမှန်းသတိထားမိပါတယ်
+ဒီဘိုးတော်ကြီးဟာ သိုင်းကားအကြည့်များပီး မတော်ရသေးတဲ့ချွေးမကိုလျှာသိုင်းသုံးပီး မလွန်ဆန်နိုင်အောင်ကိုသိုင်းကွက်တွေပြပေးလိုက်ပါတော့တယ်
+မင်းသမီးနာမည် Ayase Kokoro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mvs/mvsd00544/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8itjir5afumhl3h/MVSD-544-MR%257ESD.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230205/1683865987.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mvsd00544/mvsd00544pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mvsd00544/mvsd00544jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mvsd00544/mvsd00544jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mvsd00544/mvsd00544jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/ro56spwtf261sgn/MVSD-544-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPE 085 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းသားတွေအပေါ်မှာသဘောမနော
+အပေးကောင်းတဲ့ဆရာမလေး
+မင်းသမီးနာမည် Karen Yuzuriha",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/ppp/pppe00085/playlist.m3u8",
+"download":"https://www.mediafire.com/file/49at2vbjr3kh8v9/Pppe_085sd.mp4/file",
+"photo1":"https://m.media-amazon.com/images/I/81I8hKPDZlL._AC_SL1500_.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppe00085/pppe00085pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pppe00085/pppe00085jp-7.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pppe00085/pppe00085jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppe00085/pppe00085jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/i53g3j6pgtzoja5/PPPE_085hd.m4v/file",
+"candownload":"",
 "wcode":"တစ်"}]
