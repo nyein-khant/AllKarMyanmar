@@ -7921,4 +7921,35 @@ Yua mikami ကို ဒီကားလေးထဲမှာတော့ ကြ�
 "photo5":"https://pics.dmm.co.jp/digital/video/pppe00085/pppe00085jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/i53g3j6pgtzoja5/PPPE_085hd.m4v/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASS 115 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အင်းစက်ကားလေးပါ 
+အလုပ်ခရီးအမြဲထွက်ရတဲ့အဖေဖြစ်သူကြောင့် 
+အမြဲလိုအပ်နေတဲ့ အမေ့ကို ရှယ်ပလန်နဲ့ကြုံးတဲ့ သား 
+မင်းသမီးနာမည် Ayaka Mutou",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00115/playlist.m3u8",
+"download":"https://www.mediafire.com/file/78l22mceqj59mok/Dass-115sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230302/1678419558.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00115/dass00115pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00115/dass00115jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dass00115/dass00115jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dass00115/dass00115jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/vhz8px0l8cpwwkm/DASS-115hd.m4v/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ 191 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ထောင်ပြုပြီး မကြာခင်မှာပဲ ခင်ပွန်းဖြစ်သူက အလုပ်ပြုတ်သွားတာကြောင့် တိုက်ခန်းဝယ်ထားတဲ့ အကြွေးတွေဆပ်ဖို့ Aoi တစ်ယောက် သူမရဲ့လက်ရှိအလုပ်ကိုပဲ အားကိုးနေရတော့တာပေါ့
+ဒါပေမယ့်လည်း သူမလုပ်နေတဲ့ကုမ္ပဏီက ဒေဝါလီခံရမယ့်အရေးကြုံနေတဲ့အခါ ကုမ္ပဏီကို ကယ်တင်ဖို့ ရွေးချယ်စရာမရှိဘဲ သူမဘာတွေပေးဆပ်လိုက်ရမလဲ...
+မင်းသမီးနာမည် Aoi Ichino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00191/playlist.m3u8",
+"download":"https://www.mediafire.com/file/aomg8y7lstguos4/Juq-191sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230205/1684401837.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00191/juq00191pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00191/juq00191jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00191/juq00191jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00191/juq00191jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/jqfw76om4jhkr8g/JUQ-191hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
