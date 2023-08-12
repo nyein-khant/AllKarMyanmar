@@ -8162,4 +8162,36 @@ Bikerမလေး ဘဲနဲ့ ရေပူစမ်းမှာကုန်�
 "photo5":"https://pics.dmm.co.jp/digital/video/meyd00828/meyd00828jp-12.jpg",
 "dapp":"https://www.mediafire.com/file/4akvafz2d5a5uze/MEYD-828hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED 462 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Yuzuru ကသူ့အကိုနဲ့အတူနေပါတယ် သူ့အကိုမှာ ကောင်မလေး Aika ရှိပါတယ် သူတို့ကအိမ်မှာ သမီးရည်းစားသဘာဝ လိင်ဆက်ဆံကြတာပေါ့ 
+ဒါပေမယ့် Aika ရဲ့ဘဲ Yuzuru ရဲ့အကိုက တပ်ထွက်ဖြစ်နေတာပါပဲ အဲ့တာကြောင့် မကျေမနပ်ဖြစ်နေတဲ့ Aikaက သူတို့ လိင်ဆက်ဆံတိုင်း လာလာချောင်းနေတဲ့ သူ့ဘဲရဲ့ ညီကို သူ့အကို မရှိခိုက်မှာ ပညာသားပါပါဆွဲစားပါပေတော့တယ်
+မင်းသမီးနာမည် Aika Yamagishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00462/playlist.m3u8",
+"download":"https://www.mediafire.com/file/h8dypef7ga0x4fu/Pred_462sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1680748259.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00462/pred00462pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pred00462/pred00462jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pred00462/pred00462jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00462/pred00462jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/pd06jlr1vdtlmo5/PRED_462hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 433 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဘဝကိုအထီးကျန်စွာဖြတ်သန်းနေရတဲ့ပြောင်ကြီးရဲ့
+ဘေးအိမ်သို့ ညားခါစဇနီးမောင်နှံပြောင်းရွေ့လာခဲ့ပါတယ်
+အိမ်နီးနားချင်းဖြစ်လာတဲ့ဇနီးမောင်နှံဟာ ပြောင်ကြီးနဲ့ သိပ်အဆင်မပြေပါဘူး..
+ဘာတွေဆက်ဖြစ်မလဲ..
+မင်းသမီးနာမည် Yui Kato",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00433/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4zgxh4kon9yo2dd/Adn-433sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222410/1668214084.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00433/adn00433pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00433/adn00433jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00433/adn00433jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00433/adn00433jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/xoq7mxpue5a57pc/ADN-433hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
