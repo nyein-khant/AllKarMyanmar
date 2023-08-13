@@ -8194,4 +8194,67 @@ Yuzuru ကသူ့အကိုနဲ့အတူနေပါတယ် သူ့
 "photo5":"https://pics.dmm.co.jp/digital/video/adn00433/adn00433jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/xoq7mxpue5a57pc/ADN-433hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL 587 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေ့နာရေးကျမှပဲ အိမ်ထောင်ကိုယ်စီကျနေတဲ့ မောင်နှမနှစ်ယောက်ပြန်ဆုံဖြစ်ကြတော့တယ်..
+သူတို့က သွေးသားအရင်းတွေမဟုတ်ဘူးဆိုတာလည်း သိသွားရော..ဘာတွေဆက်ဖြစ်မလဲ..
+မင်းသမီးနာမည် Riho Fujimori",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00587/playlist.m3u8",
+"download":"https://www.mediafire.com/file/824kq2ynrxlazxr/Jul_587sd.mp4/file",
+"photo1":"https://static.sextb.net/poster/jul-587.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00587/jul00587pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00587/jul00587jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00587/jul00587jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00587/jul00587jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/yl70jngydi6cu0z/jul_587hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDE 215 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိမိရဲ့ လက်အောက်မှာအလုပ်လုပ်နေတဲ့ ကောင်မလေးကို သူဌေးကဖွင့်ပြောခဲ့ပေမယ့် သူဌေးရဲ့အချစ်‌တွေကငြင်းပယ်ခံရပြီး သူမဟာ လုပ်ဖော်ကိုင်ဖက်ဖြစ်တဲ့သူကို ရွေးချယ်လက်ထပ်သွားခဲ့ပါတယ်...
+အချစ်စစ်ဆိုတာ မပိုင်ဆိုင်ရရင်နေ ရအောင်တီးဆိုသလို
+
+သူဌေးကလွယ်လွယ်နဲ့လက်မလျော့ဘဲ ဘယ်လိုနည်းလမ်းနဲ့ ဒီကောင်မလေးကိုရအောင်တီးမလဲဆို‌တာ‌ကိုတော့...
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mid/mide00215/mide00215_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/deuxhio5yhoedjp/Mide-215sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20212011/1643267347.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mide00215/mide00215pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P7/main/IMG_20230813_191601.jpg?raw=true",
+"photo4":"https://pics.dmm.co.jp/digital/video/mide00215/mide00215jp-2.jpg",
+"photo5":"https://github.com/minimyanmar/P7/blob/main/AddText_08-13-07.31.32.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/pcylkkjavrhh9i8/MIDE-215hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"GVH 563 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ 
+နာအိုကီဆိုတဲ့ကောင်လေးကကျောင်းမှာအမြဲအနိုင်ကျင့်ခံရပါတယ်။ သူကလည်းအနိုင်ကျင့်ခံရတိုင်းအောက်ကကောင်ကမတ်မတ်လာတတ်လို ပိုအနိုင်ကျင့်ခံရပါတယ်။ အဲ့ဒါကိုကြည့်မနေနိုင်တော့တဲ့ ရီမာဆိုတဲ့ကောင်မလေးက နာအိုကီကိုအနိုင်ကျင့်မခံရအောင်
+ဘယ်လိုတွေလေ့ကျင့်ပေးမလဲကြည့်ရမှာပါ
+မင်းသမီးနာမည် Rima Arai",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/g/gvh/gvh563/playlist.m3u8",
+"download":"https://www.mediafire.com/file/prnswgsz7q5ivca/Gvh_563sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230207/1689995765.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/gvh00563/gvh00563pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/gvh00563/gvh00563jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/gvh00563/gvh00563jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/gvh00563/gvh00563jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/gf9iy3gu84x4lsy/GVH_563hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DASS 167 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့...
+ဟီကာရူဆိုတဲ့ကောင်လေးက စာမတော်လို့သူ့အဖေဆူတာအမြဲခံရပါတယ်။ အဲ့အခါသူ့အပေါ်ကြင်နာပေးတာကသူ့အမေပါ။ အဲ့လိုနဲ့သူ့အမေပေါ်ထားတဲ့ ၅၂၈ က နေတိုးသွားပြီး ၁၅၀၀ ထိအတိုးလွန်သွားတဲ့ဇာတ်ကားပါ
+မင်းသမီးနာမည် Meari Tachibana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00167/playlist.m3u8",
+"download":"https://www.mediafire.com/file/n443g2b8dgvdqu2/Dass_167sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230206/1688133955.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00167/dass00167pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00167/dass00167jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/dass00167/dass00167jp-1.jpg",
+"photo5":"https://pics.vpdmm.cc/digital/video/dass00167/dass00167jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/d7vuxo1o0h97xf8/DASS_167hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
