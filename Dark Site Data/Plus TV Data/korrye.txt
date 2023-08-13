@@ -4448,4 +4448,18 @@ Ji-eun ဆိုတဲ့အမျိုးသမီးဟာ အိမ်ထေ
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/quaax1elmm3vsku/MyFriend_sHusband.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Manyak (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+ဒီကားလေးက ဒေစီရီဆိုတဲ့ကောင်မလေးနဲ့သူ့ကောင်လေးက သူ့အမမိသားစုခရီးသွားမှာမိုလို နယ်ဘက်ကသူ့အမအိမ်ကိုသွားနေကြပါတယ်။ 
+အဲ့လိုနဲ့တစ်ညသူ့ကောင်လေးအလုပ်ကိစ္စနဲ့သွားနေပြီး ညဘက် ဒေစီရီတစ်ယောက်ပဲရှိတဲ့အချိန် အမဲရောက်အရိပ်ကြီးတစ်ခုအိမ်ထဲကိုဝင်လာပါတော့တယ် အဲ့မှာဘာဆက်ဖြစ်မလဲဆိုတာကိုတော့.",
+"watch":"",
+"download":"https://www.mediafire.com/file/oowuc85it4cwue2/Manyak_2023.mp4/file",
+"photo1":"https://i.mydramalist.com/4eoAbK_4f.jpg",
+"photo2":"https://i0.wp.com/www.themoviedb.org/t/p/w780/x2lMjB5w1REalg3xumvXwznVl5Q.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/oowuc85it4cwue2/Manyak_2023.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
