@@ -8332,4 +8332,32 @@ Sumireဟာ လက်ရှိဘဲနဲ့အဆင်ပြေပြီး 
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00739/ssis00739jp-7.jpg",
 "dapp":"https://www.mediafire.com/file/fn24e35bepwsjpq/ssis-739hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPE 141 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းသားတွေအပေါ်စိတ်ဝင်တစားနဲ့ကိုယ်ဖိရင်ဖိသင်ကြားပြသပေးတဲ့ဆရာမလေး
+မင်းသမီးနာမည် Mei Itsukaichi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/ppp/pppe00141/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4n7d0i4kbyiefbk/Pppe_141sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230207/1689861642.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppe00141/pppe00141pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pppe00141/pppe00141jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pppe00141/pppe00141jp-11.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppe00141/pppe00141jp-12.jpg",
+"dapp":"https://www.mediafire.com/file/jo1q7ygfvej57yg/PPPE_141hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ 335 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စတိုးဆိုင်ကအမကြီးက ဆိုင်မှာပစ္စည်းလာခိုးတဲ့ကျောင်းသားလေးတွေကို ဘယ်လိုပုံစံနဲ့ပညာပေးလိုက်မလဲဆိုတော့...
+မင်းသမီးနာမည် Ririko Kinoshita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00335/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2yohnbrop4cceda/Juq-335sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230207/1690042132.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00335/juq00335pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00335/juq00335jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00335/juq00335jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00335/juq00335jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/0kk30viw1hmik0y/juq-335hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
