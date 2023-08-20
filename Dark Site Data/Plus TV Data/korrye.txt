@@ -4462,4 +4462,34 @@ Ji-eun ဆိုတဲ့အမျိုးသမီးဟာ အိမ်ထေ
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/oowuc85it4cwue2/Manyak_2023.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Tasty Aunt(2020)",
+"info":"18+မြန်မာစာတန်းထိုး
+ဂါယွန်းက သူမရဲ့တူဖြစ်သူ မင်ဂျယ်နေတဲ့ အိမ်မှာ အတူနေဖို့ ရောက်လာခဲ့ပါတယ်
+တစ်ချိန်တည်းမှာပဲ မင်ဂျယ်ရဲ့သူငယ်ချင်းဖြစ်သူ ဂွန်းဆူကို ဂါယွန်းက ဖျားယောင်းလိုက်ပါတယ်
+မင်ဂျယ်က သူငယ်ချင်းမဖြစ်သူ ဒါဟယ်ကို သဘောကျနေပြီးဒါဟယ်ကတော့ ဂွန်းဆူကို သဘောကျနေပါတယ်
+ဒီတော့ တူဝရီးနှစ်ယောက်နဲ့ သူငယ်ချင်းနှစ်ယောက်တို့ရဲ့လေးပွင့်ဆိုင်ဇာတ်လမ်းက ဘယ်လိုဆက်ဖြစ်သွားမလဲး",
+"watch":"",
+"download":"https://www.mediafire.com/file/o9n3b8evasidccx/Tasty_Aunt_%25282020%2529.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/Tasty_Aunt-739170321-large.jpg?raw=true",
+"photo2":"https://i.ibb.co/bmtWkKx/2020-1080p-FHDRip-H264-AAC-mp4-snapshot-00-08-31-971.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/o9n3b8evasidccx/Tasty_Aunt_%25282020%2529.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"Madam’s Golf Lesson(2021)",
+"info":"18+မြန်မာစာတန်းထိုး
+Mi Yeong ဆိုတဲ့အမျိုးသမီးဟာ အတ္တကြီးသလိုအိမ်ထောင်ရေးအပေါ်မှာလည်း  စက်ရုပ်ဆန်ဆန်သွားလေ့ရှိတယ်..အိမ်အကူမိန်းကလေးတစ်ယောက်ကိုလည်း သဝန်တိုပြီးအလုပ်ဖြုတ်လိုက်တယ်…
+ဒီနောက်မှာတော့ သူ့ယောက်ျားဂေါက်ရိုက်ဖို့နည်းပြမလေးတစ်ယောက်ကို ငှါးလိုက်တယ်…အဲ့ဒီနောက်မှာတော့အိမ်ထောင်ဦးစီးဘိုးတော်ဟာ ဂေါက်ကျင်းကို နည်းမျိုးစုံသွင်းပါတော့တယ်..",
+"watch":"",
+"download":"https://www.mediafire.com/file/2ag51gbc768wfoh/Madam_s_Golf_Lesson_2021.mp4/file",
+"photo1":"https://github.com/minimyanmar/P7/blob/main/ejebewkwkwkwk.jpg?raw=true",
+"photo2":"https://photos.hancinema.net/photos/photo1410386.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/2ag51gbc768wfoh/Madam_s_Golf_Lesson_2021.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
