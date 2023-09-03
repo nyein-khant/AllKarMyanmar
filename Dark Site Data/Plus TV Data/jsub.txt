@@ -8781,4 +8781,49 @@ AVမင်းသမီးရဲ့ဖန်တွေနဲ့တစ်နေ့
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00769/jul00769jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/4zwi0jqosdw44xx/JUL_769hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 296 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Company ကဝန်းထမ်းလေး Yano တယောက် Overtime မလုပ်ပဲရုံးအစော ဆင်းလေ့ရှိတဲ့သူပါ။
+တရက် ရုံးဆင်းပြီးမှ မေ့သွားတာပြန်လာယူတဲ့အချိန်မှာ သူကြိတ်ခိုက်နေတဲ့ Ai Yokotaနဲ့ မန်နေဂျာ ပလူးပလဲနေနေတာတွေ့တော့ နောက်‌ရက်တွေမှာအကျပ်ကိုင်ပြီးကြုံး...
+မင်းသမီးနာမည် Yu Shinoda",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00296/adn00296_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/gpd3rg77k06cc26/ADN-296-MR%257ESD.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20221202/1649552200.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00296/adn00296pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/adn00296/adn00296jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/adn00296/adn00296jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00296/adn00296jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/paztl32geejeyz2/ADN-296-MR%257EHD.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ROE 130 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Single mother တစ်ယောက် သမီးအတွက် ကျောင်းစရိတ်ရှာဖို့ လူငယ်တွေသာ လုပ်တဲ့ စတိုးဆိုင်မှာဝင်လုပ်ရတယ်
+အတူတူအလုပ်လုပ်တဲ့ ကောလိပ်ကျောင်းသားလေးနဲ့ အိုးချင်းထားအိုးချင်းညှိပြီး အတွဲတွေဖြစ်သွားတယ်
+နောက်ပိုင်းသူတို့အတွဲဘယ်လိုတွေကဲမလည်း သူ့သမီးကကော လက်ခံပါ့မလား အဆုံးထိကြည့်ပေးပါခဗျ
+မင်းသမီးနာမည် Maki Tomoda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/r/roe/roe00130/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z1kzzsrau0b4wrb/Roe-130sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230205/1684401714.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/roe00130/roe00130pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230902_235041.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230902_234924.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230902_234958.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/3lotz02ii5gh99a/Roe-130Hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID 568 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကုမ္ပဏီမှာ အလုပ်အမြဲအဆင်မပြေတဲ့သူမ နည်းလမ်းကောင်းတွေရှာတွေ့သွားတဲ့အခါမှာတော့
+မင်းသမီးနာမည် Iroha Natsume",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00568/playlist.m3u8",
+"download":"https://www.mediafire.com/file/hqauqo04ar37oyg/Atid_568sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230804/1692234936.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00568/atid00568pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230902_010532.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230902_010503.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00568/atid00568jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/f4g9zdhge7h3f7c/ATID_568hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
