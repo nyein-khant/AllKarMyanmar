@@ -8878,4 +8878,29 @@ mc တစ်ယောက်ဘေးခန်းမှာရှိတဲ့ သ�
 "photo3":"https://pics.dmm.co.jp/digital/video/ssis00719/ssis00719jp-10.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/ssis00719/ssis00719jp-9.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00719/ssis00719jp-3.jpg",
-"dapp":"https://www.mediafire.com/file/dm6mnn9tdfkrjnb/%255BPuCi_Movie%255DSSIS-719.mp4/file"}]
+"dapp":"https://www.mediafire.com/file/dm6mnn9tdfkrjnb/%255BPuCi_Movie%255DSSIS-719.mp4/file"},
+{"name":"JUFE 384 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အရမ်းစွာတေးလန်တဲ့သူဌေးမကို အသိတရားရသွားအောင်ဝန်ထမ်းတွေက ဘယ်လိုဆုံးမပေးမလဲဆိုတာကတော့
+မင်းသမီးနာမည် An Mitsumi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juf/jufe00384/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ggvixtoag9t328d/Jufe-384sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230206/1686743275.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jufe00384/jufe00384pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jufe00384/jufe00384jp-1.jpg",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230904_233928.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/jufe00384/jufe00384jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/ly7oo7jrcn0em7c/JUFE-384hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN 439 mmsub ",
+"info":" 
+ယောကျ်ားနဲ့ပျော်ပျော်ပါးပါး သာယာနေခဲ့ပေမယ့် ယောကျ်ားဖြစ်သူခရီးသွားတဲ့ရက်မှာဘဲ Mina Kitanoကိုအမြဲ ချောင်းလိုက်၊ဓာတ်ပုံတွေကြည့်ပြီး ငရုတ်သီးထောင်းလိုက်လုပ်နေတဲ့ ခဲအိုရဲ့ လက်ထဲ ဘယ်လိုတွေကျရောက်သွားမလဲဆိုတာ ကြည့်လိုက်ကြပါဦး.....",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00439/hmn00439_mhb_w.m3u8",
+"download":"https://www.mediafire.com/file/9ruwpks5lfvhw3s/%255BDark_Site%255DHMN-439.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230804/1691725397.jpg",
+"photo2":"https://img3.javmost.cx/images/HMN-439.webp",
+"photo3":"https://pics.dmm.co.jp/digital/video/hmn00439/hmn00439jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hmn00439/hmn00439jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/hmn00439/hmn00439jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/9ruwpks5lfvhw3s/%255BDark_Site%255DHMN-439.mp4/file"}]
