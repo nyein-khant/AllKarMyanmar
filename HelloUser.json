@@ -1,21 +1,21 @@
 {Visibility:"VISIBLE",
   
-  tip:"PlayStore ပေါ်မှာ 5 Stars Reviews ပေးပေးကြပါဦးနော် ။ ",
+  tip:"ဇတ်ကားအသစ်တင်တိုင်းသိရအောင် Follow လုပ့်ထားကျနော်။",
 
 title:"Dark Site",
 
 des:"....",
 
-ddd:"PlayStore Reviews ",
+ddd:"Dark Site Facebook Page ",
   
- Cancelable:"true",
- 
+ Cancelable:"true"
+  
  button:"false",
  
  main:"#B71C1C",
  
  out:"#FFFFFF",
  
-image:"https://raw.githubusercontent.com/nyein-khant/noti.json/main/1691561933713.jpg",
+image:"https://www.dropbox.com/scl/fi/9gpwode1orariltp83z5z/20230905_181356.jpg?rlkey=ggwsnnx3o281zni1k45kcwmut&dl=1",
 
 clicks:"https://play.google.com/store/apps/details?id=com.plustv.nk"}
