@@ -1,21 +1,21 @@
-{Visibility:"GONE",
+{Visibility:"VISIBLE",
   
-  tip:"ဇတ်ကားအသစ်တင်တိုင်းသိရအောင် Follow လုပ့်ထားကျနော်။",
+  tip:"Vpn ခံပီးမှ Appထဲဝင်ပေးပါ ",
 
-title:"Dark Site",
+title:"Dark Plus ADM",
 
-des:"....",
+des:"Telegram Channelဝင်ပေးပါအုံး",
 
-ddd:"Dark Site Facebook Page ",
-  
- Cancelable:"true"
-  
- button:"false",
+ddd:"Telegram Channel ဝင်ရန်နှိပ့်ပါ",
+
+ Cancelable:"true",
  
- main:"#283593",
+ button:"true",
+ 
+ main:"#000000",
  
  out:"#FFFFFF",
  
-image:"https://www.dropbox.com/scl/fi/9gpwode1orariltp83z5z/20230905_181356.jpg?rlkey=ggwsnnx3o281zni1k45kcwmut&dl=1",
+image:"https://i.imgur.com/cTc6Gqw.jpg",
 
-clicks:"fb://profile/100094772477262"}
+clicks:"https://t.me/linhtet3211"}
