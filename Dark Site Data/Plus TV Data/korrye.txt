@@ -4624,4 +4624,17 @@ Mi Yeong ဆိုတဲ့အမျိုးသမီးဟာ အတ္တက�
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/8zsyfswp93pi0l3/Kahalili.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Sugapa (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+Us x Her အပြီးကတည်းက ပျောက်နေခဲ့တဲ့ AJ Raval လေးကို သရုပ်ဆောင်မှုတွေမှာ ပိုမိုအာရုံစိုက်ချင်လို့ဆိုပြီး ဆီလီကွန်ဖယ်ထုတ်ခဲ့တဲ့နောက်ပိုင်း သဘာဝရင်သားနဲ့ပထမဆုံးမြင်ရမယ့်ဇာတ်ကားလည်းဖြစ်ပါတယ်။ အကဲဖြတ်ကြည့်ကြပါ",
+"watch":"",
+"download":"https://www.mediafire.com/file/ef38z0f37rqcolc/(CM)+Sugapa+(2023)+720p.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BODZlMzQ2OWYtYWQ2ZS00NmJmLTg1MTAtNzE2NGZjODUxYmMzXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://img21.tokyvideo.com/videos/310/310385/previews/previews_0012_custom_1691920945.1578.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/ef38z0f37rqcolc/(CM)+Sugapa+(2023)+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
