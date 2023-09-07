@@ -10,7 +10,7 @@ ddd:"Click Facebook",
 
  Cancelable:"true",
  
- button:"true",
+ button:"false",
  
  main:"#283593",
  
