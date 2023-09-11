@@ -8,7 +8,7 @@
 
   "MainTextButton": "Update Install ",
 
-  "Cancelable": "true",
+  "Cancelable": "false",
 
   "CancelButtonText": "Cancel",
 
