@@ -7570,7 +7570,7 @@ VIP ဝင်ပါက ကြော်ညာမတက်ပဲကြည့်ရ
 VIP Key ဝယ်ချင်ပါက - http://t.me/Blackfuckboy",
 "watch":"",
 "download":"https://www.mediafire.com/file/lnwf1kv50kdolyg/PMC443.mp4/file",
-"photo1":"https://i.imgur.com/tcmoTcL.jpg",
+"photo1":"https://www.dropbox.com/scl/fi/89odff10elv4dmgrez9ro/IMG_20230914_181032_921.jpg?rlkey=82mbur12ll5jrgi16k1x49u3f&dl=1",
 "photo2":"https://i.imgur.com/8RMMpld.jpg",
 "photo3":"",
 "photo4":"",
