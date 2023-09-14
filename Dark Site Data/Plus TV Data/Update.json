@@ -6,11 +6,11 @@
 
   "Description": "Update Version 7.5 ပါနော်ဂေါင်းကြီတို့ Mediafire နဲ့ပဲပေးထားပါတယ် Playstore ရှိသူတွေက Playstore ကနေUpdateတင်လို့ရပါတယ်နော် Install တင်မရပါက versionအဟောင်းကိုဖျတ်ပြီးမှversionအသစ်ကိုInstaallတင်ပါ။ ",
 
-  "MainTextButton": "Update Install ",
+  "MainTextButton": "Playstore Link",
 
   "Cancelable": "true",
 
-  "CancelButtonText": "Cancel",
+  "CancelButtonText": "Direct Link",
 
   "DirectLink" : "https://www.mediafire.com/file/hwlektih8kldzr1/Dark_Site_%25287.5%2529.apk/file",
 
