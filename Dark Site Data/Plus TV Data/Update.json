@@ -8,12 +8,14 @@
 
   "MainTextButton": "Update Install ",
 
-  "Cancelable": "false",
+  "Cancelable": "true",
 
   "CancelButtonText": "Cancel",
 
-  "DownloadLink": "https://www.mediafire.com/file/hwlektih8kldzr1/Dark_Site_%25287.5%2529.apk/file",
+  "DirectLink" : "https://www.mediafire.com/file/hwlektih8kldzr1/Dark_Site_%25287.5%2529.apk/file",
 
-  "Version": "7.5"
+  "DownloadLink": "https://play.google.com/store/apps/details?id=com.plustv.nk",
+
+  "Version": "7.6"
 
 }
