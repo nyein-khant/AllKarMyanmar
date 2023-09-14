@@ -8,7 +8,7 @@
 
   "MainTextButton": "Playstore Link",
 
-  "Cancelable": "true",
+  "Cancelable": "false",
 
   "CancelButtonText": "Direct Link",
 
