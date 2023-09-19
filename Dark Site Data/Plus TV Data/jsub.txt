@@ -9210,4 +9210,52 @@ Nao က တိုင်းပြည်ရဲ့ သူရဲကောင်း �
 "photo5":"https://pics.dmm.co.jp/digital/video/1stars743/1stars743jp-5.jpg",
 "dapp":"https://www.mediafire.com/file/j490qo3ih91woko/STARS-743hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED 470 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မကြာခင်လက်ထပ်တော့မဲ့ဆရာမကို ရှယ်ကြုံးလိုက်တဲ့ ကျောင်းသားလေး
+မင်းသမီးနာမည် Mizuki Yayoi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00470/playlist.m3u8",
+"download":"https://www.mediafire.com/file/uvi1gvrwz7bneo7/Pred-470sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230104/1681446197.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00470/pred00470pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pred00470/pred00470jp-4.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pred00470/pred00470jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00470/pred00470jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/9sov7k06gygc4ke/PRED-470hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"STARS 094 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တခုသောညနေခင်းလေးမှာ အရမ်းကိုပူလောင်အိုက်စက်နေပါတယ်
+ရုံဝန်ထမ်းကောင်လေးတယောက်က အပြန်ရထားမမှီမှာစိုးရိမ်နေပေမယ့် သူ့မျှော်လင့်ချက်ကို မိုးမင်းကြီးက ရိုက်ချိုးလိုက်ပါတော့တယ်
+သူပြန်လို့မရတော့တာ သူသိသွားပြီး စိတ်ကိုဒုံးဒုံးချလိုက်တဲ့အချိန်မှာ မမျှော်လင့်ပဲဖြစ်ပေါ်လာတာက
+သူအင်မတန်မှ ရိုသေရတဲ့မန်နေဂျာမလေးက ရေစိုအလှတွေနဲ့အခန်းထဲ ရောက်လာချိန်မှာတော့…
+မင်းသမီးနာမည် Iori Kogawa
+
+Uncensored ကားလေးမို့ ရှင်းရှင်းလင်းလင်းနဲ့ ကြည့်ရှုရမှာပါ",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1st/1stars094/1stars094_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/tlstq38rie5un3m/Stars-094sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20212308/1632663243.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1stars00094/1stars00094pl.jpg",
+"photo3":"https://w3.javsx.com/upload/icons/1stars00094jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1stars00094/1stars00094jp-19.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1stars00094/1stars00094jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/hve6sj6q4g1r88t/STARS-094hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ 352 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်္ဂလာဆောင်ခါနီး ကောင်မလေးတစ်ယောက်ဟာ
+စတိုးဆိုင်မှာပစ္စည်းခိုးမိရာက ဆိုင်ရှင်သိသွားပြီး ရဲမတိုင်စေချင်ရင်ခိုင်းတာလုပ်ရမယ်ဆိုပီး ရှယ်တီးပေးလိုက်တာ
+မင်းသမီးနာမည် Rio Kuriyama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00352/playlist.m3u8",
+"download":"https://www.mediafire.com/file/broxm7jvksltwp9/Juq-352sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230804/1692947266.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00352/juq00352pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00352/juq00352jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/juq00352/juq00352jp-4.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00352/juq00352jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/y798syglvhtbu3j/JUQ-352hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
