@@ -9319,4 +9319,49 @@ Nao Jinguuji တစ်ယောက် မထင်မှတ်တဲ့ လက�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00045/jul00045jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/slsqanfxvm9wgnn/JUL-045%257EHD.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NSFS 200 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အောင်မြင်တဲ့ ကုမ္ပဏီပိုင်ရှင်သူဌေးဖြစ်ပေမယ့် မိန်းမဖြစ်သူကို တခြားလူတွေလုပ်တာကိုကြည့်ချင်တဲ့ အာသီသရှိတာကြောင့် မိန်းမဖြစ်သူကိုခွင့်တောင်းပြီး တခြားယောကျာ်း ၃ ယောက်ကို အွန်လိုင်းပေါ်က စိစစ်ရွေးချယ်ပြီး တစ်ညအိပ် လုပ်ခိုင်းတာပဲဖြစ်ပါတယ်
+မင်းသမီးနာမည် Akari Aizawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/n/nsf/nsfs00200/playlist.m3u8",
+"download":"https://www.mediafire.com/file/bax2tixpmv3ks46/Nsfs-200sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230207/1688789357.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/nsfs00200/nsfs00200pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/nsfs00200/nsfs00200jp-14.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/nsfs00200/nsfs00200jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/nsfs00200/nsfs00200jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/47zuj2zu8355as8/Nsfs-200Hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 054 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကုမ္ပဏီငယ်လေး အသစ်လုပ်ခါစ ဆိုတော့ လင်ဖြစ်သူကအရမ်းအလုပ်ရှုပ်နေတယ်
+ဒါကြောင့် နိုမူရာဆိုတဲ့သူ့ငယ်ချင်းကိုခေါ်ပြီး အကူညီတောင်းနေရတာပေါ့
+နိုမူရာကလည်း အကြွေးသန်းနဲ့ချီသူ့ကိုဆပ်စရာရှိတယ်ဆိုပြီး သူငယ်ချင်းမိန်းမကို ညာပြီးတီးပလိုက်တယ်
+တစ်ကယ့်အကြွေးအစစ်ကဘာလဲ....? သူငယ်ချင်းကိုအရမ်းယုံတဲ့ ယောက်ျားဖြစ်သူကပဲ ရိပ်မိသွားမလား အဆုံးထိဆက်ကြည့်ပေးကြပါ
+မင်းသမီးနာမည် Kouzai Saki",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/a/adn/adn00054/adn00054_dm_w.mp4",
+"download":"https://www.mediafire.com/file/cwrhbg7d5s4gz8c/Adn-054sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230804/1692581875.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/adn054/adn054pl.jpg",
+"photo3":"https://github.com/minimyanmar/p6/blob/main/IMG_20230922_000703.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/p6/blob/main/IMG_20230922_000959.jpg?raw=true",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00054/adn00054jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/yppves953hqmkbi/Adn-054Hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS 798 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မဂ်လာဆောင်ဖို့လုပ်ရာက wedding planner က ex ဖြစ်နေပြီး မဂ်လာမဆောင်ခင်မှာ ရှယ်တီးသွားတာ
+မင်းသမီးနာမည် Ichika Hoshimiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00798/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6sjlx8orqcbje3z/Ssis-798sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230804/1691229556.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00798/ssis00798pl.jpg",
+"photo3":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230922_144926.jpg?raw=true",
+"photo4":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230922_144755.jpg?raw=true",
+"photo5":"https://github.com/minimyanmar/photo1/blob/main/IMG_20230922_145123.jpg?raw=true",
+"dapp":"https://www.mediafire.com/file/tbg3c4asjphj46r/SSIS-798hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
