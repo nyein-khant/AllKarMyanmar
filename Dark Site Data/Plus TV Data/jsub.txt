@@ -9492,4 +9492,20 @@ Nao Jinguuji တစ်ယောက် မထင်မှတ်တဲ့ လက�
 "photo5":"https://github.com/minimyanmar/p6/blob/main/IMG_20230927_010404.jpg?raw=true",
 "dapp":"https://www.mediafire.com/file/37wmfow44tlakb0/MIMK-127hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS 865 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကုမ္ပဏီဥက္ကဌကြီးသေဆုံးသွားတော့ မိန်းမချောချောလေး တစ်ယောက်ပဲကျန်ခဲ့တယ်
+သူဌေးကြီးက မသေခင် ကုမ္ပဏီ ဒေဝါလီခံရတော့မှာကိုမိန်းမကို အသိမပေးဘဲ ပိုက်ဆံတွေရသလောက်ချေးရင် ရုန်းကန်ခဲ့တယ်
+သူဌေးကြီးလည်းဆုံးရော လူမိုက်ဂိုဏ်းသားတွေ အသုဘ အခန်းအနားမှာပဲ ချေးငွေတွေ ပြန်လာတောင်းတဲ့အခါ...
+မင်းသမီးနာမည် Tsukasa Aoi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00865/playlist.m3u8",
+"download":"https://www.mediafire.com/file/x6avo1g8iuccdq4/Ssis-865sd.mp4/file",
+"photo1":"https://m.media-amazon.com/images/I/81alX9GnGiL._AC_SL1500_.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00865/ssis00865pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00865/ssis00865jp-2.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00865/ssis00865jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00865/ssis00865jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/8yvfdd4vdsokhc7/Ssis-865Hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
