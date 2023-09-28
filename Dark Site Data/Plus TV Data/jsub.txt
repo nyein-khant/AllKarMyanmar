@@ -9508,4 +9508,34 @@ Nao Jinguuji တစ်ယောက် မထင်မှတ်တဲ့ လက�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00865/ssis00865jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/8yvfdd4vdsokhc7/Ssis-865Hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA 871 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီဇာတ်ကားလေးထဲမှာတော့ 
+ဆရာမလေး Misaki က သူ့ ကျောင်းသားလေး ကျောင်းမတက်တာကြာပြီမို့လို့ အိမ်လိုက်သွားတော့ အိမ်မှာလည်း ကျောင်းသားကရှိမနေဘဲ ကျောင်းသားရဲ့အဖေနဲ့ပဲ ဆုံလိုက်ရပြီး ရှယ်တီးခံလိုက်ရတာ
+မင်းသမီးနာမည် Kanna Misaki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00871/playlist.m3u8",
+"download":"https://www.mediafire.com/file/fobxgyd7i8uk97m/Miaa-871sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230206/1687708779.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00871/miaa00871pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miaa00871/miaa00871jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miaa00871/miaa00871jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00871/miaa00871jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/9224sc87tm7rwf3/MIAA-871hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MUDR 198 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖေနဲ့ သမီး အင်းစက် ကားပါ 
+သေချာကြည့်မှ သဘောပေါက်နားလည်မယ့်ကားဖြစ်ပါတယ်
+မင်းသမီးနာမည် Ena Koume",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mud/mudr00198/playlist.m3u8",
+"download":"https://www.mediafire.com/file/jtkuf8cj0alcsip/Mudr-198sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20221108/1661485361.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/mudr00198/mudr00198pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/mudr00198/mudr00198jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/mudr00198/mudr00198jp-8.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/mudr00198/mudr00198jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/af3lvl9sq1ksoxq/Mudr-198Hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
