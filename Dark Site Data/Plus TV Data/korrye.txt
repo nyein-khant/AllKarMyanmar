@@ -4772,4 +4772,33 @@ Thriller တွေ အထွက်များခဲ့တဲ့နောက် 
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/x3rfifym0jj2q9c/Patikim_Tikim.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Ikaw Lang Ang Mahal (2022)",
+"info":"18+ မြန်မာစာတန်းထိုး
+မှတ်တမ်းရုပ်ရှင် ရိုက်တဲ့ ဒါရိုက်တာပေါက်စတစ်ယောက်… အနားယူသွားတဲ့ နာမည်ကြီး ဒါရိုက်တာကြီး သုံးယောက်ကို အင်တာဗျူးဖို့ နယ်မြို့လေးတစ်မြို့ကိုရောက်လာတယ်။ တည်းခိုခန်းကို ရောက်တဲ့ညမှာပဲ အဲဒီကိုအရင်ရောက်နှင့်နေတဲ့ ဒါရိုက်တာ ပေါက်စမလေးတစ်ယောက်နဲ့ ဘုတယ်။
+နောက်နေ့ အင်တာဗျူးသွားရင်း အဲဒီဒါရိုက်တာရဲ့ တူမနဲ့ စာရေးဆရာမနဲ့ တွေ့တယ်။ ကြိုက်သွားတယ်။ နောက်နေ့ပါတီလုပ်ပြီး ပစ္စည်းသိမ်းရင်း ဘုတယ်။ဒါရိုက်တာမကြီး ပန်းချီဆရာမကို သွားအင်တာဗျူးရင်း ဘုတယ်။ဇာတ်လမ်းကတော့ အဲဒီလိုပဲ။ အတော်လေးကို အားပါးတရရှိလွန်းလှပါတယ်။ ဖိလစ်ပိုင်သူလေးတွေရဲ့ အလှအပကို စပယ်ရှယ်ခံစားရင်း ကြည့်လိုက်ကြပါတော့",
+"watch":"",
+"download":"https://www.mediafire.com/file/ez308aw5pj44wj5/Ikaw_Lang_Ang_Mahal.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BYjAxYmVkYjktY2ViNS00YTlkLTg0YWQtNTA2ZjQxYjJiYmRkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BOTE1ZGI3Y2QtNmE2Zi00ZDUxLWFjMGEtNmQ2MmEyOWJjZDFkXkEyXkFqcGdeQXVyMTM1NTM4MzQx._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/ez308aw5pj44wj5/Ikaw_Lang_Ang_Mahal.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"Pornstar 2 (2021)",
+"info":"မြန်မာစာတန်းထိုး
+သမီးလေးကြီးရင် ပွန်းစတားဖြစ်ချင်တယ် ဒုတိယပိုင်းပါ
+ဆရာမကြီးလေးယောက် ပထမအစီအစဉ်က မအောင်မြင်တော့ အသစ်လေးတွေကို ပွဲထုတ်လာပါတယ်။ မင်းသမီးလက်သစ်လေးယောက်ကို သင်တန်းပေးကြမှာပါ
+လာလာချင်းမှာတင် မျက်လုံးပြူးစရာတွေနဲ့ စကြိုမယ့် ဇာတ်ကားလေးပါ။",
+"watch":"",
+"download":"https://www.mediafire.com/file/gpo9dj2vqhuf4mf/Pangalawang_Putok.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BZTM4NDNlOGMtMjQzYS00NTY5LWEwN2ItMzc4OGE2ZTczZmJkXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BNGM1YTQ5NzMtZTRlMy00NThiLWFlOWMtNDRjMzY2ZTA4N2E3XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/gpo9dj2vqhuf4mf/Pangalawang_Putok.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
