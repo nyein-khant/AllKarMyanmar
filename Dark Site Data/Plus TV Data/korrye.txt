@@ -4801,4 +4801,17 @@ Thriller တွေ အထွက်များခဲ့တဲ့နောက် 
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/gpo9dj2vqhuf4mf/Pangalawang_Putok.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Teenage Little Sister(2018)",
+"info":"18+မြန်မာစာတန်းထိုး
+လှတပတကောင်မလေးတွေလည်းသဘောကျတယ်…ဆက်စီကျတာလေးမှလည်းဖြစ်မှာဆိုတဲ့သူတွေအတွက် ဒီကားလေးဟာအသင့်တော်ဆုံးပါ…",
+"watch":"",
+"download":"https://www.mediafire.com/file/o766gxj3v0txos3/LittleSister.mp4/file",
+"photo1":"https://photos.hancinema.net/photos/photo975164.jpg",
+"photo2":"https://github.com/minimyanmar/P7/blob/main/IMG_20231019_175457.jpg?raw=true",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/o766gxj3v0txos3/LittleSister.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
