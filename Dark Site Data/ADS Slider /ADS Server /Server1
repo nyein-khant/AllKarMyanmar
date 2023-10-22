@@ -1,3 +1,20 @@
-{"startid1":"on",
-"startid":"209660831",
-"adstime1":"3"}
+{
+    "team1Name": "",
+    "team1Logo": "",
+    "team2Name": "",
+    "team2Logo": "",
+    "league":"",
+    "date":"",
+    "time":"",
+    "timestamp":"",
+    "links":[
+      {
+        "title":"Live 1 HD",
+        "url":"https://www.mfootball.xyz/p/live-22.html?m=1"
+      },
+      {
+        "title":"Live 2 HD",
+        "url":"https://www.mfootball.xyz/p/live-22.html?m=1"
+      }
+    ]
+  }
