@@ -1,28 +1,4 @@
 {
-  "name":"Frez Sport",
-  "version":"0.1",
-  "permission":"Y",
-  "admob":{
-    "banner":"ca-app-pub-3940256099942544/6300978111",
-    "interstitial":"ca-app-pub-3940256099942544/1033173712",
-    "rewarded":"ca-app-pub-3940256099942544/5224354917"
-  },
-  "slider":[
-    {
-      "image":"https://www.rainmaker.in.th/wp-content/uploads/2020/09/118700055_615479862674372_7178579918178389623_n.png",
-      "url":"https://facebook.com/KyiLite"
-    },
-    {
-      "image":"https://backend.shwemyanmar2d.com/storage/slider_image_upload/1682225553_6444b99188a5b.jpeg",
-      "url":"https://www.shwemyanmar2d.com/"
-    }
-  ],
-  "update":{
-    "message":"",
-    "title":"",
-    "url":"https://play.google.com/store/apps/details?id=com.livekyi.myan2d3d",
-    "version":1
-  },
   "clock_ad":{
     "count":"5",
     "image":"https://ghanasoccernet.com/bd/wp-content/uploads/sites/7/2023/06/1xbet-homepage-android.jpg",
