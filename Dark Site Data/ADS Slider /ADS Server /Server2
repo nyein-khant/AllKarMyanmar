@@ -1,6 +1,42 @@
-{"startid1":"off",
-"startid":"209660831",
-"adstime1":"4",
-"applovin":"off",
-"applovinid":"20f3f8cb79acef2b",
-"applovintime":"6"}
+[
+  {
+    "team1Name": "Atletico Madrid",
+    "team1Logo": "https://lsm-static-prod.livescore.com/high/enet/9906.png",
+    "team2Name": "Feyenoord",
+    "team2Logo": "https://lsm-static-prod.livescore.com/high/enet/10235.png",
+    "league":"Champions League (Group E)",
+    "date":"05/10/2023",
+    "time":"01:30 AM",
+    "timestamp":"202310091611",
+    "links":[
+      {
+        "title":"Live 1 HD",
+        "url":"https://www.mfootball.xyz/p/live-5.html?m=1"
+      },
+      {
+        "title":"Live 2 HD",
+        "url":"https://www.mfootball.xyz/p/live-5.html?m=1"
+      }
+    ]
+  },
+  {
+    "team1Logo":"https://lsm-static-prod.livescore.com/high/enet/10260.png",
+    "team1Name":"Manchester United",
+    "team2Logo":"https://lsm-static-prod.livescore.com/high/enet/9826.png",
+    "team2Name":"Crystal Palace",
+    "league":"England - EFL Club Round 3",
+    "date":"27/09/2023",
+    "time":"01:30 AM",
+    "timestamp":"202309270129",
+    "links":[
+      {
+        "title":"Live 1 HD",
+        "url":"https://www.mfootball.xyz/p/live-4.html?m=1"
+      },
+      {
+        "title":"Live 2 HD",
+        "url":"https://www.mfootball.xyz/p/live-5.html?m=1"
+      }
+    ]
+  }
+]
