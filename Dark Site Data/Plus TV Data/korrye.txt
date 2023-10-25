@@ -4814,4 +4814,19 @@ Thriller တွေ အထွက်များခဲ့တဲ့နောက် 
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/o766gxj3v0txos3/LittleSister.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Haliparot (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+စိတ်ကစားတတ်စ ဆယ်ကျော်သက်မလေးရယ်၊ ငယ်ရွယ်တဲ့မိခင်နဲ့ ပထွေးတို့ကြားမှာ တစ်အိမ်တည်းနေပြီး ဘယ်လိုဇာတ်လမ်းတွေရှုပ်ကြမလဲဆိုတာတွေ ဆက်လက်ရှုစားရမှာဖြစ်ပါတယ်။ 
+Pantaxa Laiya မှာအနိုင်ရသွားခဲ့တဲ့ Aiko Garcia လေးရဲ့ ခေါင်းဆောင်နေရာက ပွဲထွက်လာတဲ့ပထမဆုံးကားဖြစ်ပါတယ်။ 
+ဆယ်ကျော်သက်မလေးကို အားပေးလိုက်ကြရအောင်ပါ",
+"watch":"",
+"download":"https://www.mediafire.com/file/rio0if155cmv0va/(CM)+Haliparot+(2023)+720p.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BNjc4ODU0NzQtNjBlMi00ZTEyLWEzYWEtYWQyZjRkNDQ2MmQyXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://raw.githubusercontent.com/minimyanmar/p4/main/e485fae83eb3423580f1d5cceb5a9890.png",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/rio0if155cmv0va/(CM)+Haliparot+(2023)+720p.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
