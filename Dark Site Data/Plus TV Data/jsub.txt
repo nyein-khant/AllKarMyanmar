@@ -10589,4 +10589,35 @@ Momo Sakura ရဲ့ယောကျာ်းဟာ အလုပ်တွေပ�
 "photo3":"https://pics.dmm.co.jp/digital/video/ssis00135/ssis00135jp-5.jpg",
 "photo4":"https://pics.dmm.co.jp/digital/video/ssis00135/ssis00135jp-3.jpg",
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00135/ssis00135jp-10.jpg",
-"dapp":"https://www.mediafire.com/file/61aan0vhfkoh1dd/%255BPuCi_Movie%255DSSIS-135%257ESD.mp4/file"}]
+"dapp":"https://www.mediafire.com/file/61aan0vhfkoh1dd/%255BPuCi_Movie%255DSSIS-135%257ESD.mp4/file"},
+{"name":"YUJ 010 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+၁၂ နှစ်ကြာမှ ပြန်တွေ့တဲ့ ရည်းစားဟောင်းအချစ်ဦးလေးနဲ့ တစ်ညတာကို ဖြတ်သန်းပုံလေးကို ကြည့်ရမှာပါ
+မင်းသမီးနာမည် Tsubaki Sannomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/y/yuj/yuj00010/playlist.m3u8",
+"download":"https://www.mediafire.com/file/hlkni921ytxbulp/Yuj-010sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230908/1695960534.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/yuj00010/yuj00010pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231103_222208.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231103_222100.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/yuj00010/yuj00010jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/2lhju1xgb6zqukh/Yuj-010Hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"IPX 819 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်ကားလေးထဲမှာတော့
+လူပျိုနုနုထွတ်ထွတ်လေးဖြစ်တဲ့ သူ့လက်အောက်က ဝန်ထမ်းလေးနဲ့ မြို့တမြို့ကို အလုပ်ကိစ္စတွေအသွား ဟာရီကိန်း မုန်တိုင်းကြီးတိုက်တော့ ပြန်လာလို့မဖြစ်တဲ့အခြေအနေနဲ့ကြုံခဲ့ရတဲ့အကြောင်းလေးပါ…..
+မုန်တိုင်းဝင်တော့ ဟိုတယ်ခန်းတွေကလည်း ပြည့်တာနဲ့ မတတ်နိုင်တဲ့အဆုံး တစ်ခန်းတည်းမှာပဲ နှစ်ယောက်သားအတူတည်းရပါတော့မည်...
+မင်းသမီးနာမည် Minami Aizawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipx/ipx00819/playlist.m3u8",
+"download":"https://www.mediafire.com/file/rokwj8hnyjr29rh/Ipx-819sd.mp4/file",
+"photo1":"https://jav.wine/wp-content/uploads/2023/01/IPX-819-jav.wine_.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipx00819/ipx00819pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231103_225011.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231103_225206.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P8/main/IMG_20231103_225048.jpg",
+"dapp":"https://www.mediafire.com/file/62k37zvyy5wvxx9/IPX-819hd.mp4/file",
+"dwish":"https://sfastwish.com/xz1vv3az78we",
+"candownload":"",
+"wcode":"တစ်"}]
