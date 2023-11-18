@@ -4960,4 +4960,44 @@ Tae-ho နဲ့ Eun-seo တို့ အမျိုးသမီး ၂ ဦး�
 "dapp":"https://www.mediafire.com/file/2qdsayyaj95r2no/Langitngit_2023.mp4/file",
 "dwish":"https://sfastwish.com/wvd7b2s94y5h",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Love’s Whirlpool (2014)",
+"info":"18+မြန်မာစာတန်းထိုး
+အချစ်ဆိုတာ ဘာလဲ?
+ကာမတဏှာနဲ့ရော ဘယ်လို အဆက်စပ်ရှိလဲ?
+ဒါတွေသိချင်ရင်တော့ ဒီကားလေးက သင့်အတွက်ပါပဲ..
+တိုကျိုမြို့တနေရာမှာ သုခဘုံလေး ရှိနေပါတယ်။နေရာလေးက ကျဉ်းပြီး အချိန်အကန့်သတ်ရှိပါတယ်…
+အဲဒီအချိန်ပိုင်း သုခဘုံကျဉ်းလေးထဲကို ဝင်လိုတဲ့သူတွေက ငွေကြေးပေးရပါတယ်
+ကောင်လေးဆိုရင်တမျိုး ကောင်မလေးဆိုရင်တမျိုး စုံတွဲတွေဆိုရင်တမျိုး ဈေးအသီးသီး သတ်မှတ်ထားပါတယ်….။
+စည်းကမ်းချက်ကတော့ လာကမ်းလှမ်းတဲ့သူကို အကြောင်းပြချက်မခိုင်လုံပဲမငြင်းရဘူး
+အကုန်လုံး အခန်းထဲမှာ အဝတ်ဗလာနဲ့ လူစုံဆိုဒ်စုံ………
+အချစ်မပါတဲ့ ခံစားချက်တွေနဲ့ အထိအတွေ့တွေ ဘယ်လောက်လေးနက်မလဲ
+ဘယ်လို ခံစားရလဲဆိုတာ အတွေးကိုယ်စီနဲ့ ကြည့်ရမဲ့ DS Fans တွေအကြိုက်ဇာတ်ကားကောင်းလေးပါပဲ",
+"watch":"",
+"download":"https://www.mediafire.com/file/b8dzf4ddlctif19/LovesWhirlpool.mp4/file",
+"photo1":"https://image.tmdb.org/t/p/w500/q0By1qS89Rbz1GiU3SHxutM2lPD.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BNjczOGEyOTgtZWQwOC00OWE2LTliMDItYjk1MDI3YWIzOGMyXkEyXkFqcGdeQXVyMjI4MDEzMTE@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/b8dzf4ddlctif19/LovesWhirlpool.mp4/file",
+"dwish":"https://sfastwish.com/lhrrxph0va5i",
+"dmega":"https://megaup.net/1jtlv/Love_s.Whirlpool.2014.1080p.BluRay.x264(DS).mp4",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"Tuhog (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+အက်ဘီက သူ့ချစ်သူ မိုက်ကယ်မရှိတော့တဲ့ အိမ်ကြီးမှာဆက်မနေနိုင်တော့ကြောင်းပြောဖို့ ကြိုးစားခဲ့ပေမဲ့ 
+မိုက်ကယ့်ဖခင်ရဲ့တားမြစ်မှုကြောင့်နေဖြစ်ရာကနေ သန်တုန်းမြန်တုန်းယောက္ခမလောင်းကြီးနဲ့ သွေးသားဆူဖြိုးတဲ့အရွယ်ကိုမှ ယောက်ျားတွေရဲ့အထိအတွေ့နဲ့ဝေးတာကြာပြီဖြစ်တဲ့ အက်ဘီတို့ဟာ အိုးချင်းထား အိုးချင်းတီးကြပါတော့တယ်။ ဒါပေမဲ့ သူတို့နှစ်ယောက်ဇာတ်လမ်းစပြီး မကြာခင်မှာပဲ သေပြီလို့မှတ်ယူထားခဲ့တဲ့ မိုက်ကယ်အိမ်ပြန်ရောက်လာတဲ့အခါမှာတော့…",
+"watch":"",
+"download":"https://www.mediafire.com/file/t30q7roe6ps0rxe/(CM)+Tuhog+(2023)+720p.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMzBmYmY0OTItY2I3Ny00M2M5LWIzZGEtNWZkYzUzMWM3ZWZlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BMzBmYmY0OTItY2I3Ny00M2M5LWIzZGEtNWZkYzUzMWM3ZWZlXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/t30q7roe6ps0rxe/(CM)+Tuhog+(2023)+720p.mp4/file",
+"dwish":"https://sfastwish.com/nl4kk3grrv8a",
+"dmega":"https://megaup.net/1ZBsh/(CM)_Tuhog_(2023)_1080p.mp4",
+"candownload":"",
 "wcode":"တစ်"}]
