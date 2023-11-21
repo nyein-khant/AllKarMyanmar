@@ -5000,4 +5000,20 @@ Tae-ho နဲ့ Eun-seo တို့ အမျိုးသမီး ၂ ဦး�
 "dwish":"https://sfastwish.com/nl4kk3grrv8a",
 "dmega":"https://megaup.net/1ZBsh/(CM)_Tuhog_(2023)_1080p.mp4",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Beauty Salon Special Service 2 (2018)",
+"info":"18+မြန်မာစာတန်းထိုး
+လေ့လာစရာအကွက်တွေ စုံသလို အလှပြင်ဆိုင်က မမကြီးတွေ ဘယ်လို ကျွမ်းကျင်နည်းတွေနဲ့
+ယောကျ်ားလေးတွေကို ဆွဲဆောင်မလဲဆိုတာ လေ့လာရဦးမယ့် ကားကောင်းလေးတစ်ကားလို့ညွှန်းချင်ပါတယ်",
+"watch":"",
+"download":"https://www.mediafire.com/file/ftc3mzrfpppu2a9/Beautyalon.mp4/file",
+"photo1":"https://image.tmdb.org/t/p/w500/5qFTCvx1h1CsHqbAuqo68J8GSub.jpg",
+"photo2":"https://d1nioseo1pj8t9.cloudfront.net/tenants/odv_8718d475-1586-49d1-9cd1-a3b5a84e71d7/photos/beauty-salon-special-service-2-thumb-1920x1080_7d638993.jpg?s3_origin=https%3A%2F%2Fodv-main.s3-us-west-2.amazonaws.com&type=auto&version=9&width=1200",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/ftc3mzrfpppu2a9/Beautyalon.mp4/file",
+"dwish":"https://flaswish.com/r6q4wrxe7lwy",
+"dmega":"https://megaup.net/4HJz6/Beauty.Salon.Special.Services.2.2018.HDTV.1080p.X_Cross(DS).mp4",
+"candownload":"",
 "wcode":"တစ်"}]
