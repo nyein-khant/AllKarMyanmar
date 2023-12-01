@@ -11045,4 +11045,34 @@ Ogi San တို့လင်မယားဟာ ဆရာမ Mizuki သင်တ
 "photo5":"https://pics.dmm.co.jp/digital/video/juq00247/juq00247jp-3.jpg",
 "dapp":"https://www.mediafire.com/file/hu68eh9g7d6b4md/JUQ-402hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"URE 069 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိသားစုလိုက် ခရီးထွက်ဖို့ပြင်ပြီးမှ ယောကျာ်းဖစ်သူက မအားလို့ မလိုက်ဖစ်တော့ပါ
+ဒီလိုနဲ့ သားအမိနှစ်ယောက် သွားရင် ရေပူစမ်းမှာ ကောင်လေး နှစ်ယောက်နဲ့ဆုံတွေ့ခဲ့ပါတော့တယ်
+မင်းသမီးနာမည် Ai Kano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00069/playlist.m3u8",
+"download":"https://www.mediafire.com/file/36t75007jukw3sd/Ure-069sd.mp4/file",
+"photo1":"https://m.media-amazon.com/images/I/91I9BxJvlUS._AC_SL1500_.jpg",
+"photo2":"https://cdn.javsts.com/wp-content/uploads/2021/07/ure069pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ure00069/ure00069jp-10.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ure00069/ure00069jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ure00069/ure00069jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/s6uyidsw80a9a4k/URE-069hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DLDSS 221 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းသားကောင်ဇိုးလေးဟာ ဆရာမကို အကူအညီတောင်းဖို့ ဖုန်းဆက်ပြီးညာခေါ်လိုက်တယ်
+သူတို့အဖွဲ့ထဲမှာ ဆရာမရဲ့အချစ်ကိုမရတဲ့ ဆရာတစ်ယောက်လဲ ပါဝင်လာတဲ့အခါမှာတော့ ဘာတွေဆက်မလဲ အဆုံးထိကြည့်ပေးပါ
+မင်းသမီးနာမည် Ayaka Tomoda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss221/playlist.m3u8",
+"download":"https://www.mediafire.com/file/u2yf9gvvlkdzutv/Dldss-221sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231011/1699664605.jpg",
+"photo2":"https://cdn.javsts.com/wp-content/uploads/2023/08/DLDSS-221_1200.jpg",
+"photo3":"https://cdn.faleno.net/dahlia/wp-content/uploads/2023/08/01.jpg",
+"photo4":"https://cdn.faleno.net/dahlia/wp-content/uploads/2023/08/07.jpg",
+"photo5":"https://cdn.faleno.net/dahlia/wp-content/uploads/2023/08/10.jpg",
+"dapp":"https://www.mediafire.com/file/82s13e2r24vxg5g/DLDSS-221hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
