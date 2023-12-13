@@ -11243,4 +11243,62 @@ November 10 ရက်နေ့ကမှထွက်ရှိထားတဲ့ �
 "dapp":"https://www.mediafire.com/file/zi1iedv49e74883/PPPE-127hd.mp4/file",
 "dwish":"https://flaswish.com/kbrgtim8ir1y",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ALDN 242 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းနဲ့ ကလေးမရနိုင်လို့ 
+ယောကျာ်းရဲ့အဖေကိုပဲ အားကိုးလိုက်တဲ့ Shiori လေး
+မင်းသမီးနာမည် Shiori Tsukada",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ald/aldn242/playlist.m3u8",
+"download":"https://www.mediafire.com/file/7fsvyuw0ycdtrd7/Aldn-242sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231711/1700889137.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/aldn00242/aldn00242pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231211_004911.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231211_004956.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231211_005046.jpg",
+"dapp":"https://www.mediafire.com/file/l527m7nme8irp0i/ALDN-242hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MGOLD 016 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+တောရွာလေးကို အလည်သွားရင်း တစ်ယောက်တည်းပျင်းလို့ ဦးလေးကြီး မြူဆွယ်မိလိုက်တဲ့ ဒီ MGOLD-016 ဆိုတဲ့ ကားလေးထဲမှာတော့ မီးကုန်ယမ်းကုန် သရုပ်ဆောင်ချက်တွေနဲ့ တင်ဆက်ပြသွားတာကို စုတ်တချက်ချက်သပ်ရင်း ကြည့်ရှုရမှာဖြစ်လို့ ကြည့်ဖြစ်အောင်သာ ကြည့်လိုက်ကြပါဦးလို့ပဲ နှိုးဆော်လိုက်ရပါတယ်ခင်ဗျ....
+မင်းသမီးနာမည် Hikaru Natsuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1mg/1mgold016/playlist.m3u8",
+"download":"https://www.mediafire.com/file/5bs82zo7n0qgr0a/Mgold-016sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20230104/1680748196.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1mgold00016/1mgold00016pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231212_002117.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1mgold00016/1mgold00016jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1mgold00016/1mgold00016jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/kfufsc2d6r1h5r7/Mgold-016hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DLDSS 196 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပရိသတ်ကြီးကို ခုတစ်ခါတင်ဆက်ပေးချင်တဲ့ နတ်မိမယ်လေးက ဆာတိုနီဟီရာဂီတဲ့ 96 born လေး သူမဟာ အခုဆိုရင် မနူးမနပ်လေးလဲမဟုတ် 
+မမကြီးမဖြစ်သေးတဲ့ မမပေါက်စအရွယ် ၂၇ နှစ်နဲ့ လှသွေးတွေအရမ်းကြွယ်နေတာပေါ့လှပဝိုင်းစက်တဲ့မျက်ဝန်းလေးရယ် ပုရိသတွေအကြိုက် သဘာဝအတိုင်းလှနေတဲ့ရွှေရင်အစုံရယ် ရွှေရင်သိမ်းသစ် မောင့်အချစ်လေးပါပဲ
+မင်းသမီးနာမည် Rion Hiiragi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss196/playlist.m3u8",
+"download":"https://www.mediafire.com/file/v32ff83grtiudyt/Dldss-196sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20230908/1694491844.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1dldss196/1dldss196pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1dldss196/1dldss196jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1dldss196/1dldss196jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1dldss196/1dldss196jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/jo0zvsvlhoy8qcd/DLDSS-196hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"STARS 260 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်ဇော်ကို ချာတိတ်လေး ထင်ပီး တစ်ခန်းတည်းအတူတည်းမိလို့ နောင်တရသွားခဲ့တဲ့ သူဌေးမမ
+မင်းသမီးနာမည် Yuna Ogura",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1st/1stars260/1stars260_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/72emud8i6forwmj/Stars-260sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20212709/1634267165.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1stars00260/1stars00260pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1stars00260/1stars00260jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1stars00260/1stars00260jp-16.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1stars00260/1stars00260jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/yeqb37zokdeg3ww/STARS-260hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
