@@ -11301,4 +11301,47 @@ November 10 ရက်နေ့ကမှထွက်ရှိထားတဲ့ �
 "photo5":"https://pics.dmm.co.jp/digital/video/1stars00260/1stars00260jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/yeqb37zokdeg3ww/STARS-260hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED 532 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိုးအရမ်းရွာနေလို့ ရထားတွေပိတ်သွားပီး အိမ်ပြန်ရခက်နေတဲ့ အလုပ်ကချာတိတ်လေးကို သနားပီးအိမ်ခေါ်လာခဲ့မိတဲ့ နောင်တရသွားခဲ့တဲ့ကောင်မလေး...
+မင်းသမီးနာမည် Karen Yuzuriha",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00532/playlist.m3u8",
+"download":"https://www.mediafire.com/file/csqp1nla5p68yki/Pred-532sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231711/1700444903.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00532/pred00532pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/AddText_12-14-10.38.32.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231214_223237.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00532/pred00532jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/2zpa7fhiumovjhi/PRED-532hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS 096 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Trip လေးမှာ တညလုံးသောင်းကျန်း
+မင်းသမီးနာမည် Sayaka Otoshiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00096/playlist.m3u8",
+"download":"https://www.mediafire.com/file/8ev8t8nfffftq03/Ssis-096sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20212011/1639280684.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00096/ssis00096pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00096/ssis00096jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00096/ssis00096jp-7.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00096/ssis00096jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/tckgqymesu5xqxz/SSIS-096hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"STARS 355 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိန်းမနဲ့ရန်ဖြစ်ပြီးအိမ်ကဆင်းလာကာ သားဖြစ်သူ နေအိမ်သို့ ရောက်လာသောယောက္ခထီးဟာ ဖောင်းကား‌နေတဲ့ အိုးလုံးလုံးလေးကို ပိုင်ဆိုင်ထားတဲ့ ချွေးမရဲ့ အလှတရားမှာ ကျရှုံး.....
+ရပ်ပါတော့ဖေဖေ လို့ သူမဟာ အော်ဟစ်နေပေမယ့် ယောက္ခထီးကြီးကိုတော့ မရပ်တန့်နိုင်ခဲ့ပါ
+မင်းသမီးနာမည် Yuna Ogura",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1st/1stars355/1stars355_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/z5orzpd9yl8s0lk/Stars-355sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20212308/1631599569.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1stars00355/1stars00355pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231216_002545.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231216_002637.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231216_002756.jpg",
+"dapp":"https://www.mediafire.com/file/y3gvmmxq2x9gayx/STARS-355hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
