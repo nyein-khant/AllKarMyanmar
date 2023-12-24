@@ -11486,4 +11486,62 @@ Volume-I နဲ့ Volume-II ဆိုပြီး ၂ ပိုင်းရိ�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00758/jul00758jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/avo5vkyxr330a43/JUL-758hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SAME 080 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဦးနဲ့ သမီး ဇာတ်လမ်းလေးပါ
+အမေဆုံးသွားပီးနောက် သမီးရဲ့ သူငယ်ချင်းမလေးကိုမှ မှန်းနေခဲ့တဲ့အဖေကို အားပေးလိုက်ကြပါအုံး
+မင်းသမီးနာမည် Ema Futaba",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00080/playlist.m3u8",
+"download":"https://www.mediafire.com/file/m7iz2wh2j0o9lxv/Same-080sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231011/1699582405.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00080/same00080pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231222_003450.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231222_003523.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231222_003611.jpg",
+"dapp":"https://www.mediafire.com/file/e52q6gs75mdxgyu/SAME-080hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL 735 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းက ပုံမှန် မတီးပေးလို့
+Ex ဆီသွားပီး ကုန်းပေးလိုက်တဲ့ အချေလေး...
+မင်းသမီးနာမည် Rena Kodama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00735/playlist.m3u8",
+"download":"https://www.mediafire.com/file/rrrsm9nrcxev6ho/Jul-735sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20212709/1635214716.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00735/jul00735jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/jwx9nsmpzxrfhan/JUL-735hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"CAWD 229 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းယူနီဖောင်းလေးနဲ့ အရမ်းကိုချစ်ဖို့ကောင်းတဲ့ ပေပီလေးကို သရေကျနေတဲ့ ဘေးအခန်းက ငနဲ
+မင်းသမီးနာမည် Yumeru Kotoishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/c/caw/cawd00229/playlist.m3u8",
+"download":"https://www.mediafire.com/file/2lpft9o4vb6h8lc/Cawd-229sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20212709/1636592070.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/cawd00229/cawd00229pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231223_220208.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/cawd00229/cawd00229jp-4.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231223_220249.jpg",
+"dapp":"https://www.mediafire.com/file/q7ohaadn9690irs/CAWD-229hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"FSDSS 672 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သူငယ်ချင်းရဲ့မောင်လေးကို ချာတိတ်လေးထင်ပြီး ဆိုင်မှာ အလုပ်ခန့်မိလို့ပေးဆပ်လိုက်ရတဲ့ ဆိုင်ရှင်မမ
+မင်းသမီးနာမည် Nene Yoshitaka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss672/playlist.m3u8",
+"download":"https://www.mediafire.com/file/pejy926it3vi0am/Fsdss-672sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231011/1697259924.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1fsdss672/1fsdss672pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p5/main/IMG_20231224_202941.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1fsdss672/1fsdss672jp-1.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1fsdss672/1fsdss672jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/ts5lwhfc5pwg6ng/FSDSS-672hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
