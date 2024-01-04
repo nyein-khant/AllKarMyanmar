@@ -11701,4 +11701,18 @@ Ex ဆီသွားပီး ကုန်းပေးလိုက်တဲ့ 
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00529/jul00529jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/knf7w3xbutu814e/JUL-529hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN 502 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းနေဖက်သူငယ်ချင်းနှစ်ယောက်ဟာ အမှတ်မထင်ပြန်ဆုံတွေ့ကြရင်းနဲ့...
+မင်းသမီးနာမည် Riho Fujimori",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00502/playlist.m3u8",
+"download":"https://www.mediafire.com/file/xx7gg3a7q23xkx1/Hmn-502sd.mp4/file",
+"photo1":"https://jav.wine/wp-content/uploads/2023/11/HMN-502-jav.wine_.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00502/hmn00502pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/hmn00502/hmn00502jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/hmn00502/hmn00502jp-2.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240104_210036.jpg",
+"dapp":"https://www.mediafire.com/file/mgvx15ydxpa2hs8/HMN-502hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
