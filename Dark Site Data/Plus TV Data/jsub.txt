@@ -11610,4 +11610,95 @@ Ex ဆီသွားပီး ကုန်းပေးလိုက်တဲ့ 
 "photo5":"https://pics.dmm.co.jp/digital/video/h_1712kbi095/h_1712kbi095jp-8.jpg",
 "dapp":"https://www.mediafire.com/file/pf3ppchhoskb1dx/KBI-095hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL 783 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းထဲမှာတော့ သူမဟာ ဗီလိန်ဖက်တီးကောင် နှိုက်မြည်းသွားတာကို ခံလိုက်ရတဲ့ မထုံတတ်သေးစတိုင်နဲ့ သနားစဖွယ်မြင်တွေ့ရမှာပါ
+မင်းသမီးကတော့ အပြုံးလေးကအရမ်းချိုမြိန်ပါတယ်လို့နာမည်ကြီးသလိုမျက်နှာရောခန္ဓာကိုယ်ရော တကယ်ပြည့်စုံတဲ့ Meisa Kawakita ဖြစ်ပါတယ်
+မင်းသမီးနာမည် Meisa Kawakita",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00783/playlist.m3u8",
+"download":"https://www.mediafire.com/file/9sse25guz1fgt3a/Jul-783sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20212011/1638293312.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00783/jul00783pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231230_001059.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231230_001528.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00783/jul00783jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/b665evullronjsf/JUL-783hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS 940 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆေးရုံကဆရာဝန်မလေးနဲ့ လူနာတွေရဲ့ ဆေးကုပေးတဲ့ဇာတ်ကားလေးဖြစ်ပါတယ်
+ဆေးကုပေးတဲ့နည်းကလည်း အဆန်းကြီးမလို့ အားလုံးကို ကြည့်စေချင်ပါတယ်
+နာတဲ့သူကို အနာသက်သာအောင် ကြောက်တဲ့သူကို ကြောက်စိတ်တွေပြေသွားအောင် နည်းအမျိုးမျိုးနဲ့ကုစားပေးမှာဖြစ်ပါတယ်
+မင်းသမီးနာမည် Tsukasa Aoi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00940/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4ovc4c6m02zii11/Ssis-940sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20231011/1699830862.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00940/ssis00940pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00940/ssis00940jp-6.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00940/ssis00940jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00940/ssis00940jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/nyg4yunwojt30tn/SSIS-940hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA 590 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဆရာမနဲ့ ကျောင်းသားလေးတို့ရဲ့ ဇာတ်လမ်းလေးဖြစ်ပါတယ်
+အထန်ဆရာမ နဲ့ လူရိုးလေးမောင်ဇော်
+တစ်နေ့ ဆရာမနဲ့ကျောင်းသားလေး နှစ်ယောက်တည်းရှိတုန်း ဆရာမက စိတ်တွေမထိန်းနိုင်တော့တဲ့အခါ...
+မင်းသမီးနာမည် Sumire Mizukawa",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00590/playlist.m3u8",
+"download":"https://www.mediafire.com/file/d1aahpd4zxj24du/Miaa-590sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20233001/1676253201.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00590/miaa00590pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miaa00590/miaa00590jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/miaa00590/miaa00590jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00590/miaa00590jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/ilw26mii29h7i70/MIAA-590hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED 391 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+စုံထောက်မလေးက သူအကိုကိုရှာဖို့ အတွက် လူဆိုးဂိုဏ်းတစ်ခုထဲ ဟန်ဆောင်ပြီးဝင်ရောက်လာခဲ့ပါတယ်
+လူဆိုးတွေလက်ထဲမိသွားမလား အစ်ကိုဖြစ်သူကို ကယ်တင်နိုင်မလားဆိုတာကိုတော့ ဇာတ်လမ်းထဲမှာကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Karen Yuzuriha",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00391/playlist.m3u8",
+"download":"https://www.mediafire.com/file/zb71bmj2z9elykr/Pred-391sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222612/1673920967.jpg",
+"photo2":"https://cdn.javsts.com/wp-content/uploads/2023/07/pred391pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240103_001742.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20240103_001718.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00391/pred00391jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/xowaj0oaip5nte3/pred-391hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED 257 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချစ်သူကောင်မလေးက ပြီးတာမြန်လို့ ပျက်မယ်လုပ်နေတော့ ဒုက္ခရောက်နေတဲ့မောင်ကျောင်းသားလေးကို အဆုံးထိကူညီပေးတဲ့ ဆရာမလေးရဲ့ဇာတ်ကားဖြစ်ပါတယ်.....
+မင်းသမီးနာမည် Yuki Takeuchi",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/pre/pred00257/pred00257_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/ued9wf4vm1dsef8/Pred-257sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20231011/1698889577.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00257/pred00257pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/pred00257/pred00257jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pred00257/pred00257jp-2.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00257/pred00257jp-5.jpg",
+"dapp":"https://www.mediafire.com/file/i4aot6mq3c6y88i/pred-257hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUL 529 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မမ Naoတို့က ကျေးဇူးသိတတ်ချက် ယောက်ျားက အိမ်အပြင်မောင်းထုတ်ထားချိန် 
+နှစ်သိမ့်ပေးတဲ့မောင်လေးကို စမူဆာနဲ့ကျေးဇူးပြန်ဆပ်တာ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/j/jul/jul00529/jul00529_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/d0jljffyyzukpsr/Jul-529sd.mp4/file",
+"photo1":"https://images-na.ssl-images-amazon.com/images/I/91hIsp4YvSL._AC_SL1500_.jpg",
+"photo2":"https://cdn.javsts.com/wp-content/uploads/2021/04/jul529pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231231_003121.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P9/main/IMG_20231231_002957.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/jul00529/jul00529jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/knf7w3xbutu814e/JUL-529hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
