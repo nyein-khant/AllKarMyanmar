@@ -9,13 +9,13 @@
     "title": "Soul Land",
     "description": "",
     "thumbnail": "https://telegra.ph/file/158a466962f601d97c1d3.jpg",
-    "inten": "false",
+    "inten": "true",
     "url": "https://video1.mp4, https://video2.mp4"
   }, 
 {
     "title": "Swallowed Star",
     "thumbnail": "https://telegra.ph/file/e7bee71df15086602b681.jpg",
     "inten": "false",
-"links":"https://video2.mp4"
+"url":"https://video2.mp4"
   }
 ]
