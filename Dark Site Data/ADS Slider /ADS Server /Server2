@@ -5,6 +5,7 @@
     "thumbnail": "https://telegra.ph/file/425d7252ebdfbc5498dad.jpg",
     "series": true,
     "inten": "false",
+"links":"https://video1.mp4"
     "url": "https://video1.mp4, https://video2.mp4"
   }, {
     "title": "Soul Land",
@@ -13,6 +14,7 @@
     "category": "Animation",
     "series": true,
     "inten": "false",
+"links":"https://video1.mp4"
     "url": "https://video1.mp4, https://video2.mp4"
   }, 
 {
