@@ -12,13 +12,11 @@
     "category": "Animation",
     "series": true,
     "url": "https://video1.mp4, https://video2.mp4"
-  }, {
+  }, 
+{
     "title": "Swallowed Star",
-    "description": "",
     "thumbnail": "https://telegra.ph/file/e7bee71df15086602b681.jpg",
-    "category": "Animation",
-    "status": "Ongoing",
-    "inten": true,
-    "url": "https://video1.mp4"
+    "inten": "true",
+"links:"https://video1.mp4",
   }
 ]
