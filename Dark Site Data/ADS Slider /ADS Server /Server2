@@ -3,8 +3,8 @@
     "title": "Daryal Dixon",
     "description": "",
     "thumbnail": "https://telegra.ph/file/425d7252ebdfbc5498dad.jpg",
-    "inten": "false",
-    "url": "https://video1.mp4, https://video2.mp4"
+    "inten": "true",
+    "links": "https://video1.mp4"
   }, {
     "title": "Soul Land",
     "description": "",
