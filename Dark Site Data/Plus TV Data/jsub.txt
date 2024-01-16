@@ -11845,4 +11845,53 @@ Jun Kasui ဆိုတာ အသက် ၂၂ ပဲရှိသေးတဲ့ 
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240111_004254.jpg",
 "dapp":"https://www.mediafire.com/file/qwz9pox901bkkhp/SSIS-953hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASS 203 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ပင်ပန်းနေလို့မောင်လေးဖြစ်သူကို နိုပ်ခိုင်းမိရာကနေ ဖင်ချခံ‌ရတော့မယ့် အစ်မ
+1 စင်တီမီတာလောက် ထည့်ခွင့်ပြုပါဆိုတဲ့ မောင်လေး ရဲ့တောင်းဆိုမှုကနေ ရုန်းထွက်နိုင်ပါ့မလား....
+မင်းသမီးနာမည် Mei Satsuki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00203/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3xnefeefgy81qem/Dass-203sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20230804/1692001105.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00203/dass00203pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00203/dass00203jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240114_181830.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240114_182147.jpg",
+"dapp":"https://www.mediafire.com/file/cbj8htw5hjupmsl/DASS-203hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ALDN 246 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယူထားတဲ့ယောက်ျားက (၃မိနစ်)ဆိုတော့ 
+ဆန္ဒမပြည့်ဝခဲ့တဲ့ မီဟိုတစ်ယောက် ယောက္ခမအိမ်ကိုအလည်သွားရာမှ ယောက္ခမထီးရဲ့ ဒုတ်စာ မိသွားပြီး အယားပြေသွားပါတော့တယ်
+ဘာတွေဆက်ဖြစ်မလဲ....
+မင်းသမီးနာမည် Miho Tono",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ald/aldn00246/playlist.m3u8",
+"download":"https://www.mediafire.com/file/826w1ghy7onbfur/Aldn-246sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20231912/1703988097.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/aldn00246/aldn00246pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240114_012248.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240114_012338.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/aldn00246/aldn00246jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/ysqkmayj30kn8fl/aldn-246hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"FPRE 004 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားဖြစ်သူက မိန်းမခိုးလာပြီး အိမ်ခေါ်လာခဲ့တယ်
+အဲမှာ ယောက္ခမထီးနဲ့ တွေ့ကြပါပီ
+ချွေးမက အကြောတင်းလေးဆိုတော့ ယောက္ခမထီးနဲ့ မတည့်ကြပါဘူး 
+ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/f/fpr/fpre00004/playlist.m3u8",
+"download":"https://www.mediafire.com/file/w0ev8s72d2tskig/Fpre-004sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20231912/1704020502.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/fpre00004/fpre00004pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240115_192048.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240115_191928.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240115_192410.jpg",
+"dapp":"https://www.mediafire.com/file/izeot064mwlarg4/FPRE-004hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
+
