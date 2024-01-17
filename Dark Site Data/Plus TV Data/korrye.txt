@@ -5230,4 +5230,19 @@ Rica Gonzales လို့ခေါ်ပြီး အလှအပနေရာ�
 "dapp":"https://www.mediafire.com/file/z31dzxc9qy09fps/(CM)+Hibang+(2023)+720p.mp4/file",
 "dwish":"https://obeywish.com/t67wnz3mddkn",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Bedspacer (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+ဂျဲနက်စ်ဆိုတဲ့ကောင်မလေးဟာ တစ်ချိန်က ရာဇဝတ်မှုနောက်ခံရှိခဲ့ပြီး ကျောင်းကိုပြောင်းလာတဲ့ ကျောင်းသူသစ်ဖြစ်ပါတယ်။ သူလာတက်တဲ့ကျောင်းက သူဌေးသားသူဌေးသမီးတွေအတက်များပြီး အရက်၊ မူးယစ်ဆေးနဲ့ လိင်ကိစ္စတွေဟာ အထူးအဆန်းမဟုတ်သလို အရာရာကို ငွေလမ်းခင်းလို့ရတဲ့နေရာပါ။
+ရောက်ရောက်ချင်းညမှာပဲ သူ့အဆောင်က ကောင်မလေးနှစ်ယောက် ချစ်တင်းနှောတာကိုချောင်းကြည့်သလိုဖြစ်သွားတဲ့အတွက် ရန်ငြိုးဖွဲ့ခံလိုက်ရပြီး နောက်နေ့ကျ သူကျူးလွန်ခဲ့တဲ့ရာဇဝတ်မှုက ဗီဒီယိုနဲ့ အရှက်ခွဲခံခဲ့ရပါတယ်။ အဲဒီမှာသူ့ကိုကယ်တင်ပေးခဲ့တဲ့ လက်စီ ဆိုတဲ့ မိန်းကလေးကို အားကိုးမိ၊ တွယ်တာမိရာကနေ ပုံမှန်ထက် လွန်ကဲသွားတဲ့အခါမှာတော့....",
+"watch":"",
+"download":"https://www.mediafire.com/file/ojlvjr39lummtgb/Bedspacer.mp4/file",
+"photo1":"https://raw.githubusercontent.com/minimyanmar/P10/main/MV5BMTc3YTIzMTAtMDU1NS00ZTcxLWJlNjAtYWM1OGUxZjllNDViXkEyXkFqcGdeQXVyNTI5NjIyMw%40%40._V1_FMjpg_UX1080_.jpg",
+"photo2":"https://raw.githubusercontent.com/minimyanmar/P10/main/Screenshot_2024-01-15-15-09-23-521_com.mxtech.videoplayer.pro.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dwish":"https://streamvid.net/4u8e7cy3gkcw",
+"dapp":"https://www.mediafire.com/file/ojlvjr39lummtgb/Bedspacer.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
