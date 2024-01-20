@@ -11923,5 +11923,67 @@ Jun Kasui ဆိုတာ အသက် ၂၂ ပဲရှိသေးတဲ့ 
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240118_000604.jpg",
 "dapp":"https://www.mediafire.com/file/2pu6an84o3espqo/STARS-978hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"CAWD 574 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီတစ်ခါတင်ဆက်ပေးမဲ့ကားလေးကတော့ ချစ်စရာသမီးပျိုလေး ၃ယောက်ရဲ့ လစ်ဟာမှုမရှိ အပြုအစုတွေကို ရိုက်ကူးတင်ဆက်ပြသပေးထားတဲ့ ကားလေးပဲဖြစ်ပါတယ်",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/c/caw/cawd00574/playlist.m3u8",
+"download":"https://www.mediafire.com/file/9dg12oe09bhrkqv/Cawd-574sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231711/1701874765.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/cawd00574/cawd00574pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240120_115841.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240120_115915.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/cawd00574/cawd00574jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/uluwwo8ik2lsuw4/CAWD-574hd.mp4/file",
+"candownload":"",
+"dwish":"https://obeywish.com/pnz4li2uaw25",
+"wcode":"တစ်"},
+{"name":"JUL 859 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကျောင်းတက်ဖို့အိမ်ပြောင်းလာတဲ့လူပျိုပေါက်ကောင်လေးတစ်ယောက် ဘေးအိမ်ကစီနီယာမမနာအိုနဲ့တွေ့သောအခါဝယ်..
+ဒီကားထဲမှာနာအိုရဲ့ဦးဆောင်မှုတွေကိုမြင်တွေ့ရမှာပါ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00859/playlist.m3u8",
+"download":"https://www.mediafire.com/file/pipenzknz4bmsxd/Jul-859sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20212011/1643956900.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/jul00859/jul00859pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/jul00859/jul00859jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240119_000547.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240119_000724.jpg",
+"dapp":"https://www.mediafire.com/file/qysbao5bd51yqj6/JUL-859hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ABW 290 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီကားလေးထဲမှာတော့ ရွာမှာနေရတာ ပျင်းနေတဲ့ သူငယ်ချင်းမလေးရယ် မြို့တက်အလုပ်လုပ်တဲ့ သူငယ်ချင်းကောင်လေးရယ် အကြောင်းကို ရိုက်ပြထားတာပါ…..
+မြို့က ဆေးဆိုးပန်းရိုက်မျက်နှာတွေ ဘယ်လောက်လှလှ ရွာကအလှစစ်ကို မမေ့နိုင်လောက်အောင် ဖြစ်သွားတဲ့အထိ သူငယ်ချင်းကို ပြုစုပေးနိုင်တဲ့ သူငယ်ချင်းမလေးအကြောင်း တဝကြီးသာ ကြည့်ရှုခံစားလိုက်ပါဦး
+မင်းသမီးနာမည် Airi Suzumura",
+"watch":"https://mgstage.javtrailers.com/https://sample.mgstage.com/sample/prestige/abw/290/abw-290_20221003T193801.mp4",
+"download":"https://www.mediafire.com/file/4usjlelpxiw80iz/Abw-290sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20230804/1693961024.jpg",
+"photo2":"https://image.mgstage.com/images/prestige/abw/290/pb_e_abw-290.jpg",
+"photo3":"https://image.mgstage.com/images/prestige/abw/290/cap_e_1_abw-290.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240119_132413.jpg",
+"photo5":"https://image.mgstage.com/images/prestige/abw/290/cap_e_10_abw-290.jpg",
+"dapp":"https://www.mediafire.com/file/ntmpc9odw9cn8ry/ABW-290hd.mp4/file",
+"dwish":"https://obeywish.com/h17bordvtt0u",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS 986 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းထဲမှာတော့ သူမကို ရုံးဝန်ထမ်းကောင်မလေးအဖြစ်မြင်တွေ့ရမှာဖြစ်ပြီး သူမနဲ့လိုက်ဖက်တဲ့ သဘောကောင်းသူလေးအဖြစ်တင်ဆက်ထားတာပါ
+
+သဘောကောင်းတာကို အခွင့်အရေးယူပြီး ရှယ်တီးသွားတဲ့သူက ဘယ်သူဖြစ်မလဲ ဇာတ်လမ်းတွင်ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Jun Kasui",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00986/playlist.m3u8",
+"download":"https://www.mediafire.com/file/qa9val7yk58aaqm/Ssis-986sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231912/1703468065.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00986/ssis00986pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240120_120832.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240120_120734.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00986/ssis00986jp-10.jpg",
+"dapp":"https://www.mediafire.com/file/wqena5jiqhizg11/SSIS-986hd.mp4/file",
+"dwish":"https://obeywish.com/ffrpcd4gppwd",
+"candownload":"",
 "wcode":"တစ်"}]
 
