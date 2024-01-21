@@ -11985,5 +11985,20 @@ Jun Kasui ဆိုတာ အသက် ၂၂ ပဲရှိသေးတဲ့ 
 "dapp":"https://www.mediafire.com/file/wqena5jiqhizg11/SSIS-986hd.mp4/file",
 "dwish":"https://obeywish.com/ffrpcd4gppwd",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA 395 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကောင်မလေးကိုအိမ်ထိလိုက်ဘုရင်း 
+ကောင်မလေးရဲ့အမေကိုပါ လိုက်ပွဲဆွဲသွားတဲ့ဇာတ်လမ်း
+မင်းသမီးနာမည် Hikari Sena",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mia/miaa00395/miaa00395_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/eughgur88m65x8u/Miaa-395sd.mp4/file",
+"photo1":"https://cdn001.imggle.net/poster/20222311/1670569076.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00395/miaa00395pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/miaa00395/miaa00395jp-9.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240121_111923.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240121_111944.jpg",
+"dapp":"https://www.mediafire.com/file/hqtce170pn7xqox/MIAA-395hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
 
