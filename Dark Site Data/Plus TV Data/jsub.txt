@@ -12219,5 +12219,20 @@ Ai sayamaဆိုသိပ်ပြောစရာမလိုတဲ့မင�
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00814/jul00814jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/xvuyvpljovmjz0q/JUL-814hd.mp4/file",
 "dwish":"https://flaswish.com/chqwnrwi1795",
+"wcode":"တစ်"},
+{"name":"MIDV 595 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်မှာသူဌေးနဲ့အဆင်မပြေတဲ့ Sakura တစ်ယောက်သူဌေးရဲ့အကောက်ကြံမှုခံရပြီးနောက်ပိုင်း 
+ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည် Sakura Miura",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00595/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ntym61ifiwhg04r/Midv-595sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231912/1705284522.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00595/midv00595pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240203_004500.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240203_004707.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240203_004559.jpg",
+"dapp":"https://www.mediafire.com/file/ublhfssiht7wreo/MIDV-595hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
 
