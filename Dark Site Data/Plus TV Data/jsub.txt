@@ -12234,5 +12234,48 @@ Ai sayamaဆိုသိပ်ပြောစရာမလိုတဲ့မင�
 "photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240203_004559.jpg",
 "dapp":"https://www.mediafire.com/file/ublhfssiht7wreo/MIDV-595hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID 574 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဦးလေးဆီက ပါကင်ဖောက်ခံလိုက်ရတဲ့အပျိုလေးဟာ
+ဆယ်နှစ်ကြာတဲ့အခါမှာတော့ ထပ်သည်းမခံနိုင်တော့ဘဲ ဦးလေးနဲ့ထိပ်တိုက်ရင်ဆိုင်ဖို့ ရွာကိုပြန်လာခဲ့တဲ့ ဇာတ်လမ်းလေး...
+မင်းသမီးနာမည် Ema Futaba",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00574/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ydpcn1ejjoqlvnk/Atid-574sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231711/1702618500.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00574/atid00574pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240203_194340.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240203_193805.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240203_194046.jpg",
+"dapp":"https://www.mediafire.com/file/yohn0vsay5nk69v/ATID-574hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SONE 012 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်လေးဖြစ်သူအကြွေးမဆပ်နိုင်လို့ အိမ်ဖော်လုပ်ပြီးဆပ်ပေးမယ့် Jcup နဲ့မမ
+မင်းသမီးနာမည် Hikaru Nagi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/son/sone00012/playlist.m3u8",
+"download":"https://www.mediafire.com/file/klgbd74zgkzrdw4/Sone-012sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231912/1704425109.jpg",
+"photo2":"https://cdn.javsts.com/wp-content/uploads/2024/01/sone012pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240204_234631.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240204_234929.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240204_234823.jpg",
+"dapp":"https://www.mediafire.com/file/x3m1jyq7mweodw2/SONE-012hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ATID 576 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ညီမလေးကို ကာကွယ်ပေးဖို့အတွက် အနစ်နာခံခဲ့တဲ့ အစ်မတစ်ယောက်ရဲ့ ဇာတ်လမ်း
+မင်းသမီးနာမည် Mei Itsukaichi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ati/atid00576/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ysersrx1mwtpvd2/Atid-576sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231711/1701408512.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/atid00576/atid00576pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240205_202944.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P10/main/IMG_20240205_202959.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/atid00576/atid00576jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/utxod1dgise3bfv/ATID-576hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
 
