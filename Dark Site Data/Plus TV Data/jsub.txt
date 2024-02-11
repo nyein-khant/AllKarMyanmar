@@ -12277,5 +12277,84 @@ Ai sayamaဆိုသိပ်ပြောစရာမလိုတဲ့မင�
 "photo5":"https://pics.dmm.co.jp/digital/video/atid00576/atid00576jp-1.jpg",
 "dapp":"https://www.mediafire.com/file/utxod1dgise3bfv/ATID-576hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ 543 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အပြာကားစွဲလမ်း‌နေတဲ့ ‌လင်‌ယောက်ျားက မိန်းမကိုတခြားလူလုပ်တာအရမ်းကြည့်ချင်နေတဲ့ အာသိသရှိနေခဲ့တယ်...
+ဘာတွေဆက်ဖြစ်မလဲ....
+မင်းသမီးနာမည် Marina Shiraishi",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00543/playlist.m3u8",
+"download":"https://www.mediafire.com/file/sp6rmsaaahq9uns/Juq-543sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231912/1704847808.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00543/juq00543pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/juq00543/juq00543jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240207_000809.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00543/juq00543jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/lafdva81iieq4d1/JUQ-543hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"JUQ 055 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အမေတစ်ခု သားတစ်ခု နယ်မြို့လေးကိုစွန့်ပြီး မြို့ကိုပြောင်းလာခဲ့ကြတယ်
+သားဖြစ်သူက အမေသင်ပေးထားတဲ့အတိုင်း သူရဲကောင်းလုပ်ပြီး ခပ်ဆိုးဆိုး စီနီယာတွေကို ဩဝါဒတွေခြွေမိရာ...
+ပျားအုံကိုတုတ်နဲ့ထိုးမိတဲ့ သားအမိနှစ်ယောက် ဘယ်လိုတွေဆက်ဖြစ်မလဲ အဆုံးထိ ဆက်ကြည့်ပေးပါ
+မင်းသမီးနာမည် Yumi Kazama",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/juq/juq00055/playlist.m3u8",
+"download":"https://www.mediafire.com/file/4mhqkgrdkwzqr33/Juq-055sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20221108/1661317779.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/juq00055/juq00055pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240207_200608.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240207_200652.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/juq00055/juq00055jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/ic3klpulsrmxzrf/JUQ-055hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SOE 952 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယာကူဇာဂိုဏ်းခေါင်းဆောင် အကြွေးတွေပိနေလို့ နိုင်ငံခြားမှာထွက်ပြေးနေရတယ်
+နိုင်ငံခြားမှာ အဖမ်းခံလိုက်ရပြီး ဂျပန်ထောင်ပြန်ရောက်တော့လည်း ထောင်ထဲမှာပဲ အသတ်ခံလိုက်ရတယ်
+
+ဒါကြောင့်ဂိုဏ်းရဲ့ချေးငွေကိစ္စတွေ တာဝန်ယူဖို့ ဂိုဏ်းခေါင်းဆောင်ရဲ့မိန်းမ အာကီဟိုတာဝန်ဖြစ်လာခဲ့တယ်
+ဂိုဏ်းအတွင်း ပုန်ကန်မှုဖြစ်ပြီး ခေါင်းဆောင်နေရာကို ဘယ်လိုရအောင်ပြန်ယူမလဲဆိုတာ ရှူ့စားရမှာဖြစ်ပါတယ်
+မင်းသမီးနာမည် Akiho Yoshizawa",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/s/soe/soe00952/soe00952_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/rk32r0d934itkwz/Soe-952sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20220707/1659254395.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/soe00952/soe00952pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240208_233039.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240208_232820.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/soe00952/soe00952jp-6.jpg",
+"dapp":"https://www.mediafire.com/file/o5psreeba8vbx3x/SOE-952hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIDV 270 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+လူကြီးကို ရိုရိုသေသေဆက်ဆံရမယ်ဆိုတာ သင်ခန်းစာရသွားတဲ့ နာအိုလေး
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mid/midv00270/playlist.m3u8",
+"download":"https://www.mediafire.com/file/gt6gbt3y6xs83pc/Midv-270sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20230104/1681351101.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/midv00270/midv00270pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240210_010428.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240210_005605.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240210_011003.jpg",
+"dapp":"https://www.mediafire.com/file/eq3fd0z1rkh5lh9/MIDV-270hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SSIS 698 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အပြာလောကရဲ့ ဒိတ်ဒိတ်ကြဲ မော်ဒယ်သုံးယောက် ယောက်ျားတစ်ယောက်ရဲ့အဖြစ်ချင်ဆုံးဆန္ဒဆိုတဲ့ ခေါင်းစဉ်နဲ့ ဇာတ်ကားရိုက်ကြတယ်
+ရိုက်ကူးရေးပြီးလို့ ခဏနားနေတုန်း ဒါရိုက်တာကလည်း ညာတာပါတေးနဲ့ ဝင်တီးပါတော့တယ်
+အလှပဂေးသုံးယောက်ရဲ့ ရင်သက်ရှုမောဖွယ်အလှတရားတွေကို မြိုင်မြိုင်ဆိုင်ဆိုင်ကြီး ကြည့်ရမဲ့ ဇာတ်ကားလေးဖြစ်ပါတယ်",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/ssi/ssis00698/playlist.m3u8",
+"download":"https://www.mediafire.com/file/o0ypy7w8277zb8r/Ssis-698sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20230804/1692597112.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ssis00698/ssis00698pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/ssis00698/ssis00698jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ssis00698/ssis00698jp-9.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ssis00698/ssis00698jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/tzzg07q96ro905f/SSIS-698hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
+
 
