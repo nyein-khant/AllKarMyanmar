@@ -12355,6 +12355,36 @@ Ai sayamaဆိုသိပ်ပြောစရာမလိုတဲ့မင�
 "photo5":"https://pics.dmm.co.jp/digital/video/ssis00698/ssis00698jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/tzzg07q96ro905f/SSIS-698hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"ADN 533 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အာသာမပြေ မာမာဝေနဲ့ ဘေးခန်းကို အသစ်ပြောင်းလာတဲ့ တောသားတို့ ဆုံတဲ့ဇာတ်ကားလေးဖြစ်ပါတယ်
+မင်းသမီးနာမည် Miu Shiromine",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/adn/adn00533/playlist.m3u8",
+"download":"https://www.mediafire.com/file/thn3tsd1ngya30d/Adn-533sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241901/1706845414.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/adn00533/adn00533pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240211_230533.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/AddText_02-11-11.11.51.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/adn00533/adn00533jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/wq62jd9i7xmhj9h/ADN-533hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DLDSS 163 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးကတော့ 
+၁၀နှစ်ကြာမတွေ့ဖြစ်တဲ့ အဒေါ်အိမ်သွားလည်ရင်း
+ကောင်မလေးက ဖောက်ပြန်သွားလို့ ဝမ်းနည်းပက်လက်ဖြစ်နေတဲ့ အစ်ကိုဝမ်းကွဲတစ်ယောက်နဲ့ ဆုံရာကနေ မေတ္တာရှင်မလေး Tomoda Ayaka က နှစ်သိမ့်ပေးတဲ့ ကားလေးပါပဲ
+မင်းသမီးနာမည် Ayaka Tomoda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1dl/1dldss163/playlist.m3u8",
+"download":"https://www.mediafire.com/file/ex0gwispraddixl/Dldss-163sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20230206/1688174048.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1dldss163/1dldss163pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1dldss163/1dldss163jp-8.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240213_005427.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/AddText_02-13-01.01.17.jpg",
+"dapp":"https://www.mediafire.com/file/q7432lt86skzubp/DLDSS-163hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
 
 
