@@ -12434,6 +12434,52 @@ Ai sayamaဆိုသိပ်ပြောစရာမလိုတဲ့မင�
 "photo5":"https://pics.dmm.co.jp/digital/video/1kire00026/1kire00026jp-18.jpg",
 "dapp":"https://www.mediafire.com/file/roonhrgilec6jwv/KIRE-026hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"URE 067 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+Madonna ရဲ့ (၂) နှစ်ပြည့်အထိန်းအမှတ်နေနဲ့ Exclusive လွင့်ခဲ့တဲ့ကားပါ
+ဇာတ်ကားလေးက မူးရင်း comic ဖြစ်တဲ့ (Naruto Chuka My Father-In-Law - How Hiromi Spends Her Afternoons) ဆိုတဲ့ကားကို အပြင်လူတွေနဲ့ Live Action ပြန်သရုပ်ဆောင်ထားတာပါ
+မင်းသမီးကလည်း Nao Jinguji ဖြစ်နေတာဆိုတော့ အခါခါကြည့် အခါခါပြီးနိုင်တဲ့ကားပါ
+မင်းသမီးနာမည် Nao Jinguji",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/u/ure/ure00067/playlist.m3u8",
+"download":"https://www.mediafire.com/file/rodqlwscpk0cx4r/Ure-067sd.mp4/file",
+"photo1":"https://static.javct.net/poster/ure-067.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ure00067/ure00067pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240217_004354.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ure00067/ure00067jp-1.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240217_004309.jpg",
+"dapp":"https://www.mediafire.com/file/0iojtpcw2mrwir8/URE-067hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"FSDSS 576 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မင်းသမီးက အဖေမတူ အမေကွဲအမကြီးနေရာကနေ
+သရုပ်ဆောင်ထားပြီး မောင်လေးအပေါ် ငြင်သာစွာ ဆက်ဆံတဲ့သူမရဲ့အပြုမှုလေးတွေကို အသည်းယားအောင်ကြည့်ရမှာပဲဖြစ်ပါတယ်
+မင်းသမီးနာမည် Nene Yoshitaka",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss576/playlist.m3u8",
+"download":"https://www.mediafire.com/file/3om1ywfpwai6dp7/Fsdss-576sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20230205/1685150866.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1fsdss576/1fsdss576pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240218_005759.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1fsdss576/1fsdss576jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1fsdss576/1fsdss576jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/8utd1ipw5tza99p/FSDSS-576hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN 511 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ကာဇူယာဟာ ကျောင်းတက်ရင်း အချိန်ပိုင်းအလုပ်လိုချင်လို့ မီနာတို့ လင်မယားရဲ့ စားသောက်ဆိုင်ကို လာလုပ်ပါတယ်..
+မီနာတို့ကလည်း လူလိုလို့ လက်ခံလိုက်ပါတယ်..ဒီလိုနဲ့ မီနာနဲ့ ကာဇူယာတို့ အိုးချင်းထားအိုးချင်းထိဆိုသလို ဖြစ်လာပြီး ဘယ်လိုတွေ ဆက်ဖြစ်သွားမလဲဆိုတာ...
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/h/hmn/hmn00511/playlist.m3u8",
+"download":"https://www.mediafire.com/file/s4umr501bi4zx0g/Hmn-511sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231912/1705542142.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00511/hmn00511pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240218_234629.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240218_234523.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240218_234438.jpg",
+"dapp":"https://www.mediafire.com/file/usfext2la5h5evt/HMN-511hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
 
 
