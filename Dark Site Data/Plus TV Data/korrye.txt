@@ -5387,4 +5387,19 @@ sexကိစ္စတွေမှာတော့ အတွေ့အကြုံ�
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/bfpcdrs98o9qguo/Dilig_2024_1080p.mp4/file",
 "dwish":"https://flaswish.com/hijm2rpnm9j3",
+"wcode":"တစ်"},
+{"name":"Purpose of Hiking(2016)",
+"info":"18+မြန်မာစာတန်းထိုး
+ဟုန်းဂျယ်က တောင်တက်လမ်း အဝင်ဝမှာ စားသောက်ဆိုင်ဖွင့်ထားပါတယ်
+သူ့ရဲ့သူငယ်ချင်း ချန်းမင်းနဲ့အတူ တောင်တက်အသင်းကို ဖွဲစည်းထားပြီးဆိုင်ရောင်းအားတက်ဖိုအတွက် တောင်တက်ပြီး ပြန်ဆင်းလာတိုင်း တောင်တက်အသင်း အဖွဲဝင်‌တွေကို သူ့စားသောက်ဆိုင်မှာပဲ စားခိုင်းလေ့ရှိပါတယ်တစ်နေ့ တောင်တက်အသင်း အဖွဲဝင်အသစ်ဖြစ်တဲ့ မိန်းမချောလေး မင်ဂျောင်လည်း တောင်တက်ဖို အတူလိုက်လာပါတယ်
+တောင်ပေါ်အတူတက်ရင်း ဟုန်းဂျယ်နဲ့ မင်ဂျောင်တို ငြိသွားကြတဲ့အခါမှာတော့…အလန်းစားအခန်းတွေနဲ့ ခပ်မိုက်မိုက်ကေမလေးတွေမို့ ….",
+"watch":"",
+"download":"https://www.mediafire.com/file/uuu8b5luzqo0pky/Purpose_of_Hiking.mp4/file",
+"photo1":"https://i.mydramalist.com/qkkN8f.jpg",
+"photo2":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240225_005433.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/uuu8b5luzqo0pky/Purpose_of_Hiking.mp4/file",
+"dwish":"https://cdnwish.com/3uu2geyp97jp",
 "wcode":"တစ်"}]
