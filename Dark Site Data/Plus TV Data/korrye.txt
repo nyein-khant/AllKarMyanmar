@@ -5402,4 +5402,18 @@ sexကိစ္စတွေမှာတော့ အတွေ့အကြုံ�
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/uuu8b5luzqo0pky/Purpose_of_Hiking.mp4/file",
 "dwish":"https://cdnwish.com/3uu2geyp97jp",
-"wcode":"တစ်"}]
+"wcode":"တစ်"},
+{"name":"My Sister’s Idol Trainee Friends(2020)",
+"info":"18+မြန်မာစာတန်းထိုး
+တပ်ထဲကထွက်လာပြီးညီမလေးရဲ့အိမ်မှာတစ်ခဏသွားနေလိုက်တဲ့အခါမှာ……..စစ်ထွက်ဖြစ်လို့ဘော်ဒီတောင့်တောင့် ခပ်မိုက်မိုက်ဘဲဆိုတော့ ညီမလေးရဲ့ဘော်ဒါတွေသဘောကျတာမဆန်းပါဘူး..
+စစ်မှုထမ်းနေရလို့ ဉထားသမျှ အတိုးချပြီး ချစ်ရည်လူးတဲ့အခါမှာတော့…သူငယ်ချင်းနှစ်ယောက်လုံးက အစ်ကိုဖြစ်သူကို သဘောကျသွားပြီး ဘာဆက်ဖြစ်ပြီးဘာတွေဆက်လုပ်ကြမလဲ ကြည့်ရှုလိုက်ကြပါဦးနော်",
+"watch":"",
+"download":"https://www.mediafire.com/file/kgkm66k5x93j18f/My_Sisters_Idol.mp4/file",
+"photo1":"https://media.themoviedb.org/t/p/w220_and_h330_face/qhPS9o8wkmVIC0NVp9uLW8K2VT4.jpg",
+"photo2":"https://image.tmdb.org/t/p/original/eJEnsni5p2aS5toQJK7w6iOfnsI.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/kgkm66k5x93j18f/My_Sisters_Idol.mp4/file",
+"candownload":"",
+"dwish":"https://cdnwish.com/9a4vu5xworcp"}]
