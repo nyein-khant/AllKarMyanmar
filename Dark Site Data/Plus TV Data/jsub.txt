@@ -12665,6 +12665,52 @@ onlineပေါ်က ချစ်သူကို အပြင်ခေါ်တ
 "photo5":"https://pics.dmm.co.jp/digital/video/1stars814/1stars814jp-10.jpg",
 "dapp":"https://www.mediafire.com/file/hcevka4qd791zll/STARS-814hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD 115 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အပို‌ဝင်ငွေလေးရအောင် ခင်ပွန်းမသိအောင် အလုပ်တွေခိုးလုပ်နေရှာတဲ့ သနားစဖွယ် Meguri ဆိုတဲ့ အိမ်ထောင်ရှင်မလေးတစ်ယောက်အကြောင်း...
+မုန်းတီးသူရဲ့ အချစ်မပါတဲ့ ဆောင့်ချက်တွေကို ရင်ဆိုင်ရတော့မှာပါ 
+အားပေးလိုက်ပါအုံး....
+မင်းသမီးနာမည် Meguri (Megu Fujiura)",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00115/meyd00115_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/sqkt6o6ifl4u76c/Meyd-115sd.mp4/file",
+"photo1":"https://cdna.sextb.net/poster/20222109/1664872696.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00115/meyd00115pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240303_003856.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/AddText_03-03-12.47.23.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240303_004316.jpg",
+"dapp":"https://www.mediafire.com/file/ioe6oghjns9mapq/MEYD-115hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"PPPD 363 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းဖြစ်သူက ဝအောင်မကျွေးထားလို့ ယားနေသေးတဲ့ ဇနီးဖြစ်သူဟာ ဘေးအိမ်က ချာတိတ်လေးကို ဆွဲစားတဲ့ဇာတ်လမ်း ...
+မင်းသမီးနာမည် Ai Sayama",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/ppp/pppd00363/pppd00363_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/1r7jm70xuv0h448/Pppd-363sd.mp4/file",
+"photo1":"https://images-na.ssl-images-amazon.com/images/I/91KO1Pi-FBL._AC_SL1500_.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pppd00363/pppd00363pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240303_235319.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240303_235300.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pppd00363/pppd00363jp-2.jpg",
+"dapp":"https://www.mediafire.com/file/2urmeppnn52eo54/PPPD-363hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"ALDN 079 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒူးမနာသမီးလေးနဲ့ ပထွေးဖြစ်သူတို့ ဒကျိတဲ့ ဇာတ်ကားကောင်းလေးဖြစ်ပါတယ်
+မိန်းမယူတော့ မီဟိုဆိုတဲ့ သမီးလေးတစ်ယောက် အပိုလက်ဆောင်ပါလာခဲ့တယ် မိန်းမက ယူပြီးသိပ်မကြာဘူး ဆုံးပါးသွားတော့ မီဟိုကိုပဲ သမီးလေးအရင်းလိုပဲ မွေးလာခဲ့ရင်း.. တစ်ဖြည်းဖြည်းနဲ့ သမီးလေးလည်း ယောက်ျားယူရမဲ့အရွယ်တောင်ရောက်လာခဲ့တယ်
+သမီးလေး သူ့ချစ်သူနဲ့ လက်ထပ်ပြီး ယောက်ျားနောက်ပါသွားတော့မယ်ဆိုတဲ့အတွေးတွေနဲ့ ညတိုင်းမူးနေခဲ့တာပေါ့....
+ဘာတွေဆက်ဖြစ်မလဲ....
+မင်းသမီးနာမည် Miho Tono",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/a/ald/aldn00079/playlist.m3u8",
+"download":"https://www.mediafire.com/file/42a9i3znflrsrkx/Aldn-079sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241901/1707270890.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/aldn00079/aldn00079pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240304_193657.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240304_193836.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240304_193902.jpg",
+"dapp":"https://www.mediafire.com/file/azg862hum6qyw84/ALDN-079hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
-
 
