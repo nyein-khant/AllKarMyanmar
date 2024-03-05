@@ -8,16 +8,16 @@
 
 VIP Key သမားများအရင်Keyသာပြန်ထည့်သုံးပေးပါ။ ( အဆ​င်ပြေကြပါစေ)",
   
-  "MainTextButton": "Playstore Link",
+  "MainTextButton": "Website Link",
 
   "Cancelable": "true",
 
   "CancelButtonText": "Direct Link",
 
-  "DirectLink" : "https://www.mediafire.com/file/gk58s4lgld5v93i/Dark_Ness_8.6.apk/file",
+  "DirectLink" : "https://darknesspro.xyz/",
 
-  "DownloadLink": "https://www.mediafire.com/file/gk58s4lgld5v93i/Dark_Ness_8.6.apk/file",
+  "DownloadLink": "https://darknesspro.xyz/",
 
-  "Version": "8.6"
+  "Version": "8.7"
 
 }
