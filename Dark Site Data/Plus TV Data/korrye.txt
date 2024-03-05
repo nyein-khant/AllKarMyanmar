@@ -5416,4 +5416,19 @@ sexကိစ္စတွေမှာတော့ အတွေ့အကြုံ�
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/kgkm66k5x93j18f/My_Sisters_Idol.mp4/file",
 "candownload":"",
-"dwish":"https://cdnwish.com/9a4vu5xworcp"}]
+"dwish":"https://cdnwish.com/9a4vu5xworcp"},
+{"name":"My Wife’s Friend 2(2019)",
+"info":"18+ မြန်မာစာတန်းထိုး
+အကိတ်အလန်းတွေ နှစ်ပင်လိမ် ၃ ပင်လိမ်အခန်းအလန်းတွေကြည့်ရမှာဖြစ်ပါတယ်…အိမ်နဲ့ကုမ္ပဏီက ဝေးတယ်ဆိုတဲ့ အကြောင်းပြချက်နဲ့လုပ်ငန်းခွင်ကအထက်လူကြီးရဲ့အိမ်မှာ နေဖိုဖြစ်လာခဲ့တဲ့ဟျွန်းဆူ 
+ဟယ်ဂျင်းမှာ အိမ်ထောင်ရှိပြီးတော့ လုပ်ဖော်ကိုင်ဖက်ဆိုတဲ့ အကြောင်းပြချက်နဲ့ ဟျွန်းဆူနဲ့ ဖောက်ပြန်နေတာပဲဖြစ်ပါတယ် 
+ဟယ်ဂျင်းရဲ့သူငယ်ချင်းဖြစ်သူကလည်း အလုပ်ထွက်ခဲ့ပြီးဟယ်ဂျင်းအိမ်မှာ လာနေဖို ဆုံးဖြတ်လိုက်တဲ့အခါ ဇနီးမောင်နှံနှစ်ယောက်၊သူငယ်ချင်းဖြစ်သူ၊ လုပ်ဖော်ကိုင်ဖက်ကြားက လေးပွင့်ဆိုင်ဆက်ဆံရေးက ဘယ်လိုတွေဆက်ဖြစ်လာကြမလဲ",
+"watch":"",
+"download":"https://www.mediafire.com/file/yuzw5lypct1vzxs/My_Wife_s_Friend_2.mp4/file",
+"photo1":"https://media.themoviedb.org/t/p/w220_and_h330_face/71F5nIcReEDckIY2FvHE54E0PvN.jpg",
+"photo2":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240303_120523.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"dwish":"https://cdnwish.com/1ds5nnwnxfvi",
+"wcode":"တစ်"}]
