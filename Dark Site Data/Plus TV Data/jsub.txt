@@ -12712,5 +12712,20 @@ onlineပေါ်က ချစ်သူကို အပြင်ခေါ်တ
 "photo5":"https://raw.githubusercontent.com/minimyanmar/p11/main/IMG_20240304_193902.jpg",
 "dapp":"https://www.mediafire.com/file/azg862hum6qyw84/ALDN-079hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Dass 253 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိထွေးကို ရှယ်တီးတဲ့ကား
+မိထွေးကလည်း ငယ်ငယ်ချောချော အကိတ်အသန့်လေးဆိုတော့ မှန်းထုရာကနေ ဘာတွေဆက်ဖြစ်မလဲ
+မင်းသမီးနာမည် Rimu Yumino",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00253/playlist.m3u8",
+"download":"https://www.mediafire.com/file/5e7f4p7tejbdwyo/Dass-253sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231711/1701481428.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00253/dass00253pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00253/dass00253jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240305_214059.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240305_214344.jpg",
+"dapp":"https://www.mediafire.com/file/ty8dh51nne39s0b/DASS-253hd.mp4/file",
+"dwish":"https://cdnwish.com/eisrxotxzbpe",
 "wcode":"တစ်"}]
 
