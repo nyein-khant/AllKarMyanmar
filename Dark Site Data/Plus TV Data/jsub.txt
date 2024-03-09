@@ -12756,5 +12756,33 @@ onlineပေါ်က ချစ်သူကို အပြင်ခေါ်တ
 "photo5":"https://pics.dmm.co.jp/digital/video/jul00411/jul00411jp-4.jpg",
 "dapp":"https://www.mediafire.com/file/3ukbobblfezkrzk/JUL-411hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"START 006 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အတန်းထဲက အရမ်းရိုးတဲ့ မှန်ကြောင်ကောင်လေးကိုမှ ချစ်မိသွားတဲ့ ကာကမီတစ်ယောက် လူရိုး မှန်ကြောင်လေးနဲ့ဘယ်လိုတွေကုန်းပေးမလဲ...
+မင်းသမီးနာမည် Rei Kamiki",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1st/1start006/playlist.m3u8",
+"download":"https://www.mediafire.com/file/73y2svfu8abc3xs/Start-006sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241902/1708385758.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1start006/1start006pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1start006/1start006jp-3.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1start006/1start006jp-14.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1start006/1start006jp-16.jpg",
+"dapp":"https://www.mediafire.com/file/c7uklpn3dvt49tl/START-006hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SDMF 039 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ရှုပ်ထွေးပွေလီလှတဲ့ မိသားစု  အင်းစက်ဇာတ်ကားလေးဖြစ်ပါတယ်
+အဖေကိုကပ်လွန်း တွယ်တာလွန်းတဲ့ သမီး... 
+မင်းသမီးနာမည် Noa Amano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1sd/1sdmf039/playlist.m3u8",
+"download":"https://www.mediafire.com/file/icoy9pyt72c57mh/Sdmf-039sd.mp4/file",
+"photo1":"https://pics.dmm.co.jp/digital/video/1sdmf00039/1sdmf00039jp-1.jpg",
+"photo2":"https://pics.dmm.co.jp/mono/movie/adult/1sdmf039/1sdmf039pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1sdmf039/1sdmf039jp-5.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1sdmf039/1sdmf039jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1sdmf039/1sdmf039jp-11.jpg",
+"dapp":"https://www.mediafire.com/file/ndz1ijlt0y78ouh/SDMF-039hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
-
