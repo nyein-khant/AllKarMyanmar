@@ -12785,4 +12785,49 @@ onlineပေါ်က ချစ်သူကို အပြင်ခေါ်တ
 "photo5":"https://pics.dmm.co.jp/digital/video/1sdmf039/1sdmf039jp-11.jpg",
 "dapp":"https://www.mediafire.com/file/ndz1ijlt0y78ouh/SDMF-039hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"NHDTB 466 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အလုပ်တွေမျိုးစုံလုပ်တဲ့ကောင်မလေးတစ်ယောက် ကိတ်ဆိုင်မှာ အချိန်ပိုင်းအလုပ်ဝင်လျှောက်ရာကနေ ဆိုင်ရှင် သူဌေးရဲ့ နှာဘူးထတာကို ခံလိုက်ရတယ်
+ကောင်မလေးလည်း အတင်းထွက်ပြေးသွားပြီ ယူနီဖောင်းလှဲနေတုန်း သူဌေးက အခြားအလုပ်အချိန်ဇယားနဲ့ နေရာတွေမှတ်ထားလိုက်တယ်
+ပီးတော့ကောင်မလေး အလုပ်လုပ်တဲ့နေရာတွေ လျှောက်လိုက်ပြီး အတင်းလုံးပါတော့တယ်
+ဒီလိုနဲ့ကောင်မလေးလည်း သူ့ကိုစွဲလန်းသွားပါတော့တယ်
+မင်းသမီးနာမည် Suzu Honjo",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/1/1nh/1nhdtb466/1nhdtb466_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/gosmn5qyz3jzjr2/Nhdtb-466sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241901/1707876330.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1nhdtb00466/1nhdtb00466pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240310_223706.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/1nhdtb00466/1nhdtb00466jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1nhdtb00466/1nhdtb00466jp-8.jpg",
+"dapp":"https://www.mediafire.com/file/v2i2bzzi5ua3e51/NHDTB-466hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MIAA 444 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယားတုန်းကတော့ ရွထနေပြီး တကယ်ခံရမှ ငိုယိုပြီး ရပ်ပါတော့တဲ့ အော်ခလေးရယ်
+မင်းသမီးနာမည် Ichika Matsumoto",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mia/miaa00444/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z3t6116etxo8mdm/Miaa-444sd.mp4/file",
+"photo1":"https://static.javct.net/poster/miaa-444.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/miaa00444/miaa00444pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240311_000759.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240311_000828.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/miaa00444/miaa00444jp-4.jpg",
+"dapp":"https://www.mediafire.com/file/epsqr69b2xitfz0/MIAA-444hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"PRED 525 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒါရိုက်တာလက်ချက်မိသွားတဲ့ မင်းသမီးချောလေး
+မင်းသမီးနာမည် Karen Yuzuriha",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/p/pre/pred00525/playlist.m3u8",
+"download":"https://www.mediafire.com/file/z87xhuwqdkk6txr/Pred-525sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20231011/1697935946.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/pred00525/pred00525pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P12/main/IMG_20240311_234412.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/pred00525/pred00525jp-6.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/pred00525/pred00525jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/shzqk7j6b4p47ff/PRED-525hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
