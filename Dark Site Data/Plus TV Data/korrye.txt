@@ -5464,4 +5464,17 @@ Angeli Khang လေးရဲ့ဇာတ်ကားသစ်ဖြစ်ပါ�
 "photo5":"",
 "dapp":"t",
 "dwish":"https://asnwish.com/34mw3u5o7dhe",
+"wcode":"တစ်"},
+{"name":"Rita (2024)",
+"info":"18+မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းကအရမ်းသဘာ၀ကျပြီးလက်တွေ့ဆန်ပါတယ်။လင်နဲ့မယားကြား၊မောင်နှမကြား၊ သူငယ်ချင်းအချင်းချင်းကြား ဘယ်သူကဘယ်သူ့ကိုမှအထာမထားပဲဖြစ်ချင်တိုင်းဖြစ်နေကြတဲ့အတွက် အားရစရာပါပဲ။",
+"watch":"",
+"download":"t",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMWU0MTVhNTAtYTM0NS00NDhmLTk5ZDYtY2Y4MDBhMTA4Y2VjXkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BMWU0MTVhNTAtYTM0NS00NDhmLTk5ZDYtY2Y4MDBhMTA4Y2VjXkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/v59dt0l9cxh29z7/Rita2024.mp4/file",
+"dwish":"https://asnwish.com/h97vnwd8egaj",
 "wcode":"တစ်"}]
