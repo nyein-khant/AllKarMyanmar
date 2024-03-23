@@ -5477,4 +5477,33 @@ Angeli Khang လေးရဲ့ဇာတ်ကားသစ်ဖြစ်ပါ�
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/v59dt0l9cxh29z7/Rita2024.mp4/file",
 "dwish":"https://asnwish.com/h97vnwd8egaj",
+"wcode":"တစ်"},
+{"name":"Kapalit (2024)",
+"info":"18+ မြန်မာစာတန်းထိုး
+အော်ဒရေးက တစ်ချိန်မှာတိုင်းတစ်ပါးကိုအလုပ်သွားလုပ်ဖို့စိတ်ကူးယဉ်ကြိုးစားနေတဲ့ သူနာပြုမလေးပါ။လတ်တလောမှာတော့ နိုင်ငံခြားသွားဖို့ချိတ်ထားတဲ့အလုပ်ရှာဖွေရေးအေဂျင်စီက အလိမ်ကုမ္ပဏီတစ်ခုဆိုတာ သိလိုက်ရပြီး ရရာအလုပ်ဖြစ်တဲ့ အိမ်ကြီးတစ်လုံးမှာ မေ့ဆေးဆရာဝန်ရဲ့ဇနီးသည်ကိုပြုစုစောင့်ရှောက်ပေးရသူအဖြစ်အလုပ်ဝင်ခဲ့ပါတယ်။
+မကျန်းမာတဲ့ဇနီးသည်ကို အစစအရာရာ၀တ္တရားကျေလွန်းတဲ့၊အောင်မြင်ချမ်းသာရုံမက ရုပ်ရည်ပါပြည့်စုံတဲ့ အိမ်ရှင်အမျိုးသားဖြစ်သူကို သဘောကျသထက်ကျလာတဲ့ အော်ဒရေးဟာ အဲ့ဒီလူကိုအပိုင်ရထားတဲ့ သူ့ဇနီးသည် ဒေမီကို မနာလိုစပြုလာတယ်။အဲ့ဒီကနေ အလုပ်ရှင်သူဌေးကို သူ့ဘ၀ထွက်ပေါက်တစ်ခုအဖြစ်မြင်လာတဲ့ နောက်ဖြစ်တဲ့နည်းနဲ့ဝင်အောင်းဖို့ကြံစည်မိချိန်မှာ..",
+"watch":"",
+"download":"t",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMjhhMjMxOWQtOGI5ZC00NGZjLThlZTAtNmE3N2IxM2VmZjUxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BMjhhMjMxOWQtOGI5ZC00NGZjLThlZTAtNmE3N2IxM2VmZjUxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/1j5lryvtkf07gjq/Kapalit2024.mp4/file",
+"dwish":"https://asnwish.com/x9hrjf45h72g",
+"wcode":"တစ်"},
+{"name":"Katas (2024)",
+"info":"18+မြန်မာစာတန်းထိုး
+လူသူမနီး သီးခြားရှိနေတဲ့ခြံကျယ်ကြီးထဲက အိမ်ကြီးတစ်လုံးကို ကာမီနာဆိုတဲ့တောသူလေးတစ်ယောက် အိမ်အကူအဖြစ်အလုပ်လုပ်ဖို့ရောက်လာခဲ့ပါတယ်။ အိမ်ကြီးရှင်သူဌေးမက ယောက်ျားငယ်ငယ်လေးယူထားတာဖြစ်ပြီး မွေးကတည်းက အလိုလိုက်ခံ ဖူးဖူးမှုတ်ခံထားရတဲ့ဘ၀နဲ့ကြီးပြင်းလာတာဖြစ်တဲ့အတွက်မောက်မာပြီး မူမမှန်တဲ့စိတ်ထားရှိတဲ့သူပါ။
+အိမ်ကြီးကိုရောက်တဲ့အချိန်မှာ သူတစ်ဖြည်းဖြည်းသိလာရတာကတော့ အိမ်ရှင်မရဲ့ယောက်ျားဟာ အိမ်အကူတွေကို ငယ်ငယ်ချောချောလေးတွေမှတမင်ရွေးခန့်ထားတာဖြစ်ပြီး စိတ်ပါရင်ပါသလို နေရာမရွေး ခြေတော်တင်လေ့ရှိတဲ့သူပါ။
+ဘာတွေဆက်ဖြစ်မလဲ....",
+"watch":"",
+"download":"t",
+"photo1":"https://m.media-amazon.com/images/M/MV5BYTU0MDMxZDUtZjI3MC00NzA5LWIzNzQtMjk2OGQzZTYwMzNjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BYTU0MDMxZDUtZjI3MC00NzA5LWIzNzQtMjk2OGQzZTYwMzNjXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_FMjpg_UX1000_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"https://www.mediafire.com/file/mjyqouvdb53uix0/Katas2024.mp4/file",
+"dwish":"https://jodwish.com/xqiyqd44bhn4",
 "wcode":"တစ်"}]
