@@ -5506,4 +5506,65 @@ Angeli Khang လေးရဲ့ဇာတ်ကားသစ်ဖြစ်ပါ�
 "photo5":"",
 "dapp":"https://www.mediafire.com/file/mjyqouvdb53uix0/Katas2024.mp4/file",
 "dwish":"https://jodwish.com/xqiyqd44bhn4",
+"wcode":"တစ်"},
+{"name":"Paloma, Nakakalalaki Ka",
+"info":"18+မြန်မာစာတန်းထိုး
+10ပါလိုမာဆိုတာ အိမ်ကြီးထဲကနေ ဘယ်ကိုမှထွက်ခွင့်မရှိဘဲ အစ်မကြီးဖြစ်သူနဲ့အတူနေရသူလေး။
+ချစ်တဲ့သူနဲ့ အကြိမ်ကြိမ်ထွက်ပြေးခဲ့ပေမဲ့ အစ်မဖြစ်သူက မရရအောင်ခွဲပြီး ပြန်ခေါ်လာခဲ့တာ။
+အစ်မဆိုပေမဲ့ အစ်မအရင်းမဟုတ်ဘဲ မိဘတွေဆုံးပါးသွားကတည်းက အပျိုကြီးမမရဲ့ မွေးပြီးစားခြင်းခံနေရတဲ့သူ။
+တစ်ရက် အပျိုကြီးမမက ခြံထဲမှာ အလုပ်လုပ်ဖို့ဥယျာဉ်မှူးတစ်ယောက်ခန့်လိုက်ပါတယ်။
+ဥယျာဉ်မှူးဖြစ်ဖို့အရည်အချင်းတွေက အသက်ငယ်ရမယ်၊ ကျန်းမာရေးကောင်းရမယ်၊
+သူတို့အိမ်မှာပဲနေရမယ်တဲ့။အဲဒီလို ငယ်ရွယ်ပြီး ကျန်းမာသန်စွမ်းတဲ့ ဥယျာဉ်မှူးကလေး သူတို့အိမ်ကိုရောက်လာတဲ့အခါမှာတော့။",
+"watch":"",
+"download":"https://www.mediafire.com/file/n7174vylp3u11uq/NakakalalakiKa1998.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMDZiNjIzMDYtMDZmZC00OTA5LWFhNDctNmRkOTk5ZjhlMzQ5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BMDZiNjIzMDYtMDZmZC00OTA5LWFhNDctNmRkOTk5ZjhlMzQ5XkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"Kasalo (2024)",
+"info":"18+မြန်မာစာတန်းထိုး
+ချစ်သူရဲ့သစ္စာဖောက်မှုကြောင့်အသည်းကွဲနေတဲ့ ရူဒီဆိုတဲ့ ကောင်လေးဟာ Nightout ထွက်ရင်း တက္ကစီပေါ်မှာ လန်နာဆိုတဲ့ မိန်းမလှလေးတစ်ယောက်နဲ့ဆုံပြီး အတူသောက်ဖြစ်ခဲ့ပါတယ်။
+လန်နာကိုယ်တိုင်ကလည်း ခင်ပွန်းဖြစ်သူရဲ့ ဖောက်ပြန်မှုကြောင့် ရင်ဖွင့်မယ့်လူရှာနေတာပါ ။ အဲ့ဒီလိုနဲ့စကားစမြည်ပြောဖြစ်ရင်း နှစ်ယောက်လုံးမှာသစ္စာဖောက်လက်တွဲဖော်တွေရှိနေတာ ကိုယ်စီသိတဲ့နောက်နှစ်ဦးသဘောတူလက်စားချေလိုက်ကြပါတယ်။နောက်တစ်နေ့မနက်မိုးလင်းချိန်မှာ ကိုယ့်ဘ၀တွေနဲ့ကိုယ်စီရှေ့ဆက်သွားနေရင်း ကိုယ့်လက်တွဲဖော်တွေရဲ့အမှားတွေကိုခွင့်လွှတ်ဖို့ကြိုးစားနေရင်း တစ်ယောက်နဲ့တစ်ယောက်တကယ်တမ်းမေ့လို့မရတာကိုသေချာလာတဲ့အခါမှာတော့..။",
+"watch":"",
+"download":"https://www.mediafire.com/file/fd7nbxc2hrk11qu/18Kasalo.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BYzAxN2ViMzgtY2Q1Yy00Nzk4LTg0ZjItM2ZlZWIxNWYzMGY3XkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_FMjpg_UX1000_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BYzAxN2ViMzgtY2Q1Yy00Nzk4LTg0ZjItM2ZlZWIxNWYzMGY3XkEyXkFqcGdeQXVyNDQ4NjgyNzg@._V1_FMjpg_UX1000_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"TL (2024)",
+"info":"18+ မြန်မာစာတန်းထိုး
+ဘရန်ဒါက ကောစင်တာအေးဂျင့်တစ်ယောက်ဖြစ်ပြီး သူ့အလုပ်မှာသူထိပ်တန်းစာရင်းဝင်ဖြစ်ပေမယ့် ရာထူးတိုးမယ်ကြံတိုင်း နောက်ကျန်နေခဲ့ရတဲ့သူပါ။
+ရာထူးတိုးခံရတဲ့သူတွေဟာသူတို့ရဲ့ TL (Team Leader) တွေကိုခန္ဓာကိုယ်ပုံအပ်ပြီးတော့ သူ့ကိုကျော်တက်သွားကြတယ်လို့ကောလဟာလတွေရှိပါတယ်။အဲ့ဒီလိုနဲ့ရည်မှန်းချက်လည်းကြီး တဏှာလည်းကြီးသလိုထက်မြက်တဲ့မိန်းမတစ်ယောက်ဖြစ်တဲ့သူဟာ သူလိုချင်တဲ့နေရာအတွက် အကွက်ပေါင်းစုံသုံးပြီး အရယူဖို့ကြိုးစားပါတော့တယ်",
+"watch":"",
+"download":"https://www.mediafire.com/file/jp8k4cya7ooskfm/Tl20241080p.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMDg4NDNkNWYtNzE0MS00NTE5LWIzZTgtZjRjNWIxMmVlMWIxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BMDg4NDNkNWYtNzE0MS00NTE5LWIzZTgtZjRjNWIxMmVlMWIxXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"Cheaters (2024)",
+"info":"18+မြန်မာစာတန်းထိုး
+ဂျူနိုနဲ့ ဧပရယ်တို့ဟာ အိမ်မက်တွေအကြီးကြီးနဲ့လူငယ်တွေဖြစ်ပြီး နှစ်ဦးစလုံးမှာ သူဌေးသား၊သူဌေးသမီး ချစ်သူတွေ ကိုယ်စီရှိကြပါတယ်။
+အတွေးအခေါ် အယူအဆ အဆင့်အတန်းကွာခြားမှုတွေကြောင့် ချစ်သူတွေနဲ့ပြဿနာတွေ တက်လေ့ရှိကြပြီး အဆင်မပြေဖြစ် စိတ်ညစ်နေချိန်မှာ သူတို့နှစ်ယောက်တွေ့ဆုံခဲ့ကြပါတယ်။ဘ၀တူတွေဖြစ်သလို အချင်းချင်းလည်းနားလည်မှုရှိကြတဲ့သူတို့နှစ်ယောက်ဟာ ဖောက်ပြန်ဇာတ်လမ်းစခဲ့ကြပြီး ဘယ်အချိန်မှာရပ်လိုက်ရမလဲ မသိနိုင်တော့တဲ့အခါမှာတော့..။
+Angeline Aril နဲ့ Kara Fernandez ဆိုတဲ့မင်းသမီးအသစ်စက်စက်လေးနှစ်ဦးကိုပထမဆုံးမိတ်ဆက်ပေးထားတဲ့ဇာတ်ကားပါ။",
+"watch":"",
+"download":"https://www.mediafire.com/file/fmlbugbue219fvv/Cheaters.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BZjg3NDQxZDktYzBjYS00NWEwLTk5ZTItZTZkOGU0ZjkxMDljXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BZjg3NDQxZDktYzBjYS00NWEwLTk5ZTItZTZkOGU0ZjkxMDljXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
