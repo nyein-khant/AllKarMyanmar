@@ -5567,4 +5567,18 @@ Angeline Aril နဲ့ Kara Fernandez ဆိုတဲ့မင်းသမီ�
 "photo5":"",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Girls on Film (2023)",
+"info":"18+မြန်မာစာတန်းထိုး
+ Sexy Model, Miss Bikini မင်းသမီးချော Dare Taylor နဲ့ Willow Grey တို့ အဓိကပါဝင်သရုပ်ဆောင်ထားတဲ့ ၁၈ ယောက်စုကြည့်ရမယ့် Drama/Romance/Thriller ဇာတ်ကားလေးပါဇာတ်အိမ်လေးကတော့ သူနာပြုကျောင်းတက်ဖို့အတွက် Online ပေါ်ကနေ Live လွှင့်ပြီး sexy pose တွေနဲ့ ပိုက်ဆံရှာနေတဲ့ ဂျန်နာ ဆိုတဲ့ ကောင်မလေးတစ်ယောက်ဟာ…… ဖခင်ဖြစ်သူရဲ့ ဂရုစိုက်မှုကိုမရဘဲ ငွေကိုရေလိုသုံးပြီး ပျက်ဆီးနေတဲ့ ဘလိတ်ခ် ဆိုတဲ့ ကောင်မလေးနဲ့ အမှတ်မထင်ဆုံမိရာကနေ…….
+၁၈ ယောက်စုကြည့်ရမယ့်အခန်းတွေအများကြီးနဲ့မို့ ကြိုပြီးသတိပေးထားပါရစေ",
+"watch":"",
+"download":"https://www.mediafire.com/file/z71t4z7qh0pe52b/GirlsOnFilm.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BOWYzMmNkM2YtNDQxYS00ZWMzLTg2ODctY2NhZTJlZDFlMjA0XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BOWYzMmNkM2YtNDQxYS00ZWMzLTg2ODctY2NhZTJlZDFlMjA0XkEyXkFqcGdeQXVyMDc5ODIzMw@@._V1_FMjpg_UX1000_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
