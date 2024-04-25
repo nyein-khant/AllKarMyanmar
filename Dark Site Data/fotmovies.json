@@ -1,9 +1,4 @@
-[
-     {
-        "type": "Users Request Movies",
-   "movies": [
-           {
-  "movieName":"The Karate Kid",
+[{"movieName":"The Karate Kid",
     "img":"http://zegomovie.com/Uploads/vod/2019-06-17/5d07223f6e594.jpg",
     "downloadLink":"http://www.zegomovie.com/Videos/TheKarateKid/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/TheKarateKid/index.m3u8"
@@ -9059,7 +9054,4 @@
     "downloadLink":"http://www.zegomovie.com/Videos/SweetWhip/index.m3u8",
     "playLink": "http://www.zegomovie.com/Videos/SweetWhip/index.m3u8"
     
-  }
-        ]
-     }
-]
+  }]
