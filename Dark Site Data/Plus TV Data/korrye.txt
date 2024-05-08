@@ -5623,4 +5623,20 @@ Ataska Mercado နဲ့ Dyessa Garcia ဆိုတဲ့တက်သစ်စ V
 "photo5":"",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Janus Two Faces of Desire(2014)",
+"info":"18+မြန်မာစာတန်းထိုး
+အကဌာနရဲ့ကျောင်းသူဖြစ်တဲ့ဒါဟီးဟာ တစ်ခါမှ ရည်းစားမထားဖူးသလို ကောင်လေးတွေနဲ့လည်း တစ်ခါမှ အတူမနေဖူးပါဘူး ညတိုင်း ကြမ်းတမ်းလွန်းတဲ့ဆက်ဆံရေးတွေနဲ့ပတ်သက်ပြီး အိပ်မက်ဆိုးတွေ မက်လေ့ရှိပါတယ်
+စိတ်ကူးနဲ့လက်တွေ့ကို မခွဲခြားနိုင်တဲ့ ရောဂါလည်း ဖြစ်နေပြီးတော့ ရောဂါအကြောင်း ဘယ်သူ့ကိုမှ ပြောပြမထားပါဘူး
+သူမက အကဖျောဖြေပွဲရဲ့projectorလည်းဖြစ် စီနီယာရဲ့ခင်ပွန်းဖြစ်တဲ့ ဂုံဝူကို တစ်ဖတ်သက် ကြိုက်နေပြီး ဒီကိစ္စကြောင့်တော်တော်ခံစားနေရပါတယ်
+ရောဂါပျောက်ဖိုအတွက် ကုထုံးတွေလည်း လိုက်ရှာခဲ့ပြီးတော့ နောက်ဆုံးမှာတော့ သူအခုလိုခံစားနေရတာဟာ ငယ်ဘဝက စိတ်ဒဏ်ရာကြောင့်ဆိုတာ သိရပြီးအဲ့ဒီစိတ်ဒဏ်ရာကနေ လွတ်မြောက်အောင် ဘယ်လိုကြိုးစားသွားမလဲဆိုတာ ကြည့်လိုက်ကြပါဦးနော်",
+"watch":"",
+"download":"https://www.mediafire.com/file/kgphgwmwpa8o12s/Janus.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMjQyNzlkNzktNWExOS00NzVlLTgyZDUtOGZjZTIxY2E3OTYwXkEyXkFqcGdeQXVyNTI0Mzc3Ng@@._V1_FMjpg_UX1000_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BMjQyNzlkNzktNWExOS00NzVlLTgyZDUtOGZjZTIxY2E3OTYwXkEyXkFqcGdeQXVyNTI0Mzc3Ng@@._V1_FMjpg_UX1000_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
