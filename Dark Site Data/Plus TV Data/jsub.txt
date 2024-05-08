@@ -13651,4 +13651,141 @@ Emi sanကသူမရဲ့ အိမ်ခန်း‌လေးမှာသူ
 "photo5":"https://pics.dmm.co.jp/digital/video/dasd00710/dasd00710jp-2.jpg",
 "dapp":"https://www.mediafire.com/file/8j5fy82ygziblys/DASD-710hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"DASS 384 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ချိုမြိန်သော ဂလဲ့စား
+မာနကြီးတဲ့စော်လေးကို အရက်မူးနေတုန်းရှယ်တီးသွားတဲ့သူက ဘယ်သူဖြစ်မလဲ ဇာတ်လမ်းတွင်ကြည့်ရှုလိုက်ပါ
+မင်းသမီးနာမည် Ayaka Tomoda",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00384/dass00384hhb.m3u8",
+"download":"https://www.mediafire.com/file/uyop8kyzp5od6ez/Dass-384sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241804/1713501505.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00384/dass00384pl.jpg",
+"photo3":"https://i.imghippo.com/files/oEmxc1715102624.jpg",
+"photo4":"https://i.imghippo.com/files/Ljxja1715102640.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/dass00384/dass00384jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/60jyfg53ove9x9t/DASS-384hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"PFES 075 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ယောကျာ်းဖြစ်သူခရီးသွားလို့ မိန်းမတစ်ယောက်ဘဲအိမ်မှာကျန်ခဲ့ပါတယ်..
+တစ်နေ့ဝရန်တာမှာ အတွင်းခံတွေလှန်းနေရင်း အတွင်းခံတွေလျော့နေလို့ အောက်ကိုကြည့်လိုက်တော့ လူတစ်ယောက်အတွင်းခံခိုးနေတာတွေ့သွားပါတယ်... 
+ဘာတွေဆက်ဖြစ်မလဲ...
+မင်းသမီးနာမည်  Tsuno Miho",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/p/pfe/pfes075/pfes075hhb.mp4",
+"download":"https://www.mediafire.com/file/wjf6iyiqpjca6nf/Pfes-075sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241703/1711686474.jpg",
+"photo2":"https://cdn.javsts.com/wp-content/uploads/2024/03/pfes075pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P13/main/AddText_05-03-08.48.27.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P13/main/IMG_20240503_204216.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/P13/main/IMG_20240503_204013.jpg",
+"dapp":"https://www.mediafire.com/file/ex3fp3m540qp6t1/PFES-075hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SAME 058 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အတိတ်က မဒိန်းကျင့်ခံထားရတာကြောင့် စိတ်ဒဏ်ရာဖြစ်နေတဲ့ ဟီကာရီကို ဆရာဖြစ်သူ ဆူဇူကီက ဂရုစိုက်ပြုစုပေးပါတယ်..
+ဟီကာရီလည်းဆရာကြောင့် နည်းနည်းပြန်ကောင်းလာပြီ အိမ်ကို ထမင်းလာစားဖို့ဖိတ်လိုက်ပါတယ်...
+ဘာတွေဆက်ဖြစ်မလဲ.....
+မင်းသမီးနာမည် Hikari Ninomiya",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/sam/same00058/playlist.m3u8",
+"download":"https://www.mediafire.com/file/l17yj0oatobf5v0/Same-058sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20230207/1691111566.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/same00058/same00058pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/same00058/same00058jp-8.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p13/main/IMG_20240501_202520.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p13/main/IMG_20240501_202429.jpg",
+"dapp":"https://www.mediafire.com/file/ftwozr4c7xiol28/SAME-058hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD 685 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဒီတခါတင်ဆက်ပေးမဲ့ မင်းသမီးလေးကတော့ မျက်နှာထားယဉ်ယဉ်လေးနဲ့ ခန္ဓကိုယ်အချိုးအစားမကြီးလွန်း မသေးလွန်းတဲ့ Aika Yumeno ပဲဖြစ်ပါတယ်
+ဇာတ်ကားလေးထဲမှာတော့ သူက မရီးနေရာကနေ မတ်လေးကို အတတ်ကောင်းလေးတွေသင်ကြားပေးတဲ့ပုံစံလေး သရုပ်ဆောင်ထားတာပါ…
+မင်းသမီးနာမည် Aika Yumeno",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/m/mey/meyd00685/meyd00685_mhb_w.m3u8",
+"download":"https://www.mediafire.com/file/w5mto667tp55s6d/Meyd-685sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241901/1706409523.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00685/meyd00685pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/meyd00685/meyd00685jp-8.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/meyd00685/meyd00685jp-10.jpg",
+"photo5":"https://raw.githubusercontent.com/minimyanmar/p13/main/IMG_20240504_214902.jpg",
+"dapp":"https://www.mediafire.com/file/fz26hybk6hxi0xq/MEYD-685hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"MEYD 134 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ခင်ပွန်းဖြစ်သူဖောက်ပြန်တာကိုသိသွားလို့ ဝမ်းနည်းနေတဲ့ဇနီးကို အခွင့်အရေးယူပီးရှယ်တီးသွားတဲ့ ဦးလေးကြီးက ဘယ်သူဖြစ်မလဲ....
+ဇာတ်လမ်းတွင် ကြည့်ရှုလိုက်ပါ..
+မင်းသမီးနာမည် Meguri (Megu Fujiura)",
+"watch":"https://cc3001.dmm.co.jp/litevideo/freepv/m/mey/meyd00134/meyd00134_dmb_w.mp4",
+"download":"https://www.mediafire.com/file/lpkta4h3a5tf276/Meyd-134sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20221202/1645060446.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/meyd00134/meyd00134pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/P13/main/IMG_20240505_195935.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/P13/main/IMG_20240505_200207.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/meyd00134/meyd00134jp-1.jpg",
+"dapp":"https://www.mediafire.com/file/dxcjyfj7sou9876/MEYD-134hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"HMN 545 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အဖိုးကြီးက အရမ်းကြွေရတဲ့ကောင်မလေးအတွက် ပိုက်ဆံအကုန်ခံ ပိုးပန်းလက်ဆောင်တွေပေးပေမယ့် ကောင်မလေးက ပိုးစိုးပက်စက် ငြင်းခဲ့ပြီးရှောင်ပြေးသွားပါ‌တော့တယ်
+ဒီလိုနဲ့အကြာကြီးနေတော့ သူ့သားကလက်ထပ်မယ့်မိန်းကလေးဆိုပီး ခေါ်လာတဲ့ကောင်မလေးက သူအရမ်းကြိုက်ရတဲ့ကောင်မလေးဖြစ်နေတဲ့အခါ ....
+မင်းသမီးနာမည် Mina Kitano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/j/jul/jul00975/jul00975_mhb_w.m3u8",
+"download":"https://www.mediafire.com/file/yizj2gz5eo5oxg4/Hmn-545sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241804/1713408974.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/hmn00545/hmn00545pl.jpg",
+"photo3":"https://i.imghippo.com/files/NbeNM1715187654.jpg",
+"photo4":"https://i.imghippo.com/files/u5s9O1715187680.jpg",
+"photo5":"https://i.imghippo.com/files/Tl1Sv1715187667.jpg",
+"dapp":"https://www.mediafire.com/file/epxkne6arjhwe5c/HMN-545hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"IPZZ 259 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မိမိရဲ့လုပ်ဖော်ကိုင်ဖက်အပေါ် ကူညီရိုင်းပင်းတတ်တဲ့ ကောင်မလေးတစ်ယောက်ဟာ အလုပ်ကိစ္စနဲ့ခရီးထွက်လာရင်းမုန်တိုင်းမိကာ တည်းခိုခန်းတစ်ခန်းထဲမှာ လူပျိုလေးတစ်ယောက်နဲ့ အတူတည်းမိရာကနေ ပေးဆပ်လိုက်ရတဲ့ ဇာတ်လမ်းလေးပါ
+မင်းသမီးလှချက်က နတ်သမီးနဲ့တောင်မှားတယ်ဗျာ
+မင်းသမီးနာမည် Noa Mizuiro",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/i/ipz/ipzz00259/ipzz00259hhb.m3u8",
+"download":"https://www.mediafire.com/file/y598tb6krf7zm6w/Ipzz-259sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241703/1712542901.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/ipzz00259/ipzz00259pl.jpg",
+"photo3":"https://raw.githubusercontent.com/minimyanmar/p13/main/AddText_05-02-08.21.57.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/ipzz00259/ipzz00259jp-5.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/ipzz00259/ipzz00259jp-3.jpg",
+"dapp":"https://www.mediafire.com/file/z0fcakahgapid9c/IPZZ-259hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"FSDSS 518 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+ဇာတ်လမ်းလေးထဲမှာတော့ စတိုးဆိုင်မှာအလုပ်လုပ်နေတဲ့
+ကလေးမက လူငယ်သဘာဝချစ်သူနဲ့ မူစကူဒူးတယ်
+အဲ့ဒါကို သူ့ကောင်လေးပစ္စည်းကို မကျေနပ်လို့ လိုင်းပေါ်က ပုံမှန်ဆိုဒ်ဆိုတာကို ရှာကြည့်ပြီးတော့ ဂျာကြီးရဲ့ပစ္စည်းက စံချိန်လွန်ဖြစ်နေတာကိုသိသွားတဲ့အခါ....
+မင်းသမီးနာမည် Yume Nikaido",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/1/1fs/1fsdss518/playlist.m3u8",
+"download":"https://www.mediafire.com/file/nfqjjvcptqq0ust/Fsdss-518sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20222410/1668963801.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/1fsdss00518/1fsdss00518pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/1fsdss00518/1fsdss00518jp-1.jpg",
+"photo4":"https://raw.githubusercontent.com/minimyanmar/p13/main/IMG_20240501_173629.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/1fsdss00518/1fsdss00518jp-7.jpg",
+"dapp":"https://www.mediafire.com/file/pyk49jsfna1ne3g/fsdss-518hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"SONE 117 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+အိမ်ပြန်ဖို့ နောက်ဆုံးရထားမမှီတော့လို့ အချိန်ပိုင်းအလုပ်က လှပတဲ့မန်နေဂျာအစ်မကြီးရဲ့အိမ်ကို လိုက်သွားမိရာကနေ...
+မင်းသမီးနာမည် Mei Washio",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/son/sone00117/playlist.m3u8",
+"download":"https://www.mediafire.com/file/6vent5nu5mx7swj/Sone-117sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241703/1711076808.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/sone00117/sone00117pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/sone00117/sone00117jp-1.jpg",
+"photo4":"https://pics.dmm.co.jp/digital/video/sone00117/sone00117jp-3.jpg",
+"photo5":"https://pics.dmm.co.jp/digital/video/sone00117/sone00117jp-9.jpg",
+"dapp":"https://www.mediafire.com/file/jbcey7it75tejpd/SONE-117hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
