@@ -5639,4 +5639,32 @@ Ataska Mercado နဲ့ Dyessa Garcia ဆိုတဲ့တက်သစ်စ V
 "photo5":"",
 "dapp":"t",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"Late Bloomer (2024)",
+"info":"18+မြန်မာစာတန်းထိုး
+သရိစ်နဲ့မက်ဒီတို့ဟာ အချစ်ဆုံးသူငယ်ချင်းတွေဖြစ်ပြီး မကြာသေးခင်ကမှ သရိစ်ဟာ သွေးကင်ဆာ ဖြစ်လာနိုင်တဲ့ ရောဂါလက္ခဏာစုတစ်ခုကိုခံစားနေကြောင်းသိရှိထားရပါတယ်။အချစ်ရေးရော ကျန်းမာရေးမှာပါ ကံမကောင်းရှာတဲ့ သူငယ်ချင်းဖြစ်သူကိုစောင့်ရှောက်ရင်းအချိန်ကုန်တာတွေများလာတဲ့နောက် မက်ဒီရဲ့ချစ်သူက ငြိုငြင်စပြုလာပါတယ်။
+သရိစ်ကတော့ ကျန်နေသေးတဲ့ကာလတွေမှာ ဘ၀ကိုပျော်ပျော်နေရင်းဖြတ်သန်းဖို့အတွက် အရင်တုန်းကမတွေ့ကြုံခဲ့ရတဲ့ အသစ်အဆန်းတွေခံစားဖို့တစ်ယောက်ပြီးတစ်ယောက်နဲ့ဒိတ်ရင်း သာယာမှုကို ရှာဖွေရင်း သူနဲ့မက်ဒီကြားက သူတို့ကိုယ်တိုင်မသိခဲ့တဲ့ခံစားချက်တွေကိုသဘောပေါက်လာတဲ့အခါမှာတော့",
+"watch":"",
+"download":"https://www.mediafire.com/file/mfthw17sd5znsbq/Late.Bloomer.2024.720p.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BYzYxYjYwYjktYzRhYy00YzFiLWEwZWQtN2U4OGMzMTE4OTRhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BYzYxYjYwYjktYzRhYy00YzFiLWEwZWQtN2U4OGMzMTE4OTRhXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"Lady Guard (2024)",
+"info":"18+မြန်မာစာတန်းထိုး
+ပစ္စည်းသယ်ယူပို့ဆောင်ရေးကုမ္ပဏီတစ်ခုရဲ့ဂိုထောင်မှာလုံခြုံရေးအစောင့်အဖြစ်လုပ်ကိုင်နေတဲ့ အက်စ်တဲလ်ဟာ အထက်လူကြီးဂျာနပ်စ်ကို ကောင်းကောင်းကြိုးကိုင်ခြယ်လှယ်နိုင်သလို အောက်ခြေဝန်ထမ်းတွေကိုလည်း ချော့တခါခြောက်တလှည့်နဲ့ပါးနပ်စွာကိုင်တွယ်ထားနိုင်ပါတယ်။တကယ်တမ်း သူတို့အလုပ်ရဲ့အဓိကဝင်ငွေလမ်းကြောင်းက ဂိုထောင်မှာညဘက်လောင်းကစားဝိုင်းထောင်ပြီးအကောက်ကောက်တာဖြစ်ပါတယ်။
+ငွေရေးကြေးရေးရော၊ သွေးသား အာသီသဘက်မှာပါဖြောင့်ဖြူးနေတဲ့အက်စ်တဲလ်ရဲ့ဘ၀ဟာ သူ့ထက်ပိုတောင့် ပိုကိတ်တဲ့ မာရယ်လ်ဆိုတဲ့ ကောင်မလေးတစ်ယောက် သူတို့အလုပ်ကို ဝင်ရောက်လာတဲ့အချိန်မှ အပြောင်းအလဲတွေကြုံရဖို့ဖြစ်လာပါတော့တယ်။",
+"watch":"",
+"download":"https://www.mediafire.com/file/r5s85h4dd8kwpte/Lady_Guard_2024_1080p.mp4/file",
+"photo1":"https://m.media-amazon.com/images/M/MV5BMjAzYzI4NmUtMWMzMC00ZTdjLWI3MjEtOGYzMjQ3OGQ2ZmZmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo2":"https://m.media-amazon.com/images/M/MV5BMjAzYzI4NmUtMWMzMC00ZTdjLWI3MjEtOGYzMjQ3OGQ2ZmZmXkEyXkFqcGdeQXVyNTI5NjIyMw@@._V1_.jpg",
+"photo3":"",
+"photo4":"",
+"photo5":"",
+"dapp":"t",
+"candownload":"",
 "wcode":"တစ်"}]
