@@ -13788,4 +13788,34 @@ Emi sanကသူမရဲ့ အိမ်ခန်း‌လေးမှာသူ
 "photo5":"https://pics.dmm.co.jp/digital/video/sone00117/sone00117jp-9.jpg",
 "dapp":"https://www.mediafire.com/file/jbcey7it75tejpd/SONE-117hd.mp4/file",
 "candownload":"",
+"wcode":"တစ်"},
+{"name":"SONE 127 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+မောင်ဇော်ရဲ့ ကောင်မလေးမှာ အရမ်းလှတဲ့ညီမလေး တစ်ယောက်ရှိပါတယ်
+ကောင်မလေးရဲ့ တောင်းဆိုမှုကြောင့် ညီမလေးဖြစ်သူကို စာသင် ဂိုက်လုပ်ပေးရာကနေ ညီမလေးရဲ့ရှယ်အိုးကြီးကို ဘယ်လိုဖြိုမလဲဆိုတာ...
+မင်းသမီးနာမည် Kokoro Asano",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/s/son/sone00127/sone00127hhb.m3u8",
+"download":"https://www.mediafire.com/file/neg1kknps0hwsx6/SONE-127sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241703/1711333798.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/sone00127/sone00127pl.jpg",
+"photo3":"https://i.imghippo.com/files/qX0WI1715269552.jpg",
+"photo4":"https://i.imghippo.com/files/NCOt11715269568.jpg",
+"photo5":"https://i.imghippo.com/files/OcXjm1715269585.jpg",
+"dapp":"https://www.mediafire.com/file/g29ojb85bvf4c3i/SONE-127hd.mp4/file",
+"candownload":"",
+"wcode":"တစ်"},
+{"name":"DASS 360 mmsub",
+"info":"မြန်မာစာတန်းထိုး
+သားဖြစ်သူအရမ်းထန်နေလို့ သူငယ်ချင်းကို အကူအညီတောင်းရတဲ့ဇာတ်လမ်းလေးပါ..
+သားနဲ့ သူငယ်ချင်း ဘယ်သူပိုကြမ်းလဲဆိုတာ ...
+မင်းသမီးနာမည် Meari Tachibana",
+"watch":"https://cc3001.dmm.co.jp/hlsvideo/freepv/d/das/dass00360/dass00360hhb.m3u8",
+"download":"https://www.mediafire.com/file/of2nd144d5564j0/Dass-360sd.mp4/file",
+"photo1":"https://pic.javct.net/poster/20241703/1711504503.jpg",
+"photo2":"https://pics.dmm.co.jp/digital/video/dass00360/dass00360pl.jpg",
+"photo3":"https://pics.dmm.co.jp/digital/video/dass00360/dass00360jp-1.jpg",
+"photo4":"https://i.imghippo.com/files/KbdOM1715360063.jpg",
+"photo5":"https://i.imghippo.com/files/fJVLF1715360029.jpg",
+"dapp":"https://www.mediafire.com/file/leb03azkwrg6bvx/DASS-360hd.mp4/file",
+"candownload":"",
 "wcode":"တစ်"}]
