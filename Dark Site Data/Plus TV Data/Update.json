@@ -1,21 +1,20 @@
 {
 
-  "Visibility": "VISIBLE",
+  "Visibility": "GONE",
 
   "Title": "New Update",
 
-  "Description": "Update 9.0 version အောက်က Website ကနေသွားပြီးဒေါင်းလိုက်ပါ။
-  ADM ကိုအားပေးချင်ရင် telegram Vip 11 ခုလာဝင်လိူ့ရတယ်နော် 3000 ပါဗျ။
+  "Description": "Update 30.0 version အောက်က Website ကနေသွားပြီးဒေါင်းလိုက်ပါ။
   ",
   "MainTextButton": "Website Link",
 
   "Cancelable": "false",
   "CancelButtonText": "Direct Link",
 
-  "DirectLink" : "https://darknesspro.xyz/",
+  "DirectLink" : "https://www.mediafire.com/file/f3uqd7h0n9uerce/Zkar+MM_30.0.apk/file",
 
-  "DownloadLink": "https://darknesspro.xyz/",
+  "DownloadLink": "https://www.mediafire.com/file/f3uqd7h0n9uerce/Zkar+MM_30.0.apk/file",
 
-  "Version": "8.6"
+  "Version": "30.0"
 
 }
