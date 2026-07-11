@@ -8,7 +8,7 @@
   ",
   "MainTextButton": "Website Link",
 
-  "Cancelable": "true",
+  "Cancelable": "false",
   "CancelButtonText": "Direct Link",
 
   "DirectLink" : "https://www.mediafire.com/file/f3uqd7h0n9uerce/Zkar+MM_30.0.apk/file",
